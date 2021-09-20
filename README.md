@@ -4,9 +4,9 @@ The _Australian Shark-Incident Database_ (ASID) for quantifying temporal and spa
 
 This is a joint project between <a href="http://www.flinders.edu.au">Flinders University</a>, the <a href="https://taronga.org.au/education/taronga-institute-of-science-and-learning">Taronga Institute of Science and Learning, Taronga Conservation Society Australia</a>, and the <a href="https://www.dpi.nsw.gov.au">New South Wales Department of Primary Industries</a>
 
-Principal contact:
-Madeline Riley (née Thiele)<br>
-Flinders University
+Principal contact:<br>
+<strong>Madeline Riley</strong> (née Thiele)<br>
+Flinders University<br>
 <a href="mailto:madeline.thiele@flinders.edu.au">e-mail</a>
 
 Accompanies paper submitted to _Scientific Data_:
