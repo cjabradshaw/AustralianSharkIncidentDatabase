@@ -8,7 +8,7 @@ Accompanies paper submitted to _Scientific Data_:
 
 <a href="https://www.linkedin.com/in/madeline-thiele-7704b614a/">MJ Riley</a>, <a href="https://www.flinders.edu.au/people/charlie.huveneers">C Huveneers</a>, <a href="https://www.linkedin.com/in/david-slip-b539804b/?originalSubdomain=au">D Slip</a>, <a href="https://taronga.org.au/conservation-and-science/our-team">J West</a>, J Leto, <a href="https://www.linkedin.com/in/phoebe-meagher-471979133/?originalSubdomain=au">P Meagher</a>, <a href="https://www.dpi.nsw.gov.au/about-us/research-development/staff/staff-profiles/vic-peddemors">VM Peddemors</a>, <a href="http://www.flinders.edu.au/people/corey.bradshaw">CJA Bradshaw</a>. In review. Data Descriptor: the Australian Shark-Incident Database for quantifying temporal and spatial patterns of shark-human conflict. _Scientific Data_
 
-The Excel workbook 'Australian Shark-Incident Database_Public.xlsx' contains the living file that will be updated regularly by collaborators. The column descriptors are as follows:
+The Excel workbook '<strong>Australian Shark-Incident Database_Public Version.xlsx</strong>' contains the living file that will be updated regularly by collaborators. The column descriptors are as follows:
 
 - <strong>ISAF.no</strong>: <em>reference number in International Shark Attack File</em> (numeric)
 - <strong>Details.of.person.completing.form</strong>: <em>name, date, phone and email address of person filling out questionnaire</em> (descriptive)
