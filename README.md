@@ -15,7 +15,7 @@ Accompanies paper submitted to _Scientific Data_:
 
 The Excel workbook '<strong>Australian Shark-Incident Database_Public Version.xlsx</strong>' contains the living file that will be updated regularly by collaborators. The column descriptors are as follows:
 
-- <strong>ISAF.no</strong>: <em>reference number in International Shark Attack File</em> (numeric)
+- <strong>ISAF.no</strong>: <em>reference number in the <a href="https://www.floridamuseum.ufl.edu/shark-attacks/">International Shark Attack File</a></em> (numeric)
 - <strong>Details.of.person.completing.form</strong>: <em>name, date, phone and email address of person filling out questionnaire</em> (descriptive)
 - <strong>Incident.month</strong>: 
 - <strong>Incident.year</strong>: 
