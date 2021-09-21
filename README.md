@@ -19,7 +19,7 @@ The Excel workbook '<strong>Australian Shark-Incident Database_Public Version.xl
 
 - <strong>ISAF.no</strong>: <em>reference number in the <a href="https://www.floridamuseum.ufl.edu/shark-attacks/">International Shark Attack File</a></em> (numeric)
 - <strong>Details.of.person.completing.form</strong>: <em>name, date, phone and email address of person filling out questionnaire</em> (descriptive)
-- <strong>Incident.month</strong>: 
+- <strong>Incident.month</strong>: <em>month of year</em> (numeric, integer)
 - <strong>Incident.year</strong>: 
 - <strong>Victim.injury</strong>: 
 - <strong>State</strong>: 
