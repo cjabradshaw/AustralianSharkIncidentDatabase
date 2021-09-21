@@ -118,4 +118,5 @@ The Excel workbook '<strong>Australian Shark-Incident Database_Public Version.xl
 
 <a href="https://globalecologyflinders.com"><img align="right" src="GEL Logo Kaurna transparent.png" alt="GEL logo" width="100" style="margin-top: 20px"></a>
 <a href="https://twitter.com/SouthernSharkEG"><img align="left" src="SSEG.png" alt="SSEG logo" width="100" style="margin-top: 20px"></a>
+<a href="https://taronga.org.au"><img align="center" src="tcsa.png" alt="SSEG logo" width="100" style="margin-top: 20px"></a>
 
