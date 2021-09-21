@@ -116,5 +116,5 @@ The Excel workbook '<strong>Australian Shark-Incident Database_Public Version.xl
 - Coppleson V. 1933. <a href="http://dx.doi.org/10.5694/j.1326-5377.1933.tb75492.x">Shark attacks in Australian waters</a>. <em>Medical Journal of Australia</em> 1:449-467
 - West JG. 2011. <a href="http://dx.doi.org/10.1071/MF10181">Changing patterns of shark attacks in Australian waters</a>. <em>Marine and Freshwater Research</em> 62:744-754
 
-<img align="right" src="GEL Logo Kaurna transparent.png" alt="GEL logo" width="400" style="margin-top: 20px">
+<img align="right" src="GEL Logo Kaurna transparent.png" alt="GEL logo" width="100" style="margin-top: 20px">
 
