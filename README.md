@@ -18,7 +18,7 @@ Accompanies paper submitted to <em>Scientific Data</em>:
 <a href="https://www.linkedin.com/in/madeline-thiele-7704b614a/">MJ Riley</a>, <a href="https://www.flinders.edu.au/people/charlie.huveneers">C Huveneers</a>, <a href="https://www.linkedin.com/in/david-slip-b539804b/?originalSubdomain=au">D Slip</a>, <a href="https://taronga.org.au/conservation-and-science/our-team">J West</a>, J Leto, <a href="https://www.linkedin.com/in/phoebe-meagher-471979133/?originalSubdomain=au">P Meagher</a>, <a href="https://www.dpi.nsw.gov.au/about-us/research-development/staff/staff-profiles/vic-peddemors">VM Peddemors</a>, <a href="https://globalecologyflinders.com/people/">CJA Bradshaw</a>. In review. Data Descriptor: the Australian Shark-Incident Database for quantifying temporal and spatial patterns of shark-human conflict. <em>Scientific Data</em>
 
 ## Code
-The R code provided <code>Australian Shark-Incident Database code.R</code> recreates plots from the paper
+The R code provided <code><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/18224b63ad4bcc3ae1bb6d90113f844b8e6657e1/Australian%20Shark-Incident%20Database%20code.R">Australian Shark-Incident Database code.R</a></code> recreates plots from the paper
 <br>
 <br>
 Associated data files (available in the <strong><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/tree/main/data">data</a></strong> subfolder) include:
