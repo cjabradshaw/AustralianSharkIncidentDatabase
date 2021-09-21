@@ -80,3 +80,6 @@ The Excel workbook '<strong>Australian Shark-Incident Database_Public Version.xl
 - <strong>	Deterrent.brand.and.type</strong>: <em>	if deterrent/repellent used, brand, make, model, and whether was in effect/switched on/off	</em>	(descriptive)
 - <strong>	Data.source</strong>: <em>	information used to compile this record; selected categories should be direct account from source (e.g., victim interview in newspaper article should be categorised as media outlet not victim account); categories: ASID questionnaire, other questionnaire (specify in brackets), victim account, witness account, other person account, government report, expert (e.g., researcher, medical professional), book, media outlet, footage, other; if multiple categories relevant then separate by comma; if other write: other: detail	</em>	(categorical)
 - <strong>	Reference</strong>: <em>	reference for data source if applicable, e.g., newspaper publication title and date	</em>	(descriptive)
+
+## Relevant References
+- Bradshaw, CJA, P Meagher, MJ Thiele, RG Harcourt, C Huveneers. 2021. <a href="https://doi.org/10.1098/rsos.201197">Predicting potential future reduction in shark bites on people</a>. <em>Royal Society Open Science</em> 8: 201197
