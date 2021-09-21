@@ -10,8 +10,8 @@ This is a joint project between the <a href="https://taronga.org.au/education/ta
 Principal contacts:<br>
 <br>
 - <strong>Phoebe Meagher</strong>, Taronga Conservation Society Australia, <a href="mailto:tzpr@zoo.nsw.gov.au">e-mail</a>
-- <strong>Madeline Riley</strong> (née Thiele), Flinders University, <a href="mailto:madeline.thiele@flinders.edu.au">e-mail</a>
 <br>
+- <strong>Madeline Riley</strong> (née Thiele), Flinders University, <a href="mailto:madeline.thiele@flinders.edu.au">e-mail</a>
 <br>
 Accompanies paper submitted to <em>Scientific Data</em>:
 
