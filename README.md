@@ -8,7 +8,8 @@ This is a joint project between <a href="http://www.flinders.edu.au">Flinders Un
 <br>
 <br>
 Principal contacts:<br>
-<strong>Madeline Riley</strong> (née Thiele), Flinders University, <a href="mailto:madeline.thiele@flinders.edu.au">e-mail</a>
+- <strong>Madeline Riley</strong> (née Thiele), Flinders University, <a href="mailto:madeline.thiele@flinders.edu.au">e-mail</a>
+- <strong>Phoebe Meagher</strong>, Taronga Conservation Society Australia, <a href="mailto:tzpr@zoo.nsw.gov.au">e-mail</a>
 <br>
 <br>
 Accompanies paper submitted to <em>Scientific Data</em>:
