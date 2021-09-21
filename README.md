@@ -21,7 +21,7 @@ Accompanies paper submitted to <em>Scientific Data</em>:
 The R code provided <code>Australian Shark-Incident Database code.R</code> recreates plots from the paper
 <br>
 <br>
-Associated files include:
+Associated data files (available in the <strong>data</strong> subfolder) include:
 - <em>ASID r version.csv</em>
 - <em>ASID_injury_prop.csv</em>
 - <em>tod.ts.csv</em>
