@@ -30,6 +30,22 @@ Associated files include:
 - <em>'top.sharks.csv'</em>
 - <em>'total.bites.csv'</em>
 
+### Requires the following R libraries
+- <code>magrittr</code>
+- <code>ggplot2</code>
+- <code>dplyr</code>
+- <code>forcats</code>
+- <code>leaflet</code>
+- <code>viridis</code>
+- <code>scales</code>
+- <code>ggmap</code>
+- <code>gridExtra</code>
+- <code>rgdal</code>
+- <code>magrittr</code>
+- <code>tibble</code>
+- <code>ozmaps</code>
+- <code>ggpubr</code>
+
 ## The Database
 The Excel workbook '<strong>Australian Shark-Incident Database_Public Version.xlsx</strong>' contains the living file that will be updated regularly by collaborators. Note that some information has been removed from the public version of ASID to protect the privacy of relevant persons involved. The column descriptors are as follows:
 
