@@ -47,7 +47,7 @@ Associated data files (available in the <strong><a href="https://github.com/cjab
 - <code>ggpubr</code>
 
 ## The Database
-The Excel workbook '<strong><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/Australian%20Shark-Incident%20Database_Public%20Version.xlsx">Australian Shark-Incident Database_Public Version.xlsx</a></strong>' contains the living file that will be updated regularly by collaborators. Note that some information has been removed from the public version of ASID to protect the privacy of relevant persons involved. The column descriptors are as follows:
+The Excel workbook '<strong><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/cc136a8257c7d28d700686cc2c0dbf9d59ea9c4a/Australian%20Shark-Incident%20Database_Public%20Version.xlsx">Australian Shark-Incident Database_Public Version.xlsx</a></strong>' contains the living file that will be updated regularly by collaborators. Note that some information has been removed from the public version of ASID to protect the privacy of relevant persons involved. The column descriptors are as follows:
 
 
 - <strong>	Incident.month</strong>: <em>	month of year	</em>	(numeric, integer)
