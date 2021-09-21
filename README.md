@@ -118,6 +118,6 @@ The Excel workbook '<strong>Australian Shark-Incident Database_Public Version.xl
 
 <a href="https://taronga.org.au"><img align="left" src="tcsa.png" alt="TCSA logo" width="100" style="margin-top: 20px"></a>
 <a href="https://globalecologyflinders.com"><img align="left" src="GEL Logo Kaurna transparent.png" alt="GEL logo" width="100" style="margin-top: 20px"></a>
-<a href="https://twitter.com/SouthernSharkEG"><img align="left" src="SSEG.png" alt="SSEG logo" width="100" style="margin-top: 20px"></a>
-<a href="https://www.dpi.nsw.gov.au"><img align="center" src="NSWDPI.png" alt="NSW DPI logo" width="150" style="margin-top: 20px"></a>
+<a href="https://twitter.com/SouthernSharkEG"><img align="left" src="SSEG.png" alt="SSEG logo" width="150" style="margin-top: 20px"></a>
+<a href="https://www.dpi.nsw.gov.au"><img align="center" src="NSWDPI.png" alt="NSW DPI logo" width="200" style="margin-top: 20px"></a>
 
