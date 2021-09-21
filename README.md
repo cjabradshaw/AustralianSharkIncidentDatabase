@@ -17,6 +17,18 @@ Accompanies paper submitted to <em>Scientific Data</em>:
 
 <a href="https://www.linkedin.com/in/madeline-thiele-7704b614a/">MJ Riley</a>, <a href="https://www.flinders.edu.au/people/charlie.huveneers">C Huveneers</a>, <a href="https://www.linkedin.com/in/david-slip-b539804b/?originalSubdomain=au">D Slip</a>, <a href="https://taronga.org.au/conservation-and-science/our-team">J West</a>, J Leto, <a href="https://www.linkedin.com/in/phoebe-meagher-471979133/?originalSubdomain=au">P Meagher</a>, <a href="https://www.dpi.nsw.gov.au/about-us/research-development/staff/staff-profiles/vic-peddemors">VM Peddemors</a>, <a href="http://www.flinders.edu.au/people/corey.bradshaw">CJA Bradshaw</a>. In review. Data Descriptor: the Australian Shark-Incident Database for quantifying temporal and spatial patterns of shark-human conflict. _Scientific Data_
 
+
+R code is provided to recreate plots from the paper. Code is found <em>under Australian Shark-Incident Database code.R</em>
+
+Associate files include:
+- <em>ASID r version.csv</em>
+- <em>ASID_injury_prop.csv</em>
+- <em>tod.ts.csv</em>
+- <em>tod.ws.csv</em>
+- <em>top.3.csv</em>
+- <em>top.sharks.csv</em>
+- <em>total.bites.csv</em>
+
 ## The Database
 The Excel workbook '<strong>Australian Shark-Incident Database_Public Version.xlsx</strong>' contains the living file that will be updated regularly by collaborators. Note that some information has been removed from the public version of ASID to protect the privacy of relevant persons involved. The column descriptors are as follows:
 
