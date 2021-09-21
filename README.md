@@ -2,7 +2,8 @@
 
 <img align="right" src="ASIDlogo2.png" alt="ASID logo" width="400" style="margin-top: 20px">
 The <em><strong>Australian Shark-Incident Database</strong></em> (ASID), formerly known as the <em><strong><a href="https://taronga.org.au/conservation-and-science/australian-shark-attack-file">Australian Shark Attack File</a></strong></em> (ASAF), quantifies temporal and spatial patterns of shark-human conflict in Australia.
-
+<br>
+<br>
 This is a joint project between <a href="http://www.flinders.edu.au">Flinders University</a>, the <a href="https://taronga.org.au/education/taronga-institute-of-science-and-learning">Taronga Institute of Science and Learning, Taronga Conservation Society Australia</a>, and the <a href="https://www.dpi.nsw.gov.au">New South Wales Department of Primary Industries</a>
 <br>
 <br>
