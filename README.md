@@ -21,7 +21,7 @@ Accompanies paper submitted to <em>Scientific Data</em>:
 The R code provided <code>Australian Shark-Incident Database code.R</code> recreates plots from the paper
 <br>
 <br>
-Associated data files (available in the <strong>data</strong> subfolder) include:
+Associated data files (available in the <strong><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/tree/main/data">data</a></strong> subfolder) include:
 - <em>ASID r version.csv</em>
 - <em>ASID_injury_prop.csv</em>
 - <em>tod.ts.csv</em>
@@ -30,7 +30,7 @@ Associated data files (available in the <strong>data</strong> subfolder) include
 - <em>top.sharks.csv</em>
 - <em>total.bites.csv</em>
 
-### Requires the following R libraries
+### Requires the following R libraries (available on the <a href="https://cran.r-project.org">CRAN</a>)
 - <code>magrittr</code>
 - <code>ggplot2</code>
 - <code>dplyr</code>
