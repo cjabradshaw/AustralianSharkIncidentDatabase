@@ -116,8 +116,8 @@ The Excel workbook '<strong>Australian Shark-Incident Database_Public Version.xl
 - Coppleson V. 1933. <a href="http://dx.doi.org/10.5694/j.1326-5377.1933.tb75492.x">Shark attacks in Australian waters</a>. <em>Medical Journal of Australia</em> 1:449-467
 - West JG. 2011. <a href="http://dx.doi.org/10.1071/MF10181">Changing patterns of shark attacks in Australian waters</a>. <em>Marine and Freshwater Research</em> 62:744-754
 
-<a href="https://taronga.org.au"><img align="bottom-left" src="tcsa.png" alt="TCSA logo" width="100" style="margin-top: 20px"></a>
-<a href="https://globalecologyflinders.com"><img align="bottom-left" src="GEL Logo Kaurna transparent.png" alt="GEL logo" width="100" style="margin-top: 20px"></a>
-<a href="https://twitter.com/SouthernSharkEG"><img align="bottom-left" src="SSEG.png" alt="SSEG logo" width="150" style="margin-top: 20px"></a>
-<a href="https://www.dpi.nsw.gov.au"><img align="bottom-center" src="NSWDPI.png" alt="NSW DPI logo" width="200" style="margin-top: 50px"></a>
+<a href="https://taronga.org.au"><img align="bottom-left" src="www/tcsa.png" alt="TCSA logo" width="100" style="margin-top: 20px"></a>
+<a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna transparent.png" alt="GEL logo" width="100" style="margin-top: 20px"></a>
+<a href="https://twitter.com/SouthernSharkEG"><img align="bottom-left" src="www/SSEG.png" alt="SSEG logo" width="150" style="margin-top: 20px"></a>
+<a href="https://www.dpi.nsw.gov.au"><img align="bottom-center" src="www/NSWDPI.png" alt="NSW DPI logo" width="200" style="margin-top: 50px"></a>
 
