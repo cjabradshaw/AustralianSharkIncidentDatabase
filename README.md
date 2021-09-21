@@ -18,17 +18,17 @@ Accompanies paper submitted to <em>Scientific Data</em>:
 <a href="https://www.linkedin.com/in/madeline-thiele-7704b614a/">MJ Riley</a>, <a href="https://www.flinders.edu.au/people/charlie.huveneers">C Huveneers</a>, <a href="https://www.linkedin.com/in/david-slip-b539804b/?originalSubdomain=au">D Slip</a>, <a href="https://taronga.org.au/conservation-and-science/our-team">J West</a>, J Leto, <a href="https://www.linkedin.com/in/phoebe-meagher-471979133/?originalSubdomain=au">P Meagher</a>, <a href="https://www.dpi.nsw.gov.au/about-us/research-development/staff/staff-profiles/vic-peddemors">VM Peddemors</a>, <a href="http://www.flinders.edu.au/people/corey.bradshaw">CJA Bradshaw</a>. In review. Data Descriptor: the Australian Shark-Incident Database for quantifying temporal and spatial patterns of shark-human conflict. _Scientific Data_
 
 ## Code
-The R code provided ('<em>under Australian Shark-Incident Database code.R</em>') recreates plots from the paper
+The R code provided (<code>Australian Shark-Incident Database code.R</code>) recreates plots from the paper
 <br>
 <br>
 Associated files include:
-- <em>'ASID r version.csv'</em>
-- <em>'ASID_injury_prop.csv'</em>
-- <em>'tod.ts.csv'</em>
-- <em>'tod.ws.csv'</em>
-- <em>'top.3.csv'</em>
-- <em>'top.sharks.csv'</em>
-- <em>'total.bites.csv'</em>
+- <em>ASID r version.csv'</em>
+- <em>ASID_injury_prop.csv</em>
+- <em>tod.ts.csv</em>
+- <em>tod.ws.csv</em>
+- <em>top.3.csv</em>
+- <em>top.sharks.csv</em>
+- <em>total.bites.csv</em>
 
 ### Requires the following R libraries
 - <code>magrittr</code>
@@ -51,7 +51,7 @@ The Excel workbook '<strong>Australian Shark-Incident Database_Public Version.xl
 
 
 - <strong>	Incident.month</strong>: <em>	month of year	</em>	(numeric, integer)
-- <strong>	Incident.year</strong>: <em>	year written in full	</em>	(numeric, integer, yyyy e.g., 2007, not 07)
+- <strong>	Incident.year</strong>: <em>	year written in full	</em>	(numeric, integer, <em>yyyy</em> e.g., 2007, not 07)
 - <strong>	Victim.injury</strong>: <em>	outcome of victim's health. Categories: fatal, injured, or uninjured. Fatal bites include bites resulting in death to the victim. Injured bites include bites resulting in physical injury to the victim (e.g., bruising, abrasion, punctures, lacerations). Uninjured bites include interactions resulting in no injury to the victim (e.g., shark bit the victim’s equipment; surfboard, fishing rod, kayak).	</em>	(categorical)
 - <strong>	State</strong>: <em>	Australian State/Territory; abbreviated; categories: WA, SA, VIC, NSW, QLD, NT, TAS	</em>	(categorical)
 - <strong>	Location</strong>: <em>	closest town and/or beach	</em>	(descriptive)
