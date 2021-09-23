@@ -4,7 +4,7 @@
 The <em><strong>Australian Shark-Incident Database</strong></em> (ASID), formerly known as the <em><strong><a href="https://taronga.org.au/conservation-and-science/australian-shark-attack-file">Australian Shark Attack File</a></strong></em> (ASAF), quantifies temporal and spatial patterns of shark-human conflict in Australia.
 <br>
 <br>
-This is a joint project between the <a href="https://taronga.org.au/education/taronga-institute-of-science-and-learning">Taronga Conservation Society Australia</a>, <a href="http://www.flinders.edu.au">Flinders University</a>, and the <a href="https://www.dpi.nsw.gov.au">New South Wales Department of Primary Industries</a>
+This is a joint project between the <a href="https://taronga.org.au/education/taronga-institute-of-science-and-learning">Taronga Institute of Science and Learning, Taronga Conservation Society Australia</a>, <a href="http://www.flinders.edu.au">Flinders University</a>, and the <a href="https://www.dpi.nsw.gov.au">New South Wales Department of Primary Industries</a>
 <br>
 <br>
 Principal contacts:<br>
@@ -79,7 +79,7 @@ The Excel workbook '<strong><a href="https://github.com/cjabradshaw/AustralianSh
 - <strong>	Victim.aware.of.shark</strong>: <em>	whether victim was aware of shark prior to incident; categories: Y, N	</em>	(categorical)
 - <strong>	Shark.captured</strong>: <em>	whether shark was captured after incident; categories: Y, N	</em>	(categorical)
 - <strong>	Injury.location</strong>: <em>	which areas on victim injured by shark; categories: arm, hand, lower arm, upper arm, shoulder, neck, head, torso, leg, foot, calf, thigh, pelvic region, other; if multiple categories relevant separate by comma; if other write: other: detail	</em>	(categorical)
-- <strong>	Injury.severity</strong>: <em>	severity of victim’s injuries sustained from shark; categories: surface wound (i.e., bruising), abrasion (removal of skin, i.e., grazes/scratches), punctures, minor lacerations (i.e., punctured/torn skin and soft tissue; loss of function is not seen), major lacerations (i.e., punctured/torn skin, muscle, tendon, or bone; loss of function seen; surgical procedures required), bone break (including fractures), injuries to internal organs (e.g., ruptured lung), amputation, other; if multiple categories relevant separate by comma; if other write: other: detail	</em>	(categorical)
+- <strong>	Injury.severity</strong>: <em>	severity of victim’s injuries sustained from shark; categories: bruising, abrasion (removal of skin, i.e., grazes/scratches), punctures, minor lacerations (i.e., punctured/torn skin and soft tissue; loss of function is not seen), major lacerations (i.e., punctured/torn skin, muscle, tendon, or bone; loss of function seen; surgical procedures required), bone break (including fractures), injuries to internal organs (e.g., ruptured lung), amputation, other; if multiple categories relevant separate by comma; if other write: other: detail	</em>	(categorical)
 - <strong>	Victim.gender</strong>: <em>	categories: female, male, other; if multiple categories relevant separate by comma; if other write: other: detail	</em>	(categorical)
 - <strong>	Victim.age</strong>: <em>	age of victim in years	</em>	(numeric, integer, years)
 - <strong>	Victim.clothing</strong>: <em>	what victim was wearing at time of incident; categories: clothes, swimwear, wetsuit/drysuit, shark-proof suit, none, other; if other write: other: detail	</em>	(categorical)
@@ -93,13 +93,13 @@ The Excel workbook '<strong><a href="https://github.com/cjabradshaw/AustralianSh
 - <strong>	People < 3 m</strong>: <em>	number of people within 3 metres of incident	</em>	(numeric, integer)
 - <strong>	People 3–15 m</strong>: <em>	number of people between 3 and 15 m of incident	</em>	(numeric, integer)
 - <strong>	Time.of.incident</strong>: <em>	time of day incident occurred	</em>	(numeric, 24-hour time; no colon i.e., 1830)
-- <strong>	Depth.of.incident.m</strong>: <em>	depth at which the shark bite took place (not total water depth)	</em>	(numeric, metres, to one decimal point i.e., 3.5)
+- <strong>	Depth.of.incident.m</strong>: <em>	estimated depth at which the shark bite took place (not total water depth)	</em>	(numeric, metres, to one decimal point i.e., 3.5)
 - <strong>	Teeth.recovered</strong>: <em>	whether any shark teeth or teeth fragments found in victim or victim’s equipment; categories: Y, N	</em>	(categorical)
 - <strong>	Time.in.water.min</strong>: <em>	estimated time victim was in water prior to incident	</em>	(numeric, minutes)
 - <strong>	Water.temperature.°C</strong>: <em>	temperature of water at time and place of incident	</em>	(numeric, °C, one decimal point i.e., 15.5)
-- <strong>	Total.water.depth.m</strong>: <em>	total depth (surface to sea/river floor) at which incident took place	</em>	(numeric, metres, to one decimal point i.e., 3.5)
+- <strong>	Total.water.depth.m</strong>: <em>	estimated total depth (surface to sea/river floor) at which incident took place	</em>	(numeric, metres, to one decimal point i.e., 3.5)
 - <strong>	Water.visability.m</strong>: <em>	estimated water clarity at area and time at which incident took place	</em>	(numeric, metres, to one decimal point i.e., 3.5)
-- <strong>	Distance.to.shore.m</strong>: <em>	distance from where incident took place to closest land mass	</em>	(numeric, metres, to one decimal point i.e., 50.5)
+- <strong>	Distance.to.shore.m</strong>: <em>	estimated distance from where incident took place to closest land mass	</em>	(numeric, metres, to one decimal point i.e., 50.5)
 - <strong>	Spring.or.neap.tide</strong>: <em>	tide type at time of incident; categories: spring, neap	</em>	(categorical)
 - <strong>	Tidal.cycle</strong>: <em>	tidal cycle at time of incident; categories: low, mid, high	</em>	(categorical)
 - <strong>	Wind.condition</strong>: <em>	Beaufort wind force scale of sea state at time of incident; categories: calm, light breeze, moderate breeze, windy	</em>	(categorical)
