@@ -1,21 +1,21 @@
-# Australian Shark Incident Database
+# Australian Shark-Incident Database
 
 <img align="right" src="www/ASIDlogo2.png" alt="ASID logo" width="400" style="margin-top: 20px">
-The <em><strong>Australian Shark-Incident Database</strong></em> (ASID), formerly known as the <em><strong><a href="https://taronga.org.au/conservation-and-science/australian-shark-attack-file">Australian Shark Attack File</a></strong></em> (ASAF), quantifies temporal and spatial patterns of shark-human conflict in Australia.
+The <em><strong>Australian Shark-Incident Database</strong></em> (ASID), formerly known as the <em><strong><a href="https://taronga.org.au/conservation-and-science/australian-shark-attack-file">Australian Shark Attack File</a></strong></em> (ASAF), quantifies temporal and spatial patterns of shark-human interactions in Australia.
 <br>
 <br>
-This is a joint project between the <a href="https://taronga.org.au/education/taronga-institute-of-science-and-learning">Taronga Institute of Science and Learning, Taronga Conservation Society Australia</a>, <a href="http://www.flinders.edu.au">Flinders University</a>, and the <a href="https://www.dpi.nsw.gov.au">New South Wales Department of Primary Industries</a>
+This is a joint project between the <a href="https://taronga.org.au/education/taronga-institute-of-science-and-learning">Taronga Conservation Society Australia</a>, <a href="http://www.flinders.edu.au">Flinders University</a>, and the <a href="https://www.dpi.nsw.gov.au">New South Wales Department of Primary Industries</a>
 <br>
 <br>
 Principal contacts:<br>
-- <strong>Phoebe Meagher</strong>, <a href="https://taronga.org.au/education/taronga-institute-of-science-and-learning">Taronga Conservation Society Australia</a>, <a href="mailto:tzpr@zoo.nsw.gov.au">e-mail</a>
+- <strong>Phoebe Meagher</strong>, <a href="https://taronga.org.au/education/taronga-institute-of-science-and-learning">Taronga Conservation Society Australia</a>, <a href="mailto:pmeagher@zoo.nsw.gov.au">e-mail</a>,  <a href="mailto:ASID@zoo.nsw.gov.au">ASID e-mail</a>
 <br>
 - <strong>Madeline Riley</strong> (née Thiele), <a href="https://twitter.com/SouthernSharkEG">Southern Shark Ecology Group</a> & <a href="https://globalecologyflinders.com/">Global Ecology Lab</a>, Flinders University, <a href="mailto:madeline.thiele@flinders.edu.au">e-mail</a>
 <br>
 <br>
 Accompanies paper submitted to <em>Scientific Data</em>:
 <br>
-<a href="https://www.linkedin.com/in/madeline-thiele-7704b614a/">MJ Riley</a>, <a href="https://www.flinders.edu.au/people/charlie.huveneers">C Huveneers</a>, <a href="https://www.linkedin.com/in/david-slip-b539804b/?originalSubdomain=au">D Slip</a>, <a href="https://taronga.org.au/conservation-and-science/our-team">J West</a>, J Leto, <a href="https://www.linkedin.com/in/phoebe-meagher-471979133/?originalSubdomain=au">P Meagher</a>, <a href="https://www.dpi.nsw.gov.au/about-us/research-development/staff/staff-profiles/vic-peddemors">VM Peddemors</a>, <a href="https://globalecologyflinders.com/people/">CJA Bradshaw</a>. In review. Data Descriptor: the Australian Shark-Incident Database for quantifying temporal and spatial patterns of shark-human conflict. <em>Scientific Data</em>
+<a href="https://www.linkedin.com/in/madeline-thiele-7704b614a/">MJ Riley</a>, <a href="https://www.flinders.edu.au/people/charlie.huveneers">C Huveneers</a>, <a href="https://www.linkedin.com/in/phoebe-meagher-471979133/?originalSubdomain=au">P Meagher</a>, J Leto, <a href="https://www.dpi.nsw.gov.au/about-us/research-development/staff/staff-profiles/vic-peddemors">VM Peddemors</a>, <a href="https://www.linkedin.com/in/david-slip-b539804b/?originalSubdomain=au">D Slip</a>, <a href="https://taronga.org.au/conservation-and-science/our-team">J West</a>, <a href="https://globalecologyflinders.com/people/">CJA Bradshaw</a>. In review. Data Descriptor: the Australian Shark-Incident Database for quantifying temporal and spatial patterns of shark-human conflict. <em>Scientific Data</em>
 
 ## Code
 The R code provided <code><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/18224b63ad4bcc3ae1bb6d90113f844b8e6657e1/Australian%20Shark-Incident%20Database%20code.R">Australian Shark-Incident Database code.R</a></code> recreates plots from the paper
