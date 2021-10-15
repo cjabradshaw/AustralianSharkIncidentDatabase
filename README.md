@@ -4,11 +4,12 @@
 The <em><strong>Australian Shark-Incident Database</strong></em> (ASID), formerly known as the <em><strong><a href="https://taronga.org.au/conservation-and-science/australian-shark-attack-file">Australian Shark Attack File</a></strong></em> (ASAF), quantifies temporal and spatial patterns of shark-human interactions in Australia.
 <br>
 <br>
-This is a joint project between the <a href="https://taronga.org.au/education/taronga-institute-of-science-and-learning">Taronga Conservation Society Australia</a>, <a href="http://www.flinders.edu.au">Flinders University</a>, and the <a href="https://www.dpi.nsw.gov.au">New South Wales Department of Primary Industries</a>
+The <em><strong>Australian Shark-Incident Database</strong></em> is a joint partnership with <a href="https://taronga.org.au/conservation-and-science/our-contribution">Taronga Conservation Society Australia</a>, along with <a href="http://www.flinders.edu.au">Flinders University</a>, and the <a href="https://www.dpi.nsw.gov.au">New South Wales Department of Primary Industries</a>
 <br>
+Maintained as an uninterrupted record by a few committed Taronga team members since 1984, the File currently comprises > 1000 individual investigations from 1791 to today, making it the most comprehensive database of its kind available.
 <br>
 Principal contacts:<br>
-- <strong>Phoebe Meagher</strong>, <a href="https://taronga.org.au/education/taronga-institute-of-science-and-learning">Taronga Conservation Society Australia</a>, <a href="mailto:pmeagher@zoo.nsw.gov.au">e-mail</a>,  <a href="mailto:ASID@zoo.nsw.gov.au">ASID e-mail</a>
+- <strong>Dr Phoebe Meagher</strong>, <a href="https://taronga.org.au/education/taronga-institute-of-science-and-learning">Taronga Conservation Society Australia</a>, <a href="mailto:pmeagher@zoo.nsw.gov.au">e-mail</a>,  <a href="mailto:ASID@zoo.nsw.gov.au">ASID e-mail</a>
 <br>
 - <strong>Madeline Riley</strong> (née Thiele), <a href="https://twitter.com/SouthernSharkEG">Southern Shark Ecology Group</a> & <a href="https://globalecologyflinders.com/">Global Ecology Lab</a>, Flinders University, <a href="mailto:madeline.thiele@flinders.edu.au">e-mail</a>
 <br>
