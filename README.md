@@ -31,7 +31,6 @@ Associated data files (available in the <strong><a href="https://github.com/cjab
 - <em>total.bites.csv</em>
 
 ### Requires the following R libraries (available on the <a href="https://cran.r-project.org">CRAN</a>)
-- <code>magrittr</code>
 - <code>ggplot2</code>
 - <code>dplyr</code>
 - <code>forcats</code>
