@@ -6,7 +6,9 @@ The <em><strong>Australian Shark-Incident Database</strong></em> (ASID), formerl
 <br>
 The <em><strong>Australian Shark-Incident Database</strong></em> is a joint partnership with <a href="https://taronga.org.au/conservation-and-science/our-contribution">Taronga Conservation Society Australia</a>, along with <a href="http://www.flinders.edu.au">Flinders University</a>, and the <a href="https://www.dpi.nsw.gov.au">New South Wales Department of Primary Industries</a>
 <br>
+<br>
 Maintained as an uninterrupted record by a few committed Taronga team members since 1984, the File currently comprises > 1000 individual investigations from 1791 to today, making it the most comprehensive database of its kind available.
+<br>
 <br>
 Principal contacts:<br>
 - <strong>Dr Phoebe Meagher</strong>, <a href="https://taronga.org.au/education/taronga-institute-of-science-and-learning">Taronga Conservation Society Australia</a>, <a href="mailto:pmeagher@zoo.nsw.gov.au">e-mail</a>,  <a href="mailto:ASID@zoo.nsw.gov.au">ASID e-mail</a>
