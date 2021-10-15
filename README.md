@@ -33,20 +33,20 @@ Associated data files (available in the <strong><a href="https://github.com/cjab
 - <em>top.sharks.csv</em>
 - <em>total.bites.csv</em>
 
-### Requires the following R libraries (available on the <a href="https://cran.r-project.org">CRAN</a>)
-- <code>ggplot2</code>
-- <code>dplyr</code>
-- <code>forcats</code>
-- <code>leaflet</code>
-- <code>viridis</code>
-- <code>scales</code>
-- <code>ggmap</code>
-- <code>gridExtra</code>
-- <code>rgdal</code>
-- <code>magrittr</code>
-- <code>tibble</code>
-- <code>ozmaps</code>
-- <code>ggpubr</code>
+### Requires the following R libraries
+- <a href="https://ggplot2.tidyverse.org/"><code>ggplot2</code></a>
+- <a href="https://cran.r-project.org/web/packages/dplyr/index.html"><code>dplyr</code></a>
+- <a href="https://forcats.tidyverse.org/"><code>forcats</code></a>
+- <a href="https://rstudio.github.io/leaflet/"><code>leaflet</code></a>
+- <a href="https://cran.r-project.org/web/packages/viridis/index.html"><code>viridis</code></a>
+- <a href="https://scales.r-lib.org/"><code>scales</code></a>
+- <a href="https://github.com/dkahle/ggmap"><code>ggmap</code></a>
+- <a href="https://cran.r-project.org/web/packages/gridExtra/index.html"><code>gridExtra</code></a>
+- <a href="https://cran.r-project.org/web/packages/rgdal/index.html"><code>rgdal</code></a>
+- <a href="https://cran.r-project.org/web/packages/magrittr/index.html"><code>magrittr</code></a>
+- <a href="https://tibble.tidyverse.org/"><code>tibble</code></a>
+- <a href="https://cran.r-project.org/web/packages/ozmaps/index.html"><code>ozmaps</code></a>
+- <a href="https://cran.r-project.org/web/packages/ggpubr/index.html"><code>ggpubr</code></a>
 
 ## The Database
 The Excel workbook '<strong><a href="https://github.com/TarongaZoo/AustralianSharkIncidentDatabase">Australian Shark-Incident Database_Public Version.xlsx</a></strong>' contains the living file that will be updated regularly by collaborators. Note that some information has been removed from the public version of ASID to protect the privacy of relevant persons involved. The column descriptors are as follows:
