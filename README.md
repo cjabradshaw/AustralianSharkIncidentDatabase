@@ -1,6 +1,6 @@
 # Australian Shark-Incident Database
 
-<img align="right" src="www/ASIDlogo2.png" alt="ASID logo" width="400" style="margin-top: 20px">
+<img align="right" src="www/ASIDlogo.png" alt="ASID logo" width="400" style="margin-top: 20px">
 The <em><strong>Australian Shark-Incident Database</strong></em> (ASID), formerly known as the <em><strong><a href="https://taronga.org.au/conservation-and-science/australian-shark-attack-file">Australian Shark Attack File</a></strong></em> (ASAF), quantifies temporal and spatial patterns of shark-human interactions in Australia.
 <br>
 <br>
