@@ -49,6 +49,9 @@ Associated data files (available in the <strong><a href="https://github.com/cjab
 - <a href="https://cran.r-project.org/web/packages/ggpubr/index.html"><code>ggpubr</code></a>
 
 ## The Database
+
+<a href="https://doi.org/10.5281/zenodo.5612260"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5612260.svg"></a>
+
 The Excel workbook '<strong><a href="doi.org/10.5281/zenodo.5612260">Australian Shark-Incident Database_Public Version.xlsx</a></strong>' contains the living file that will be updated regularly by collaborators. Note that some information has been removed from the public version of ASID to protect the privacy of relevant persons involved. The column descriptors are as follows:
 
 
