@@ -23,10 +23,12 @@ Accompanies paper submitted to <em>Scientific Data</em>:
 <a href="https://www.linkedin.com/in/madeline-thiele-7704b614a/">MJ Riley</a>, <a href="https://www.flinders.edu.au/people/charlie.huveneers">C Huveneers</a>, <a href="https://www.linkedin.com/in/phoebe-meagher-471979133/?originalSubdomain=au">P Meagher</a>, J Leto, <a href="https://www.dpi.nsw.gov.au/about-us/research-development/staff/staff-profiles/vic-peddemors">VM Peddemors</a>, <a href="https://www.linkedin.com/in/david-slip-b539804b/?originalSubdomain=au">D Slip</a>, <a href="https://taronga.org.au/conservation-and-science/our-team">J West</a>, <a href="https://globalecologyflinders.com/people/">CJA Bradshaw</a>. In review. The <em>Australian Shark-Incident Database</em> for quantifying temporal and spatial patterns of shark-human conflict. <em>Scientific Data</em>
 
 ## Abstract
-We describe the <em>Australian Shark-Incident Database</em>, formally the <em>Australian Shark-Attack File</em> (Taronga Conservation Society Australia), contains comprehensive reports of 1,139 shark bites that have occurred in Australia over 230 years (1791–2020). Data were collated by Taronga using purpose designed questionnaires provided to shark-bite victims or witnesses, media reports, and information provided by the department responsible for fisheries in each Australian state (including the Northern Territory). The dataset includes provoked and unprovoked bites from fresh, brackish, and marine waters in Australia. Data span 22 different shark species. This dataset will be publicly available, and can be used by analysts to decipher environmental, biological and social related shark-bite patterns in Australia. This will aid scientists, conservationists, authorities, and members of the public to make informed decisions when implementing or selecting mitigation measures.
+We describe the <em>Australian Shark-Incident Database</em>, formerly known as the <em>Australian Shark-Attack File</em> (Taronga Conservation Society Australia), which contains comprehensive reports of 1,166 shark bites that have occurred in Australia over 231 years (1791–2021). Data were collated by the Taronga Conservation Society Australia using purpose designed questionnaires provided to shark-bite victims or witnesses, media reports and information provided by the department responsible for fisheries in each Australian state (including the Northern Territory). The dataset includes provoked and unprovoked bites from fresh, brackish, and marine waters in Australia. Data span 22 suspected shark species. This dataset will be publicly available, and can be used by analysts to decipher environmental, biological, and social patterns of shark bites in Australia. The information will aid scientists, conservationists, authorities, and members of the public to make informed decisions when implementing or selecting mitigation measures.
 
 ## Code
 The R code provided <code><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/18224b63ad4bcc3ae1bb6d90113f844b8e6657e1/Australian%20Shark-Incident%20Database%20code.R">Australian Shark-Incident Database code.R</a></code> recreates plots from the paper
+<br>
+The <code>period.of.day.R</code> script calculates the period of day (dawn, day, dusk, night) in which an incident occurred (correcting for timezone and location).
 <br>
 <br>
 Associated data files (available in the <strong><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/tree/main/data">data</a></strong> subfolder) include:
@@ -37,6 +39,7 @@ Associated data files (available in the <strong><a href="https://github.com/cjab
 - <em>top.3.csv</em>
 - <em>top.sharks.csv</em>
 - <em>total.bites.csv</em>
+- <em>timedb.txt</em>
 
 ### Requires the following R libraries
 - <a href="https://ggplot2.tidyverse.org/"><code>ggplot2</code></a>
@@ -52,6 +55,8 @@ Associated data files (available in the <strong><a href="https://github.com/cjab
 - <a href="https://tibble.tidyverse.org/"><code>tibble</code></a>
 - <a href="https://cran.r-project.org/web/packages/ozmaps/index.html"><code>ozmaps</code></a>
 - <a href="https://cran.r-project.org/web/packages/ggpubr/index.html"><code>ggpubr</code></a>
+- <a href="https://www.rdocumentation.org/packages/suncalc/versions/0.5.0"><code>suncalc</code></a>
+- <a href="https://cran.r-project.org/web/packages/lutz/lutz.pdf"><code>lutz</code></a>
 
 ## The Database
 
