@@ -7,16 +7,16 @@ library(suncalc)
 library(lutz)
 
 # import data
-dat2 <- read.delim2(file="timedb.txt", header=T, sep="\t")
-dat.nona <- dat2[is.na(dat2$Time.of.incident)==F,] # remove NAs
+dat2 <- read.delim2(file="timedb2.txt", header=T, sep="\t")
+dat.nona <- dat2[is.na(as.numeric(dat2$Time.of.incident))==F,] # remove NAs
 dat.bull <- subset(dat.nona, Shark.common.name=="bull shark")
 dat.tiger <- subset(dat.nona, Shark.common.name=="tiger shark")
 dat.white <- subset(dat.nona, Shark.common.name=="white shark")
 
 datwk <- dat.nona # choose all data or species subset
-#datwk <- dat.bull
-#datwk <- dat.tiger
-#datwk <- dat.white
+datwk <- dat.bull
+datwk <- dat.tiger
+datwk <- dat.white
 
 table(datwk$Shark.common.name) # check and fix common-name anomalies
 datwk$Shark.common.name <- ifelse(datwk$Shark.common.name == "tiger shark ", "tiger shark", datwk$Shark.common.name)
@@ -27,7 +27,9 @@ table(datwk$Shark.common.name)
 datwk$timezone <- tz_lookup_coords(as.numeric(datwk$Latitude), as.numeric(datwk$Longitude), method = "accurate")
 head(datwk)
 
-datwk$time24 <- sprintf("%04d", datwk$Time.of.incident)
+time.num <- as.numeric(datwk$Time.of.incident)
+
+datwk$time24 <- sprintf("%04d", time.num)
 hr24 <- substr(datwk$time24, 1, 2)
 mn60 <- substr(datwk$time24, 3, 4)
 
@@ -60,3 +62,5 @@ head(datwk)
 table(datwk$day.period) # frequency of incidents in each day period
 sum(table(datwk$day.period)) # total number of records
 table(datwk$day.period)/sum(as.numeric(table(datwk$day.period))) # proportions in each day period
+sum(table(datwk$day.period)/sum(as.numeric(table(datwk$day.period))))
+
