@@ -1,0 +1,1205 @@
+Incident.day	Incident.month	Incident.year	Latitude	Longitude	Shark.common.name	Shark.scientific.name	Provoked.unprovoked	Victim.activity	Injury.location	Injury.description	Injury.severity\xca	Victim.gender	Victim.age	Time.of.incident
+1	1	1791	-33.86666667	151.2	white shark	Carcharodon carcharias	unprovoked	swimming	torso		major lacerations	female		
+22	3	1803	-25.83333333	113.8833333	tiger shark	Galeocerdo cuvier	unprovoked	swimming				male		
+18	1	1807	-33.86666667	151.2	bull shark	Carcharhinus leucas	unprovoked	swimming	"arm, hand"		minor lacerations	male		
+1	1	1820	-42.8	147.5333333			provoked	swimming	leg		major lacerations	male		
+1	1	1825	-33.85	151.2166667	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		minor lacerations	male	15	
+1	1	1830	-43.28333333	147.3333333	white shark	Carcharodon carcharias	unprovoked	swimming	arm		major lacerations	female		
+20	1	1832	-33.86666667	151.1833333	bull shark	Carcharhinus leucas	provoked	swimming	leg		minor lacerations	male		
+4	6	1832	-33.83333333	151.2666667	white shark	Carcharodon carcharias	provoked	fishing	leg		major lacerations	female		
+1	1	1836	-34.95	138.5	white shark	Carcharodon carcharias	unprovoked	swimming				male		
+1	8	1836	-25.48333333	152.9833333	whaler shark	Carcharhinidae	unprovoked	swimming	other: body not recovered			male		
+1	8	1836	-25.48333333	152.9833333	whaler shark	Carcharhinidae	unprovoked	swimming	other: body not recovered			male		
+17	1	1837	-30.93333333	153.0166667	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	12	
+7	8	1839	-38.98333333	146.45	white shark	Carcharodon carcharias	provoked	swimming	leg		major lacerations	male		
+1	12	1840	-33.85	151.2166667	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male		
+25	4	1841	-33.83333333	151.1666667	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		major lacerations	male		
+3	3	1847	-27.25	153.25	bull shark	Carcharhinus leucas	unprovoked	swimming	foot		major lacerations	male		
+30	11	1847	-27.43333333	153.0833333	bull shark	Carcharhinus leucas	unprovoked	swimming	"thigh, calf"		major lacerations	male		
+1	1	1849	-33.36666667	115.2833333	white shark	Carcharodon carcharias	provoked	swimming				male		
+9	12	1849	-38.33333333	141.6	white shark	Carcharodon carcharias	unprovoked	swimming	leg		other: teeth marks	male		
+2	12	1849	-33.81666667	151.2	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		major lacerations	male		
+1	1	1850	-27.28333333	153.2166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	other: body not recovered			male		
+10	3	1850	-29.41666667	153.3333333	whaler shark	Carcharhinidae	unprovoked	swimming				male		
+9	11	1853	-33.85	151.2166667	wobbegong	Orectolobidae	provoked	swimming	leg		minor lacerations	male		
+1	1	1855	-25.5	152.7166667	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	female		
+6	1	1855	-33.85	151.2166667	bull shark	Carcharhinus leucas	unprovoked	swimming	other: uninjured			male		
+28	7	1855	-10.56666667	142.2	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso		major lacerations	male		
+11	11	1855	-33.86666667	151.2	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male		
+5	2	1856	-38.13333333	144.4166667	white shark	Carcharodon carcharias	unprovoked	swimming	"thigh, foot"		major lacerations	male	18	2100
+22	5	1856	-35.53333333	138.6833333	wobbegong	Orectolobidae	unprovoked					male		
+14	3	1858	-37.85	144.9	white shark	Carcharodon carcharias	unprovoked	swimming	calf		major lacerations	male	22	1500
+1	1	1860	-35.56666667	138.6	white shark	Carcharodon carcharias	unprovoked	swimming	arm		major lacerations	male		
+13	1	1861	-27.51666667	153.2666667	wobbegong	Orectolobidae	unprovoked	swimming	"arm, hand"		minor lacerations	male		
+10	2	1862	-37.85	144.9	white shark	Carcharodon carcharias	unprovoked	swimming	leg		abrasion	male		
+1	12	1862	-27.36666667	153.15	bull shark	Carcharhinus leucas	unprovoked	swimming	other: body not recovered			male		
+10	1	1863	-31.88333333	151.4666667	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		major lacerations	male	17	
+1	1	1863	-27.58333333	153.3166667	tiger shark	Galeocerdo cuvier	provoked	swimming	other: body not recovered			male		
+5	3	1863	-37.9	144.9833333	white shark	Carcharodon carcharias	unprovoked	swimming	"torso, leg"		major lacerations	male		2000
+12	4	1863	-26.8	153.1333333	tiger shark	Galeocerdo cuvier	unprovoked		other: body not recovered			male		
+23	11	1865	-37.86666667	144.8666667	white shark	Carcharodon carcharias	unprovoked	swimming	thigh		major lacerations	male	33	
+1	1	1868	-23.08333333	150.7333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	leg		major lacerations	male		
+17	1	1869	-27.46666667	153	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		other: teeth marks	male		
+17	3	1869	-34.13333333	137.45	broadnose sevengill shark	Notorynchus cepedianus	provoked	fishing	foot		minor lacerations	male		
+9	1	1870	-27.46666667	153.0166667	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		major lacerations	male	17	
+19	5	1870	-27.08333333	153.4	whaler shark	Carcharhinidae	provoked	spearfishing	leg		minor lacerations	male	13	
+1	1	1872	-25.8	153.0166667			unprovoked	swimming				male		
+12	2	1873	-34.83333333	138.4666667	white shark	Carcharodon carcharias	unprovoked	unmotorised boating	other: uninjured			male		
+9	1	1874	-33.86666667	151.2	bull shark	Carcharhinus leucas	unprovoked	swimming	"calf, foot"		major lacerations	male		
+21	11	1874	-25.5	152.7166667	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		other: teeth marks	male		
+19	11	1874	-33	151.7166667	wobbegong	Orectolobidae	provoked	swimming	foot		minor lacerations	male		1900
+9	7	1875	-29.41666667	153.3333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming			major lacerations	male		
+1	10	1875	-10.25	142.1166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	leg		major lacerations	male		
+1	11	1875	-29.4	153.3333333	white shark	Carcharodon carcharias	provoked	swimming	foot		major lacerations	male		
+26	12	1875	-29.4	153.3333333	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		minor lacerations	male		
+1	1	1876	-20.7	117.25	bull shark	Carcharhinus leucas	provoked	snorkelling	thigh		major lacerations	male	36	
+30	1	1876	-37.86666667	144.9666667	white shark	Carcharodon carcharias	unprovoked	swimming				male		
+1	2	1876	-10.25	142.1166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	torso		major lacerations	male		
+6	2	1876	-37.85	144.95	white shark	Carcharodon carcharias	unprovoked	swimming	"leg, pelvic region"		major lacerations	male	18	0600
+6	7	1876	-33.85	151.2	whaler shark	Carcharhinidae	provoked	diving	other: uninjured			male		
+1	12	1876	-32.76666667	151.7	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male		
+28	1	1877	-37.83333333	144.9333333	white shark	Carcharodon carcharias	unprovoked	swimming			major lacerations	male	30	
+20	1	1877	-38.38333333	142.4833333	white shark	Carcharodon carcharias	unprovoked	swimming	foot		minor lacerations	female		
+21	3	1877	-38.1	144.65	white shark	Carcharodon carcharias	unprovoked	swimming	"thigh, foot"		major lacerations	male		
+15	12	1877	-33.86666667	151.2	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	12	
+1	12	1877	-34.73333333	138.0333333			provoked	swimming	leg		minor lacerations	male		
+1	1	1878	-9.633333333	142.6833333	tiger shark	Galeocerdo cuvier	provoked	snorkelling			major lacerations	male		
+2	3	1878	-38.38333333	142.5	whaler shark	Carcharhinidae	unprovoked	swimming	torso		minor lacerations	male		
+23	7	1878	-25.8	153.05	bull shark	Carcharhinus leucas	provoked	fishing	calf		major lacerations	male		
+14	11	1878	-33.85	151.15	wobbegong	Orectolobidae	unprovoked	swimming			minor lacerations	male		
+19	6	1879	-33.86666667	151.2	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male		
+10	11	1879	-29.4	153.3333333	white shark	Carcharodon carcharias	unprovoked	swimming	thigh		major lacerations	male	15	
+1	1	1880	-16.9	145.9833333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	other: body not recovered			male		
+4	1	1880	-33.08333333	151.5	bull shark	Carcharhinus leucas	unprovoked	swimming	foot		major lacerations	female	13	1700
+7	1	1880	-27.51666667	152.9	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		minor lacerations	male	22	
+25	11	1880	-27.46666667	153.0333333	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	15	1700
+19	1	1881	-31.06666667	152.6333333	bull shark	Carcharhinus leucas	unprovoked	swimming	other: uninjured			female		
+1	1	1881	-25.25	152.85	tiger shark	Galeocerdo cuvier	unprovoked		foot		major lacerations	female	16	
+10	8	1881	-20	148.8	tiger shark	Galeocerdo cuvier	provoked	spearfishing	leg		minor lacerations	male		
+13	11	1881	-33.86666667	151.2333333	bull shark	Carcharhinus leucas	unprovoked	swimming	other: body not recovered			male		
+4	12	1881	-24.83333333	152.1166667	bull shark	Carcharhinus leucas	unprovoked	swimming	arm		major lacerations	male		
+1	1	1882	-17.98333333	122.2333333	tiger shark	Galeocerdo cuvier	provoked	snorkelling				male		
+15	4	1882	-33.08333333	151.65	white shark	Carcharodon carcharias	unprovoked		torso			male		
+15	5	1882	-33.85	151.2	wobbegong	Orectolobidae	unprovoked	swimming	calf		minor lacerations	male		
+1	5	1882	-15.88333333	122	tiger shark	Galeocerdo cuvier	provoked	snorkelling	torso		major lacerations	male		
+1	12	1882	-17.98333333	122.2333333	tiger shark	Galeocerdo cuvier	provoked	snorkelling				male		
+23	1	1883	-33.85	151.15	bull shark	Carcharhinus leucas	unprovoked	swimming	torso		major lacerations	male	37	
+19	12	1883	-33.86666667	151.2	bull shark	Carcharhinus leucas	unprovoked	swimming	torso		major lacerations	male	21	
+22	12	1883	-33.8	151.2833333	bull shark	Carcharhinus leucas	provoked	swimming	other: uninjured			male		
+14	1	1884	-33.18333333	137.9833333	white shark	Carcharodon carcharias	unprovoked	swimming	other: body not recovered			female	16	
+2	10	1885	-33.81666667	151.05	bull shark	Carcharhinus leucas	unprovoked	swimming	other: uninjured			female		
+26	11	1885	-33.31666667	115.6333333	white shark	Carcharodon carcharias	unprovoked	swimming	calf		major lacerations	male		
+25	1	1886	-25.53333333	152.7	bull shark	Carcharhinus leucas	unprovoked	swimming	other: uninjured			male		
+26	4	1886	-23.38333333	150.6333333	bull shark	Carcharhinus leucas	unprovoked	swimming	"arm, hand"		minor lacerations	male		
+23	2	1887	-33.8	151.2833333	whaler shark	Carcharhinidae	unprovoked	unmotorised boating	other: uninjured			male		1700
+4	12	1887	-33.81666667	151.0833333	bull shark	Carcharhinus leucas	unprovoked	swimming	"torso, leg, pelvic region"		major lacerations	male	25	1130
+11	9	1888	-19.85	145.4	tiger shark	Galeocerdo cuvier	provoked	snorkelling				male		
+9	12	1888	-33.85	151.15	bull shark	Carcharhinus leucas	unprovoked	swimming	torso		major lacerations	male	11	
+1	7	1889	-38.33333333	144.6166667	white shark	Carcharodon carcharias	unprovoked	swimming	other: body not recovered			male		
+1	1	1890	-42.73333333	147.2333333	broadnose sevengill shark	Notorynchus cepedianus	unprovoked	swimming	thigh		major lacerations	male		
+8	4	1891	-36.71666667	149.9833333	wobbegong	Orectolobidae	provoked	diving	other: uninjured			male		
+17	6	1891	-38.33333333	144.3166667	wobbegong	Orectolobidae	provoked	snorkelling	arm		minor lacerations	male		
+1	1	1892	-10.11666667	142.1333333	tiger shark	Galeocerdo cuvier	provoked	diving	torso		major lacerations	male		
+22	3	1892	-23.36666667	150.5	bull shark	Carcharhinus leucas	unprovoked	swimming	calf		other: teeth marks	male		
+6	11	1892	-27.45	153.2166667	whaler shark	Carcharhinidae	unprovoked	swimming	leg		other: teeth marks	female		
+1	12	1892	-27.43333333	153.0833333	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		abrasion	male		
+7	1	1893	-28.76666667	114.6	wobbegong	Orectolobidae	provoked	fishing	other: uninjured			male		
+25	1	1893	-13.93333333	143.7333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	other: body not recovered			male		
+14	4	1893	-9.816666667	142.7	tiger shark	Galeocerdo cuvier	unprovoked	swimming	leg		minor lacerations	male		
+28	11	1894	-32.91666667	151.7833333	white shark	Carcharodon carcharias	unprovoked	swimming	arm		major lacerations	male		0740
+1	1	1895	-27.46666667	153	bull shark	Carcharhinus leucas	unprovoked	unmotorised boating	other: uninjured			male	25	
+27	2	1895	-33.93333333	151.25	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	16	1600
+15	3	1895	-24.9	152.2333333	bull shark	Carcharhinus leucas	unprovoked	swimming	foot		major lacerations	male	13	
+1	6	1895	-20.78333333	115.5333333	tiger shark	Galeocerdo cuvier	provoked	diving	other: body not recovered			male		
+16	11	1895	-35.13333333	150.75	whaler shark	Carcharhinidae	provoked	swimming	other: body not recovered			male		
+15	12	1895	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	provoked	diving	other: uninjured			male		
+8	12	1895	-33.85	151.15	bull shark	Carcharhinus leucas	unprovoked	swimming	torso		major lacerations	male	14	
+11	1	1896	-33.86666667	151.1833333	bull shark	Carcharhinus leucas	unprovoked	swimming	torso		major lacerations	male	11	
+1	11	1896	-33.85	121.8833333	white shark	Carcharodon carcharias	unprovoked	swimming	leg			male		
+6	1	1897	-31.06666667	152.8333333	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		minor lacerations	male	12	
+1	12	1897	-9.95	142.1833333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso		major lacerations	male		
+22	9	1898	-32.71666667	152.1166667	bull shark	Carcharhinus leucas	provoked	fishing	foot		minor lacerations	male		
+20	12	1898	-27.46666667	153.2166667	whaler shark	Carcharhinidae	provoked	fishing	thigh		minor lacerations	male		
+7	2	1899	-33.78333333	151.2166667	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		minor lacerations	male		
+18	12	1899	-27.55	153.1833333	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		minor lacerations	male		
+28	1	1900	-33.85	151.15	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		major lacerations	male		1200
+1	1	1900	-11.6	130.95	tiger shark	Galeocerdo cuvier	unprovoked	swimming	arm		major lacerations	male		
+15	9	1900	-19.25	146.8166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	calf		major lacerations	male		2100
+10	11	1900	-10.55	142.3833333			provoked	snorkelling				male		
+27	12	1900	-33.78333333	151.2333333	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	21	
+1	1	1901	-11.6	130.95	tiger shark	Galeocerdo cuvier	unprovoked	swimming	leg		major lacerations	male		
+22	1	1901	-27.46666667	153	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		major lacerations	male	13	
+1	2	1901	-16.85	145.75	wobbegong	Orectolobidae	provoked	swimming	head		minor lacerations	male		
+23	4	1901	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	"torso, shoulder"		major lacerations	male		
+25	4	1901	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	torso		major lacerations	male		
+1	12	1901	-27.46666667	153	bull shark	Carcharhinus leucas	unprovoked	swimming	"torso, leg, pelvic region"		major lacerations	male		1335
+19	1	1902	-27.48333333	153	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	16	1200
+4	1	1902	-27.43333333	153.1666667	whaler shark	Carcharhinidae	provoked	swimming	torso		abrasion	male		
+10	1	1903	-33.81666667	151.15	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	20	1700
+1	2	1903	-36.63333333	150	bull shark	Carcharhinus leucas	provoked	fishing	other: uninjured			male		
+15	3	1903	-27.7	153.2833333	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male		
+6	5	1903	-34.66666667	150.85	whaler shark	Carcharhinidae	provoked	diving	other: uninjured			male		
+27	3	1904	-27.41666667	153.1166667	bull shark	Carcharhinus leucas	unprovoked	swimming	torso		minor lacerations	male		
+30	3	1905	-28.8	153.2666667	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		minor lacerations	male		
+2	12	1905	-10.2	142.15	tiger shark	Galeocerdo cuvier	provoked	snorkelling	thigh		major lacerations	male		
+28	1	1906	-33.98333333	151.0666667	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	33	1410
+14	4	1906	-14.66666667	145.45	tiger shark	Galeocerdo cuvier	unprovoked	swimming	arm		major lacerations	male		
+24	8	1906	-9.95	142.1666667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	"arm, shoulder, torso"		major lacerations	male		
+17	12	1906	-35.7	150.1833333	wobbegong	Orectolobidae	unprovoked	motorised boating	other: uninjured			male		
+3	2	1907	-19.25	146.8166667	bull shark	Carcharhinus leucas	unprovoked	swimming			major lacerations	male		
+4	8	1907	-28.85	113.9	tiger shark	Galeocerdo cuvier	provoked	snorkelling	leg		major lacerations	male		
+13	10	1907	-32.93333333	151.75	white shark	Carcharodon carcharias	unprovoked	swimming	"torso, shoulder"		major lacerations	male	26	1000
+21	12	1907	-33.78333333	151.2333333	bull shark	Carcharhinus leucas	unprovoked	swimming	torso		major lacerations	male		
+1	1	1909	-33.48333333	151.3	bull shark	Carcharhinus leucas	unprovoked	swimming				male		
+26	1	1910	-32.9	151.7666667	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	16	
+17	2	1910	-33.31666667	115.6166667	white shark	Carcharodon carcharias	unprovoked	swimming	"shoulder, torso, leg"		major lacerations	male		
+31	3	1910	-34.36666667	115.1166667			unprovoked	swimming	other: uninjured			male		
+24	11	1910	-21.16666667	149.2333333			unprovoked	swimming	foot		minor lacerations	male		
+6	2	1911	-20.38333333	116.8666667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	other: uninjured			male		
+27	3	1911	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"torso, thigh"		major lacerations	male	16	
+25	10	1911	-15.48333333	145.4	tiger shark	Galeocerdo cuvier	provoked	snorkelling	leg		major lacerations	male	23	
+6	1	1912	-33.83333333	151.1666667	dusky shark	Carcharhinus obscurus	unprovoked	swimming	"leg, pelvic region"		major lacerations	male		
+26	1	1912	-33.81666667	151.15	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		major lacerations	male		
+1	1	1912	-19.45	146.6	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male		
+16	2	1912	-33.31666667	115.6333333	wobbegong	Orectolobidae	provoked	diving	other: uninjured			male		
+9	2	1912	-37.58333333	140.3333333	white shark	Carcharodon carcharias	provoked	fishing	"arm, hand"		major lacerations	male		
+19	2	1912	-33.91666667	151.25	white shark	Carcharodon carcharias	unprovoked	swimming	"calf, foot"		major lacerations	male		1600
+5	11	1912	-27.31666667	153.05	tiger shark	Galeocerdo cuvier	unprovoked	swimming	leg		major lacerations	male	35	1750
+24	3	1913	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	head		minor lacerations	male		
+2	5	1913	-29.4	153.3333333	bull shark	Carcharhinus leucas	provoked	fishing	leg		minor lacerations	male		
+1	6	1913	-10.2	142.15			provoked	swimming	head		major lacerations	male		
+21	11	1913	-27.31666667	153.05	tiger shark	Galeocerdo cuvier	unprovoked	swimming	leg		major lacerations	male	13	
+29	12	1913	-35.05	138.45	white shark	Carcharodon carcharias	unprovoked	swimming	leg		minor lacerations	male		2030
+20	1	1914	-33.85	151.15	bull shark	Carcharhinus leucas	unprovoked	unmotorised boating	other: uninjured			male		1800
+11	1	1914	-27.31666667	153.05	wobbegong	Orectolobidae	unprovoked	swimming	leg		minor lacerations	female		1000
+1	2	1914	-33.83333333	151.0666667	bull shark	Carcharhinus leucas	unprovoked	unmotorised boating	torso		abrasion	male	23	
+4	2	1914	-35.23333333	136.9666667	wobbegong	Orectolobidae	provoked	spearfishing	foot		minor lacerations	male		
+15	4	1914	-29.43333333	153.1833333	bull shark	Carcharhinus leucas	provoked	fishing	foot		minor lacerations	male		
+10	6	1914	-37.95	145	white shark	Carcharodon carcharias	unprovoked	swimming	other: body not recovered			male		
+2	12	1914	-19.16666667	146.8333333			unprovoked	swimming	thigh		minor lacerations	male		
+6	12	1914	-31.98333333	115.7333333	wobbegong	Orectolobidae	provoked		calf		minor lacerations	male		
+1	1	1915	-33.83333333	151.2333333	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		major lacerations	male		
+6	2	1915	-27.26666667	153.2166667	wobbegong	Orectolobidae	unprovoked	unmotorised boating	foot		minor lacerations	male		
+8	11	1915	-33.78333333	151.2833333	whaler shark	Carcharhinidae	unprovoked	swimming	"leg, foot"		major lacerations	male		
+10	11	1915	-27.31666667	153.0666667	bull shark	Carcharhinus leucas	unprovoked	swimming	"arm, torso"		minor lacerations	male	8	
+24	2	1916	-41.05	145.75	wobbegong	Orectolobidae	provoked	diving	other: uninjured			male		
+19	3	1916	-33.76666667	151.2833333	white shark	Carcharodon carcharias	unprovoked	swimming	leg		minor lacerations	male		
+10	11	1916	-19.23333333	146.8	tiger shark	Galeocerdo cuvier	unprovoked	swimming				male	27	
+9	11	1916	-19.23333333	146.8166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	leg		major lacerations	male		1800
+1	11	1916	-20	119.3666667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	leg		major lacerations	male		
+2	11	1916	-20	119.3333333	tiger shark	Galeocerdo cuvier	provoked	snorkelling	leg		major lacerations	male		
+8	12	1916	-33.78333333	151.2166667	bull shark	Carcharhinus leucas	unprovoked	other: standing in water	"arm, torso"		major lacerations	male	41	
+30	12	1916	-23.11666667	150.75	tiger shark	Galeocerdo cuvier	unprovoked	swimming	calf		major lacerations	male	26	
+14	6	1917	-27.23333333	153.2166667	whaler shark	Carcharhinidae	provoked	fishing	leg		minor lacerations	male		
+15	12	1917	-20.3	118.5833333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	thigh		major lacerations	male		
+15	1	1918	-32.66666667	152.15	wobbegong	Orectolobidae	provoked	fishing	"arm, hand"		major lacerations	male		
+22	3	1918	-32.91666667	151.7833333	white shark	Carcharodon carcharias	unprovoked	swimming	"arm, hand"		major lacerations	male		1715
+17	3	1918	-28.15	153.5166667	wobbegong	Orectolobidae	provoked	swimming	foot		minor lacerations	male		
+17	3	1918	-28.15	153.1	tiger shark	Galeocerdo cuvier	unprovoked	swimming	leg		major lacerations	male		
+5	4	1918	-26.41666667	150.0666667	wobbegong	Orectolobidae	provoked	diving	other: uninjured			male		
+9	4	1918	-33.86666667	151.2	bull shark	Carcharhinus leucas	unprovoked	swimming	other: uninjured			male	28	0900
+19	9	1918	-19.25	146.8166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	leg		major lacerations	male		
+21	11	1918	-16.7	146.05	tiger shark	Galeocerdo cuvier	provoked	snorkelling	torso		major lacerations	male		1500
+17	1	1919	-32.91666667	151.7833333	white shark	Carcharodon carcharias	unprovoked	swimming	"hand, torso, calf"		major lacerations	male	19	
+9	1	1919	-33.83333333	151.2333333	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		major lacerations	male	13	0730
+5	1	1919	-19.45	146.6	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	38	
+29	12	1919	-27.08333333	153.45	wobbegong	Orectolobidae	provoked	swimming	leg		minor lacerations	male		
+8	12	1919	-30.91666667	153.0166667	bull shark	Carcharhinus leucas	unprovoked	swimming	"calf, foot"		major lacerations	male		
+15	1	1920	-32.9	151.75	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	12	
+24	2	1920	-33.33333333	151.5	wobbegong	Orectolobidae	provoked	spearfishing	other: uninjured			male		
+8	3	1920	-19.25	146.8166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso		major lacerations	male	20	1900
+1	7	1920	-20.9	151.7166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	"arm, shoulder, torso"		major lacerations	male		
+1	11	1920	-32.2	152.55	wobbegong	Orectolobidae	provoked	snorkelling	"arm, hand"		minor lacerations	male		
+29	11	1920	-35.01666667	117.3333333	wobbegong	Orectolobidae	unprovoked	other: standing in water	leg			male		2000
+22	11	1920	-31.98333333	115.7333333	wobbegong	Orectolobidae	unprovoked	other: standing in water	"leg, hand"			male		
+1	12	1920	-14.5	144.9166667			provoked	fishing	leg		minor lacerations	male		
+1	12	1920	-28.8	153.2666667	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		minor lacerations	male		
+12	10	1921	-18.23333333	146.65	tiger shark	Galeocerdo cuvier	provoked	snorkelling	arm		major lacerations	male		
+9	10	1921	-16.9	146.2333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	leg		major lacerations	male		
+27	11	1921	-27.43333333	153.15	bull shark	Carcharhinus leucas	unprovoked	swimming	other: body not recovered			male	8	
+27	11	1921	-27.43333333	153.15	bull shark	Carcharhinus leucas	unprovoked	swimming	"leg, pelvic region"		minor lacerations	male		
+11	12	1921	-23.38333333	150.55	bull shark	Carcharhinus leucas	unprovoked	swimming	torso		minor lacerations	male		
+12	1	1922	-32.85	151.8333333	white shark	Carcharodon carcharias	unprovoked	swimming	thigh		minor lacerations	male		
+15	1	1922	-19.45	146.6	bull shark	Carcharhinus leucas	unprovoked	swimming			major lacerations	male	54	
+4	2	1922	-33.91666667	151.25	white shark	Carcharodon carcharias	unprovoked	swimming	arm		major lacerations	male	19	1530
+2	3	1922	-33.91666667	151.25	white shark	Carcharodon carcharias	unprovoked	swimming	"hand, torso"		major lacerations	male	21	1100
+5	12	1922	-25.53333333	152.7	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso		major lacerations	male		
+27	1	1923	-31.96666667	115.7666667	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		major lacerations	male	13	
+7	1	1923	-32.93333333	151.75	white shark	Carcharodon carcharias	provoked	swimming	other: uninjured			male		
+18	3	1923	-19.23333333	146.8166667	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		minor lacerations	male		
+22	5	1923	-16.85	146.15	tiger shark	Galeocerdo cuvier	provoked	snorkelling	torso		major lacerations	male		
+22	5	1923	-28.81666667	114.6166667	wobbegong	Orectolobidae	provoked	fishing	foot		other: teeth marks	male		
+29	6	1923	-18.7	147.7666667	tiger shark	Galeocerdo cuvier	provoked	snorkelling			major lacerations	male		
+16	6	1923	-34.35	150.9166667	white shark	Carcharodon carcharias	unprovoked	swimming	other: body not recovered			male	50	
+16	10	1923	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	arm		major lacerations	male		
+24	11	1923	-20	119.35	tiger shark	Galeocerdo cuvier	provoked		other: body not recovered		major lacerations	male		
+24	11	1923	-20	119.35	tiger shark	Galeocerdo cuvier	provoked		other: half of body recovered		major lacerations	male		
+11	12	1923	-28.31666667	153.4	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		minor lacerations	male		
+19	1	1924	-33.8	151.0166667	bull shark	Carcharhinus leucas	unprovoked	swimming	"arm, torso, foot"		major lacerations	male		1600
+9	2	1924	-33.31666667	115.6333333	wobbegong	Orectolobidae	unprovoked	swimming	foot		minor lacerations	male		
+13	2	1924	-33.9	151.2666667	white shark	Carcharodon carcharias	unprovoked	swimming	"leg, foot"		major lacerations	female	30	0700
+25	4	1924	-34.66666667	150.85	white shark	Carcharodon carcharias	unprovoked	swimming			major lacerations	male	20	
+18	10	1924	-37.83333333	144.9333333	white shark	Carcharodon carcharias	unprovoked	swimming	leg		major lacerations	male		
+27	3	1925	-33.91666667	151.25	white shark	Carcharodon carcharias	unprovoked	swimming	leg		major lacerations	male	16	1700
+12	3	1925	-32.91666667	151.7833333	white shark	Carcharodon carcharias	unprovoked	swimming	"arm, torso"		major lacerations	male	16	1530
+22	11	1925	-31.98333333	115.75	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"torso, leg"		major lacerations	male	55	
+18	3	1926	-34.9	137	white shark	Carcharodon carcharias	unprovoked	swimming	thigh		major lacerations	female		1600
+23	10	1926	-29.45	153.1833333	bull shark	Carcharhinus leucas	unprovoked	swimming				male		1600
+17	11	1926	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	arm		minor lacerations	male		
+2	12	1926	-18.71666667	146.5666667	tiger shark	Galeocerdo cuvier	provoked	snorkelling				male		
+1	1	1927	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	"torso, shoulder"		minor lacerations	male		
+3	1	1927	-34.05	151.0833333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	thigh		major lacerations	male	15	1130
+9	2	1927	-27.46666667	153.0333333	bull shark	Carcharhinus leucas	unprovoked	swimming	other: uninjured			male		
+1	3	1927	-32.93333333	151.75	white shark	Carcharodon carcharias	unprovoked	swimming	"hand, pelvic region"		major lacerations	male	17	1500
+8	4	1927	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	provoked		leg		minor lacerations	male		
+10	4	1927	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	leg		major lacerations	male		
+1	5	1927	-17.21666667	145.9666667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	leg		major lacerations	male		
+26	7	1927	-17.98333333	122.2333333	tiger shark	Galeocerdo cuvier	provoked	diving	other: uninjured			male		
+27	1	1928	-9.516666667	141.5666667	tiger shark	Galeocerdo cuvier	provoked		"arm, leg"		major lacerations	male		
+20	2	1928	-14.15	144.5	tiger shark	Galeocerdo cuvier	provoked	snorkelling				male		
+20	3	1928	-19.8	149.05	tiger shark	Galeocerdo cuvier	provoked	snorkelling	torso		minor lacerations	male		
+6	4	1928	-27.51666667	152.9833333	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		minor lacerations	male	15	
+14	4	1928	-33.88333333	151.2666667	white shark	Carcharodon carcharias	unprovoked	swimming	calf		major lacerations	male	19	1600
+4	4	1928	-32.93333333	151.75	white shark	Carcharodon carcharias	unprovoked	swimming	"hand, leg, torso"		major lacerations	male	27	1800
+11	7	1928	-10.58333333	142.2166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"arm, torso"		major lacerations	male		
+21	12	1928	-10.58333333	142.2166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	"arm, hand"		major lacerations	male		
+27	1	1929	-19.13333333	146.8333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"arm, torso"		major lacerations	male	18	1730
+1	1	1929	-34.41666667	137.9166667	wobbegong	Orectolobidae	provoked	fishing	leg		other: teeth marks	male		
+12	1	1929	-33.88333333	151.2666667	white shark	Carcharodon carcharias	unprovoked	swimming	thigh		major lacerations	male	14	1830
+24	2	1929	-35.03333333	150.7166667	wobbegong	Orectolobidae	provoked	snorkelling	foot		minor lacerations	male		
+18	2	1929	-33.93333333	151.25	white shark	Carcharodon carcharias	unprovoked	swimming	"leg, hand"		major lacerations	male	19	1600
+8	2	1929	-33.88333333	151.2666667	white shark	Carcharodon carcharias	unprovoked	swimming	thigh		major lacerations	male	39	1600
+10	2	1929	-34.96666667	138.5	white shark	Carcharodon carcharias	unprovoked	unmotorised boating	other: uninjured			female		
+26	3	1929	-19.51666667	148.8333333			provoked	snorkelling			major lacerations	male		
+3	3	1929	-34.41666667	137.9166667	wobbegong	Orectolobidae	unprovoked	unmotorised boating	leg			male	12	
+3	3	1929	-34.41666667	137.9166667	wobbegong	Orectolobidae	unprovoked	unmotorised boating	foot			male	12	
+12	3	1929	-9.416666667	142.5333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming				male		
+16	4	1929	-21	149.8833333	tiger shark	Galeocerdo cuvier	provoked	snorkelling	"arm, hand"		major lacerations	male		
+11	4	1929	-26.98333333	153.0666667	bull shark	Carcharhinus leucas	provoked	fishing	leg		major lacerations	male	21	
+9	4	1929	-10.11666667	142.1333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	thigh		major lacerations	male		1200
+31	5	1929	-10.05	143.0666667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	"leg, pelvic region"		major lacerations	male		
+21	9	1929	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	provoked	spearfishing	leg		major lacerations	male		
+1	9	1929	-19.45	146.6	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	42	
+20	10	1929	-10.11666667	142.1333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	foot		major lacerations	male		
+3	12	1929	-19.45	146.6	bull shark	Carcharhinus leucas	unprovoked	swimming	"torso, leg"		major lacerations	male	50	
+16	12	1929	-33.71666667	151.3	wobbegong	Orectolobidae	unprovoked	swimming	leg		minor lacerations	female	17	
+26	12	1929	-33.85	151.1833333	bull shark	Carcharhinus leucas	unprovoked	swimming	"arm, leg, pelvic region"		major lacerations	male	16	
+13	12	1929	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"arm, torso"		major lacerations	male		
+23	12	1929	-28.16666667	153.5333333			unprovoked	swimming	other: uninjured			male		
+1	1	1930	-10.15	142.1833333	tiger shark	Galeocerdo cuvier	provoked	spearfishing	arm		major lacerations	male		
+15	2	1930	-37.9	144.9833333	white shark	Carcharodon carcharias	unprovoked	swimming	other: body not recovered			male	19	1630
+20	2	1930	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"arm, torso"		major lacerations	male		
+4	6	1930	-9.95	142.1833333	tiger shark	Galeocerdo cuvier	unprovoked	swimming				male		
+1	7	1930	-10.25	142.1	tiger shark	Galeocerdo cuvier	provoked	snorkelling				male	16	
+31	8	1930	-28.76666667	114.6	wobbegong	Orectolobidae	provoked	fishing	leg		other: teeth marks	male		
+25	12	1930	-33.83333333	151.0666667	bull shark	Carcharhinus leucas	unprovoked	swimming	torso		abrasion	male	49	
+10	1	1931	-33.8	151.2333333	wobbegong	Orectolobidae	provoked	fishing	foot		minor lacerations	male		
+7	1	1931	-23.11666667	150.7333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso		minor lacerations	male	18	1600
+14	1	1931	-10.58333333	142.2166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	"leg, pelvic region"		major lacerations	male		
+24	1	1931	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling				male		
+22	3	1931	-19.45	146.6	bull shark	Carcharhinus leucas	provoked	swimming	thigh		major lacerations	male	19	
+26	11	1931	-17.53333333	146.0166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	leg		major lacerations	male		
+27	1	1932	-27.6	152.7666667	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		minor lacerations	male		
+13	2	1932	-23.83333333	151.2166667	bull shark	Carcharhinus leucas	provoked	fishing	foot		minor lacerations	male		
+24	2	1932	-34.36666667	150.9166667	wobbegong	Orectolobidae	provoked	fishing	foot		minor lacerations	male		
+1	5	1932	-16.91666667	145.7666667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	arm		major lacerations	male		
+12	5	1932	-9.4	142.6666667	tiger shark	Galeocerdo cuvier	unprovoked	swimming				male		
+9	8	1932	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"leg, pelvic region"		major lacerations	male		
+31	10	1932	-33	151.7166667	white shark	Carcharodon carcharias	unprovoked	swimming	torso		minor lacerations	male	24	1100
+9	12	1932	-11.93333333	132.6166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	leg		major lacerations	male		
+4	1	1933	-19.25	146.8166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso		major lacerations	male	38	
+7	2	1933	-31.96666667	115.85	bull shark	Carcharhinus leucas	provoked	fishing	other: uninjured			male		
+15	2	1933	-14.15	144.5	tiger shark	Galeocerdo cuvier	provoked	snorkelling	"arm, shoulder"		major lacerations	male		
+31	3	1933	-20.96666667	149.75	tiger shark	Galeocerdo cuvier	provoked	snorkelling	leg		major lacerations	male		
+27	6	1933	-12.45	130.8333333			provoked	fishing	other: uninjured			male		
+12	6	1933	-28.13333333	153.4666667	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		abrasion	male		
+3	7	1933	-17.96666667	122.1666667	tiger shark	Galeocerdo cuvier	provoked	diving	other: uninjured			male		
+5	9	1933	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	thigh		major lacerations	male		
+18	10	1933	-14.15	144.5	tiger shark	Galeocerdo cuvier	provoked	snorkelling	"arm, hand"		major lacerations	male	17	
+1	10	1933	-29.1	153.4333333	wobbegong	Orectolobidae	provoked	swimming	foot		minor lacerations	male		
+27	1	1934	-33.98333333	151.0666667	bull shark	Carcharhinus leucas	unprovoked	swimming	"arm, torso"		minor lacerations	male	15	
+7	1	1934	-33.78333333	151.2833333	white shark	Carcharodon carcharias	unprovoked	swimming	leg		major lacerations	male	22	1500
+1	1	1934	-20	148.45	tiger shark	Galeocerdo cuvier	provoked	snorkelling	other: uninjured			male		
+24	2	1934	-10.6	142.6166667	tiger shark	Galeocerdo cuvier	provoked	spearfishing	thigh		abrasion	male		
+12	3	1934	-33.75	151.3	white shark	Carcharodon carcharias	unprovoked	swimming	"leg, pelvic region"		major lacerations	male	17	1500
+15	4	1934	-28.15	153.4833333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	calf		minor lacerations	male	34	0920
+1	4	1934	-33.78333333	151.2833333	white shark	Carcharodon carcharias	unprovoked	swimming	"leg, torso"		major lacerations	male	16	1230
+26	8	1934	-18.23333333	146.3166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso			male		
+2	10	1934	-9.966666667	143.2666667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	arm		major lacerations	male		
+9	10	1934	-11.66666667	132.5166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"arm, torso, thigh"		major lacerations	female		
+31	12	1934	-33.95	151.9666667	bull shark	Carcharhinus leucas	unprovoked	swimming	arm		major lacerations	female	13	2000
+31	12	1934	-33.93333333	150.9666667	bull shark	Carcharhinus leucas	unprovoked	swimming	calf		major lacerations	male	20	1630
+23	12	1934	-33.48333333	151.3	bull shark	Carcharhinus leucas	unprovoked	swimming	torso			male	14	1300
+23	12	1934	-33.48333333	151.3	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		abrasion	female	12	1300
+1	1	1935	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming				male		
+14	2	1935	-34.3	150.9333333	white shark	Carcharodon carcharias	unprovoked	boarding	thigh		minor lacerations	male	20	1730
+9	3	1935	-33.93333333	151.25	white shark	Carcharodon carcharias	unprovoked	swimming	"arm, torso, pelvic region"		major lacerations	male		1230
+30	3	1935	-21.16666667	149.2333333	whaler shark	Carcharhinidae	unprovoked	snorkelling	"leg, pelvic region"		other: teeth marks	male		
+18	3	1935	-14.66666667	145.45	tiger shark	Galeocerdo cuvier	provoked	snorkelling	"hand, thigh"		major lacerations	male		
+2	3	1935	-33.7	151.3	white shark	Carcharodon carcharias	unprovoked	swimming	thigh		major lacerations	male	22	1730
+12	5	1935	-9.4	142.6666667	whaler shark	Carcharhinidae	provoked	snorkelling	"arm, hand"		minor lacerations	male		
+13	8	1935	-9.4	142.6666667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	thigh		major lacerations	male		
+13	11	1935	-17.53333333	146.0166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	"arm, shoulder"		minor lacerations	male		
+1	1	1936	-33.88333333	151.2666667	white shark	Carcharodon carcharias	provoked	boarding	other: uninjured			male		
+1	1	1936	-20.66666667	117.1833333	tiger shark	Galeocerdo cuvier	provoked	snorkelling	leg		major lacerations	male		
+22	1	1936	-34.9	137	white shark	Carcharodon carcharias	unprovoked	swimming	torso			male	16	1800
+4	2	1936	-33.78333333	151.2833333	white shark	Carcharodon carcharias	unprovoked	swimming	other: body not recovered			male	14	1500
+19	2	1936	-27.43333333	153.0833333	bull shark	Carcharhinus leucas	unprovoked	unmotorised boating	other: uninjured			male		
+29	3	1936	-12.78333333	143.6	tiger shark	Galeocerdo cuvier	provoked	snorkelling	arm		major lacerations	male		
+19	3	1936	-12.16666667	143.3833333	whaler shark	Carcharhinidae	unprovoked	swimming	"arm, hand"		minor lacerations	male		
+21	4	1936	-16.7	146.05	tiger shark	Galeocerdo cuvier	provoked	snorkelling	"arm, torso, foot"		major lacerations	male	16	
+28	5	1936	-20.81666667	149.4833333			provoked	snorkelling	leg		major lacerations	male		
+26	6	1936	-10.6	142.2166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	torso		major lacerations	male	16	
+4	7	1936	-20.81666667	149.4833333	tiger shark	Galeocerdo cuvier	provoked	snorkelling	torso		major lacerations	male		
+24	8	1936	-9.95	142.1833333	whaler shark	Carcharhinidae	provoked	snorkelling	foot		other: teeth marks	male		
+20	11	1936	-31.98333333	115.5333333	wobbegong	Orectolobidae	provoked	swimming	leg		minor lacerations	male		
+19	11	1936	-33.95	151.15	wobbegong	Orectolobidae	unprovoked	swimming	foot		minor lacerations	male	16	
+12	12	1936	-32.9	151.75	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	16	1130
+1	1	1937	-10.58333333	142.2166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming			major lacerations	male		
+13	2	1937	-32.93333333	151.75	white shark	Carcharodon carcharias	unprovoked	swimming	"torso, leg"		major lacerations	male	32	
+11	2	1937	-30.91666667	153.0833333	wobbegong	Orectolobidae	unprovoked	swimming	foot		minor lacerations	male		
+15	5	1937	-19.45	146.6	bull shark	Carcharhinus leucas	unprovoked	swimming	"leg, hand"		major lacerations	male	33	
+31	8	1937	-9.95	142.1833333	tiger shark	Galeocerdo cuvier	provoked	snorkelling	head		major lacerations	male		
+24	10	1937	-28.63333333	153.6166667	white shark	Carcharodon carcharias	unprovoked	swimming	torso		other: teeth marks	male	16	
+27	10	1937	-28.16666667	153.5166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"arm, torso, leg"		major lacerations	male	18	1715
+27	10	1937	-28.16666667	153.5166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso		major lacerations	male	18	1715
+20	11	1937	-23.38333333	150.5166667	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		abrasion	male		
+11	11	1937	-18.53333333	146.2333333	tiger shark	Galeocerdo cuvier	provoked	snorkelling	"calf, foot"		major lacerations	male	17	
+1	1	1938	-18.13333333	146.25	tiger shark	Galeocerdo cuvier	provoked	fishing	thigh		major lacerations	male		
+14	1	1938	-33.85	151.25	bull shark	Carcharhinus leucas	provoked	swimming	"leg, foot"		major lacerations	male	24	
+2	1	1938	-34.03333333	151.15	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		
+8	3	1938	-12.03333333	134.2	whaler shark	Carcharhinidae	unprovoked	unmotorised boating	leg		major lacerations	male		
+11	6	1938	-10.56666667	142.1666667			provoked	diving	other: body not recovered			male		
+10	7	1938	-11.4	130.4	whaler shark	Carcharhinidae	provoked	diving	other: body not recovered			male		
+11	10	1938	-27.43333333	153.1666667	tiger shark	Galeocerdo cuvier	provoked	fishing	foot		minor lacerations	male		
+14	11	1938	-27.35	153.1166667	wobbegong	Orectolobidae	provoked	swimming	foot		other: teeth marks	male		
+12	1	1939	-29.41666667	152.3333333	bull shark	Carcharhinus leucas	provoked	fishing	other: uninjured			male	11	
+25	9	1939	-9.95	142.1666667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	leg		major lacerations	male	17	
+1	10	1939	-16.71666667	154.6833333			unprovoked	swimming	foot		major lacerations	male		
+24	10	1939	-12.61666667	143.45	tiger shark	Galeocerdo cuvier	provoked	snorkelling	thigh		major lacerations	male	27	
+28	12	1939	-33.98333333	151.0666667	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		surface wound	male	40	
+14	12	1939	-21.16666667	149.2333333	bull shark	Carcharhinus leucas	unprovoked	swimming	"leg, foot"		major lacerations	male	20	1215
+1	1	1940	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	head		major lacerations	male		
+30	1	1940	-27.48333333	153.0166667	bull shark	Carcharhinus leucas	unprovoked	swimming	"torso, shoulder"		minor lacerations	male	17	
+15	1	1940	-28	153.4166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"arm, torso"		minor lacerations	male	22	
+23	1	1940	-33.95	151.15	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"torso, leg"		major lacerations	male	13	1040
+4	2	1940	-33.95	151.15	bull shark	Carcharhinus leucas	unprovoked	swimming	arm		major lacerations	male	55	1400
+20	3	1940	-34.73333333	150.8333333	wobbegong	Orectolobidae	provoked	snorkelling	foot		minor lacerations	male		
+28	5	1940	-21.4	150.5333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming			minor lacerations	male	56	
+28	12	1940	-32.85	151.8333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso		major lacerations	male	23	0900
+8	10	1941	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming				male		
+15	10	1941	-10.11666667	142.1333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming				male		
+19	11	1941	-26.46666667	110.2666667			unprovoked	swimming	leg		minor lacerations	male		
+5	12	1941	-24.88333333	113.65	bull shark	Carcharhinus leucas	unprovoked	swimming	foot		major lacerations	male		
+4	1	1942	-33.76666667	151.2166667	bull shark	Carcharhinus leucas	unprovoked	swimming	torso		major lacerations	female	28	1500
+18	1	1942	-33.78333333	151.2833333	white shark	Carcharodon carcharias	provoked	boarding	other: uninjured			male		
+9	5	1942	-17.7	146.5166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	arm		major lacerations	male		
+4	8	1942	-20.08333333	148.8833333			provoked	snorkelling	leg		major lacerations	male		
+12	9	1942	-16.78333333	145.7	tiger shark	Galeocerdo cuvier	unprovoked	swimming	leg		major lacerations	male	24	1630
+26	12	1942	-33.76666667	151.2166667	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	female	15	1050
+1	1	1943	-12.46666667	130.8333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso		minor lacerations	male		
+14	1	1944	-32.16666667	152.5166667	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	male	14	
+7	2	1945	-33.95	151.25	wobbegong	Orectolobidae	provoked	fishing	"arm, hand"		minor lacerations	male	24	
+15	6	1945	-16.71666667	145.6666667	tiger shark	Galeocerdo cuvier	unprovoked	swimming				male		1600
+17	1	1946	-19.25	146.8166667			unprovoked	swimming	foot		minor lacerations	male	12	
+5	1	1946	-33.98333333	151.0833333	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	female	14	
+10	2	1946	-31.93333333	115.75	white shark	Carcharodon carcharias	unprovoked	swimming	"thigh, calf, foot"		major lacerations	male	18	1215
+19	4	1946	-16.78333333	145.7	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"arm, leg"		major lacerations	male	17	0830
+18	8	1946	-16.71666667	145.6333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso		major lacerations	male	30	1520
+14	10	1946	-33.05	151.6333333	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		minor lacerations	male	15	1300
+20	11	1946	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	arm		major lacerations	male	30	
+27	12	1946	-34.96666667	138.5	white shark	Carcharodon carcharias	unprovoked	swimming	"arm, hand"		minor lacerations	male	23	
+23	7	1947	-12.45	130.7833333	tiger shark	Galeocerdo cuvier	provoked	diving	other: uninjured			male		
+27	10	1947	-16.55	139.4	tiger shark	Galeocerdo cuvier	unprovoked	other: standing in water	leg		major lacerations	male		
+8	11	1947	-31.33333333	152.8333333	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	12	1600
+8	11	1947	-31.33333333	152.8333333	bull shark	Carcharhinus leucas	unprovoked	swimming	foot		minor lacerations	male	13	1600
+21	12	1947	-31.7	152.75	bull shark	Carcharhinus leucas	provoked	fishing	thigh		minor lacerations	male	9	
+5	1	1948	-31.98333333	115.5333333	wobbegong	Orectolobidae	provoked	swimming	leg		other: teeth marks	male		
+12	2	1948	-32.85	151.8333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"torso, leg"		major lacerations	male	16	
+18	11	1948	-9.633333333	142.6833333	tiger shark	Galeocerdo cuvier	provoked	snorkelling	leg		major lacerations	male	41	
+26	12	1948	-26.8	153.1333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"arm, leg, pelvic region"		major lacerations	male	28	1130
+4	12	1948	-33.85	151.25	tiger shark	Galeocerdo cuvier	provoked	spearfishing	other: uninjured			male		
+14	1	1949	-33.88333333	151.2666667	whaler shark	Carcharhinidae	provoked	boarding	other: uninjured			male	32	
+17	1	1949	-29.1	153.4333333	wobbegong	Orectolobidae	provoked		leg		minor lacerations	male		
+13	1	1949	-33.66666667	151.3	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	0	
+23	1	1949	-32.93333333	151.75	white shark	Carcharodon carcharias	unprovoked	swimming	"leg, hand"		major lacerations	male	20	1500
+26	2	1949	-33.65	151.3166667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		
+17	4	1949	-16.71666667	145.6333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	leg		major lacerations	male	13	1330
+16	5	1949	-17.96666667	122.1666667	bull shark	Carcharhinus leucas	unprovoked	swimming	arm		major lacerations	female	22	
+16	8	1949	-40.11666667	148.9333333	white shark	Carcharodon carcharias	unprovoked	swimming	thigh		minor lacerations	male	18	
+28	8	1949	-16.81666667	145.7666667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso		abrasion	male	21	1330
+28	8	1949	-16.81666667	145.7666667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso		major lacerations	male	34	1330
+20	11	1949	-34	151.2	wobbegong	Orectolobidae	provoked	swimming	arm		minor lacerations	male	36	
+8	1	1950	-37.96666667	144.7	wobbegong	Orectolobidae	provoked	swimming	foot		minor lacerations	male		
+11	4	1950	-16.9	145.85	tiger shark	Galeocerdo cuvier	unprovoked	swimming			major lacerations	male	50	
+25	11	1950	-28.1	153.1	bull shark	Carcharhinus leucas	unprovoked	swimming	"hand, pelvic region"		major lacerations	male	21	1700
+12	11	1950	-23.11666667	150.7333333	tiger shark	Galeocerdo cuvier	unprovoked	unmotorised boating	other: uninjured			male	18	
+16	12	1950	-28.1	153.4666667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"leg, torso"		major lacerations	male	20	1615
+3	2	1951	-34.53333333	150.8666667	bull shark	Carcharhinus leucas	provoked	spearfishing	"thigh, torso"		abrasion	male	20	
+1	2	1951	-33.88333333	151.2666667	wobbegong	Orectolobidae	unprovoked	swimming	leg		major lacerations	male	14	
+26	3	1951	-33.63333333	151.3166667	wobbegong	Orectolobidae	provoked	boarding	torso		minor lacerations	male	23	
+2	9	1951	-23.38333333	150.55	bull shark	Carcharhinus leucas	unprovoked	swimming	"leg, torso"		major lacerations	male	56	
+22	10	1951	-19.23333333	146.8	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"hand, torso, thigh"		major lacerations	male	42	1900
+6	12	1951	-32.93333333	151.75	white shark	Carcharodon carcharias	unprovoked	swimming	"arm, leg, torso"		major lacerations	male	21	1600
+30	12	1951	-33.36666667	151.4333333	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	32	
+7	1	1952	-29.1	153.4333333	wobbegong	Orectolobidae	unprovoked	boarding	"calf, foot"		minor lacerations	male		
+10	2	1952	-19.25	146.8166667	bull shark	Carcharhinus leucas	provoked		other: uninjured			male		
+6	5	1952	-35.06666667	117.05	wobbegong	Orectolobidae	provoked	fishing	"arm, hand"		abrasion	male		
+24	11	1952	-38.38333333	145.15	white shark	Carcharodon carcharias	unprovoked	swimming	torso		abrasion	male	23	
+21	12	1952	-38.01666667	140.5666667	white shark	Carcharodon carcharias	provoked	fishing	thigh		major lacerations	male	25	
+1	2	1953	-33.86666667	151.2	wobbegong	Orectolobidae	provoked	spearfishing	leg		major lacerations	male		
+15	2	1953	-34.56666667	150.8666667	wobbegong	Orectolobidae	provoked	spearfishing	head		other: teeth marks	male	25	
+1	2	1953	-33.71666667	151.3	wobbegong	Orectolobidae	provoked	spearfishing	foot		minor lacerations	male		
+22	3	1953	-33.73333333	151.3	tiger shark	Galeocerdo cuvier	provoked	spearfishing	arm		minor lacerations	male	23	
+29	12	1953	-33.93333333	151.25	white shark	Carcharodon carcharias	unprovoked	swimming	other: uninjured			male	26	
+22	12	1953	-33.93333333	151.25	white shark	Carcharodon carcharias	unprovoked	swimming	"arm, leg"		abrasion	male	26	
+13	12	1953	-28.11666667	153.4666667	white shark	Carcharodon carcharias	unprovoked	swimming	torso		surface wound	male	16	1200
+20	1	1954	-38.05	140.7	wobbegong	Orectolobidae	provoked		"arm, hand"		minor lacerations	male		
+22	1	1954	-10.23333333	142.4833333	tiger shark	Galeocerdo cuvier	provoked	spearfishing	arm		major lacerations	female		
+30	1	1954	-33.45	151.4333333	whaler shark	Carcharhinidae	unprovoked	swimming	arm		minor lacerations	male		
+27	2	1954	-33.33333333	151.5	white shark	Carcharodon carcharias	unprovoked	swimming	thigh		major lacerations	male	23	1715
+28	6	1954	-16.91666667	145.99445	tiger shark	Galeocerdo cuvier	provoked	snorkelling	"arm, shoulder"		major lacerations	male	30	
+4	9	1954	-9.583333333	143.7666667	tiger shark	Galeocerdo cuvier	provoked	spearfishing			major lacerations	male		
+17	1	1955	-33.81666667	151.25	bull shark	Carcharhinus leucas	provoked	spearfishing	"leg, hand"		major lacerations	male	13	1500
+5	2	1955	-33.78333333	151.2166667	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	25	1400
+9	3	1955	-33.41666667	151.45	white shark	Carcharodon carcharias	unprovoked	swimming	other: body not recovered			male	22	1800
+15	10	1955	-17.93333333	145.9333333	wobbegong	Orectolobidae	provoked	spearfishing	"arm, hand"		minor lacerations	male	28	1500
+14	1	1956	-17.71666667	146.4	tiger shark	Galeocerdo cuvier	provoked	snorkelling	leg		minor lacerations	male	18	
+26	2	1956	-21.11666667	149.15	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	14	1100
+4	2	1956	-38.43333333	145.2333333	wobbegong	Orectolobidae	unprovoked	swimming	leg		minor lacerations	male		
+19	2	1956	-37.96666667	145	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing	other: uninjured			male	19	
+17	3	1956	-32.13333333	115.7333333	whaler shark	Carcharhinidae	unprovoked	diving	other: uninjured			male	25	2155
+4	3	1956	-38.33333333	144.7	white shark	Carcharodon carcharias	unprovoked	swimming	torso		major lacerations	male	26	1700
+1	5	1956	-10.58333333	142.2166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling			major lacerations	male		
+15	8	1956	-28	153.4166667	wobbegong	Orectolobidae	provoked	diving	arm		other: teeth marks	male		
+1	1	1957	-28.63333333	153.6166667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		
+2	2	1957	-16.38333333	122.9166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming				male		
+23	4	1957	-32.93333333	151.75	wobbegong	Orectolobidae	unprovoked	swimming	foot		minor lacerations	male	15	
+13	4	1957	-10.56666667	142.2166667	tiger shark	Galeocerdo cuvier	provoked	swimming	"arm, shoulder"		major lacerations	male	22	1400
+11	5	1957	-32.68333333	152.1833333	white shark	Carcharodon carcharias	provoked	spearfishing	thigh		minor lacerations	male	28	
+9	7	1957	-10.58333333	142.2166667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	arm		major lacerations	male	36	
+19	1	1958	-28.53333333	153.55	wobbegong	Orectolobidae	unprovoked	swimming	foot		other: teeth marks	male	14	
+27	1	1958	-35.2	150.55	white shark	Carcharodon carcharias	provoked	spearfishing	leg		minor lacerations	male	17	
+9	2	1958	-33.05	151.6333333	bull shark	Carcharhinus leucas	provoked	fishing	other: uninjured			male		
+10	3	1958	-9.75	143.4	tiger shark	Galeocerdo cuvier	provoked	spearfishing	leg		major lacerations	male	24	
+23	3	1958	-38.21666667	145.0166667	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing	other: uninjured			male		
+1	9	1958	-32.71666667	152.1666667	wobbegong	Orectolobidae	provoked	spearfishing	"arm, hand"		minor lacerations	male		
+23	11	1958	-28	153.4166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso		major lacerations	male	22	
+31	1	1959	-31.95	115.85	bull shark	Carcharhinus leucas	provoked	fishing	calf		abrasion	male	20	
+17	1	1959	-26.66666667	153.1166667	wobbegong	Orectolobidae	unprovoked	swimming	foot		minor lacerations	male	18	0920
+17	1	1959	-43.15	147.85	white shark	Carcharodon carcharias	provoked	swimming	other: body not recovered			male	22	1630
+25	1	1959	-39.85	143.8333333	white shark	Carcharodon carcharias	unprovoked	unmotorised boating	leg		abrasion	male	16	
+5	4	1959	-34.3	150.9166667	whaler shark	Carcharhinidae	provoked	spearfishing	other: uninjured			male		
+11	4	1959	-10.58333333	142.2166667	tiger shark	Galeocerdo cuvier	provoked		"arm, hand"		major lacerations	male	43	
+22	11	1959	-28.01666667	153.4333333	tiger shark	Galeocerdo cuvier	provoked	swimming	leg		major lacerations	male	19	1100
+29	11	1959	-38.45	144.0833333	white shark	Carcharodon carcharias	unprovoked	swimming	leg		major lacerations	male	19	1430
+19	12	1959	-27.43333333	153.1666667	tiger shark	Galeocerdo cuvier	unprovoked	swimming			major lacerations	male	29	
+29	12	1959	-27.23333333	153.1	tiger shark	Galeocerdo cuvier	provoked	boarding	other: uninjured			male		
+15	1	1960	-37.98333333	145.0166667	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing	head		minor lacerations	male		
+16	1	1960	-33.76666667	151.2	bull shark	Carcharhinus leucas	unprovoked	snorkelling	leg		major lacerations	male	13	1530
+3	4	1960	-38.16666667	145.0666667	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing	head		minor lacerations	male		
+13	4	1960	-30.86666667	153.0333333	white shark	Carcharodon carcharias	unprovoked	swimming	"arm, torso"		abrasion	male	17	
+3	4	1960	-32.6	152.3166667	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing	other: uninjured			male		
+27	11	1960	-21.13333333	149.2	whaler shark	Carcharhinidae	unprovoked	swimming	"arm, shoulder"		minor lacerations	male	44	1445
+3	11	1960	-34.21666667	115.0166667	wobbegong	Orectolobidae	provoked	spearfishing	arm		abrasion	male	24	
+27	12	1960	-33.78333333	151.2833333	whaler shark	Carcharhinidae	unprovoked	swimming	torso		abrasion	female	27	
+20	12	1960	-27.36666667	153.15	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		minor lacerations	male	33	0900
+14	1	1961	-30.63333333	153.1833333	dogfish	Squalidae	provoked	swimming	head		minor lacerations	male	40	
+17	2	1961	-38.26666667	145.0166667	wobbegong	Orectolobidae	unprovoked	swimming			abrasion	female		
+1	2	1961	-32.11666667	115.65	wobbegong	Orectolobidae	provoked	spearfishing	other: uninjured			male		
+30	3	1961	-34.96666667	138.5	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing	leg		abrasion	male	24	
+18	3	1961	-38.38333333	142.4833333	white shark	Carcharodon carcharias	unprovoked	swimming	torso		major lacerations	male	21	1700
+12	3	1961	-35.28333333	138.4333333	white shark	Carcharodon carcharias	provoked	spearfishing	"arm, leg"		major lacerations	male	21	1430
+3	4	1961	-38.46666667	145.0166667	dusky shark	Carcharhinus obscurus	provoked	spearfishing	other: uninjured			male	24	0830
+18	12	1961	-26.36666667	153.0833333	bull shark	Carcharhinus leucas	unprovoked	boarding	"arm, leg"		major lacerations	male	22	0600
+28	12	1961	-21.06666667	149.2166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"arm, hand"		major lacerations	male	24	1615
+28	12	1961	-21.06666667	149.2166667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"arm, thigh"		major lacerations	female	18	1615
+13	12	1961	-10.38333333	142.2833333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	leg		major lacerations	male	17	1400
+14	1	1962	-28.78333333	153.5833333	white shark	Carcharodon carcharias	unprovoked	boarding	foot		major lacerations	male	19	
+7	1	1962	-33.73333333	151.3	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		
+4	2	1962	-28.15	153.5333333	wobbegong	Orectolobidae	provoked	swimming	leg		other: teeth marks	male	35	1430
+29	11	1962	-33.73333333	151.3166667	whaler shark	Carcharhinidae	provoked	spearfishing	other: uninjured			male	26	
+10	12	1962	-35.4	138.3166667	white shark	Carcharodon carcharias	provoked	spearfishing	leg		major lacerations	male	16	1300
+28	1	1963	-33.78333333	151.2333333	bull shark	Carcharhinus leucas	unprovoked	other: standing in water	leg		major lacerations	female	32	
+24	2	1963	-34.3	150.9333333	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing	calf		minor lacerations	male	18	
+13	4	1963	-33.63333333	115	white shark	Carcharodon carcharias	unprovoked	boarding	arm		major lacerations	male	25	
+8	12	1963	-35.28333333	138.4333333	white shark	Carcharodon carcharias	provoked	spearfishing	"arm, torso"		minor lacerations	male	23	
+1	1	1964	-31.95	115.85	whaler shark	Carcharhinidae	provoked	spearfishing	other: uninjured			male		
+18	1	1964	-34.21666667	115.0166667	wobbegong	Orectolobidae	provoked	spearfishing	arm		other: teeth marks	male		
+28	3	1964	-35.53333333	138.6166667	white shark	Carcharodon carcharias	unprovoked	boarding	thigh		major lacerations	male	19	
+4	10	1964	-32.51666667	115.6833333			provoked	swimming	leg		other: teeth marks	male	19	
+29	11	1964	-38.41666667	142	white shark	Carcharodon carcharias	provoked	snorkelling	leg		major lacerations	male	25	1330
+16	1	1965	-37.83333333	144.9333333	wobbegong	Orectolobidae	provoked	other: standing in water	thigh		minor lacerations	male		
+3	11	1965	-16.91666667	145.7666667	tiger shark	Galeocerdo cuvier	unprovoked	boarding	thigh		other: teeth marks	male	24	
+27	12	1965	-31.98333333	115.5333333	wobbegong	Orectolobidae	provoked	spearfishing	leg		other: teeth marks	male	40	
+27	2	1966	-34.28333333	150.9333333	white shark	Carcharodon carcharias	unprovoked	swimming	"arm, leg"		major lacerations	male	13	1400
+20	5	1966	-35.03333333	150.7166667	white shark	Carcharodon carcharias	unprovoked	swimming	"arm, shoulder"		major lacerations	male	40	
+8	9	1966	-31.98333333	115.5333333	shortfin mako shark	Isurus oxyrinchus	provoked	spearfishing	other: uninjured			male		
+26	12	1966	-33.91666667	151.25	wobbegong	Orectolobidae	provoked	spearfishing	leg		major lacerations	male		
+26	12	1966	-23.43333333	151.9	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing	"torso, shoulder"		major lacerations	male		
+31	12	1966	-41.86666667	148.3	white shark	Carcharodon carcharias	provoked	swimming	arm		minor lacerations	male	30	1320
+27	12	1966	-30.88333333	153.05	wobbegong	Orectolobidae	provoked	spearfishing	"arm, hand"		major lacerations	male	19	
+15	4	1967	-34.41666667	150.8833333	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing	"arm, hand"		minor lacerations	male	21	
+19	8	1967	-30.25	115.0166667	white shark	Carcharodon carcharias	provoked	spearfishing	torso		major lacerations	male	23	
+20	2	1968	-31.95	115.85	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		minor lacerations	female	12	
+4	2	1968	-35.6	138.0833333	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing	other: uninjured			male	26	1830
+12	9	1968	-35	136.1666667	white shark	Carcharodon carcharias	provoked	diving	other: uninjured			male		
+27	1	1969	-35	150.8166667	bronze whaler shark	Carcharhinus brachyurus	provoked	snorkelling	leg		minor lacerations	male	21	0730
+24	6	1969	-34.66666667	150.85	wobbegong	Orectolobidae	provoked	spearfishing	"leg, hand"		minor lacerations	male	37	1500
+29	11	1969	-31.95	115.85	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		minor lacerations	male	15	
+2	1	1971	-41.15	148.35	school shark	Galeorhinus galeus	unprovoked	swimming	torso		minor lacerations	male		1640
+8	2	1971	-33.85	121.8833333	whaler shark	Carcharhinidae	provoked	spearfishing	"arm, hand"		major lacerations	male	21	
+10	12	1971	-23.48333333	151.2	tiger shark	Galeocerdo cuvier	unprovoked	swimming	other: body not recovered			male	19	1500
+20	2	1972	-38.81666667	148.0833333	white shark	Carcharodon carcharias	unprovoked	boarding	leg		minor lacerations	male	18	
+1	4	1972	-27.46666667	153.2333333			unprovoked	swimming	leg		minor lacerations	female		
+8	8	1972	-43.23333333	148	white shark	Carcharodon carcharias	provoked	diving	foot		minor lacerations	male	45	1115
+21	10	1972	-35.35	150.4666667	white shark	Carcharodon carcharias	unprovoked	boarding	thigh		major lacerations	male	18	0830
+21	10	1972	-17.1	146.4	whaler shark	Carcharhinidae	provoked	spearfishing	arm		minor lacerations	male	24	
+1	11	1972	-35	136.1666667	white shark	Carcharodon carcharias	provoked	diving	other: uninjured			male		
+10	1	1973	-33.51666667	151.3166667	white shark	Carcharodon carcharias	unprovoked	boarding	foot		minor lacerations	male	19	
+25	3	1973	-18.51666667	146.35	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"arm, hand"		minor lacerations	male	43	
+25	8	1973	-27.41666667	153.5333333	white shark	Carcharodon carcharias	unprovoked	boarding	foot		major lacerations	male	16	0730
+3	11	1973	-17.68333333	139.3666667	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		minor lacerations	male		
+9	1	1974	-32.76666667	134.2	white shark	Carcharodon carcharias	provoked	diving	"arm, leg, torso"		major lacerations	male	25	1300
+1	9	1974	-27.73333333	153.6833333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso			male	30	
+10	12	1974	-33.63333333	115.35	wobbegong	Orectolobidae	unprovoked	diving				male	32	
+19	1	1975	-34.68333333	135.35	white shark	Carcharodon carcharias	unprovoked	boarding	torso			male	17	1100
+27	2	1975	-38.93333333	146.2333333	white shark	Carcharodon carcharias	unprovoked	boarding	thigh		minor lacerations	male	22	
+7	2	1975	-32.08333333	132.9666667	white shark	Carcharodon carcharias	provoked	snorkelling	leg		major lacerations	male	12	
+9	2	1975	-38.4	144.1833333	wobbegong	Orectolobidae	provoked	snorkelling	"torso, shoulder"		minor lacerations	male	45	
+18	3	1975	-16.55	139.4	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"arm, hand"		major lacerations	female		
+26	7	1975	-26.65	153.0833333	white shark	Carcharodon carcharias	unprovoked	boarding	"leg, pelvic region"		major lacerations	male	21	1700
+30	7	1975	-43.35	147.35	white shark	Carcharodon carcharias	provoked	diving	other: body not recovered			male	37	1300
+20	11	1975	-33.78333333	151.2833333	wobbegong	Orectolobidae	provoked	spearfishing	leg		minor lacerations	male	20	1215
+19	9	1976	-32.98333333	137.7833333	white shark	Carcharodon carcharias	provoked	spearfishing	leg		major lacerations	male	17	
+26	2	1977	-28.23333333	153.5666667	tiger shark	Galeocerdo cuvier	unprovoked	boarding			major lacerations	male	24	
+13	3	1977	-27.25	153.25	tiger shark	Galeocerdo cuvier	unprovoked	swimming	other: body not recovered			male	43	
+13	3	1977	-27.25	153.25	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso			male	74	
+25	4	1977	-28.08333333	153.45	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	19	
+23	8	1977	-26.68333333	153.1333333	tiger shark	Galeocerdo cuvier	unprovoked	snorkelling	"arm, torso, foot"		major lacerations	male	26	
+31	8	1977	-32.08333333	132.9666667	white shark	Carcharodon carcharias	unprovoked	boarding	thigh		minor lacerations	male	17	
+28	8	1978	-31.76666667	115.7166667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	15	0730
+1	9	1978	-43.16666667	147.9833333	white shark	Carcharodon carcharias	provoked	diving	other: uninjured			male	34	1200
+29	12	1978	-26.8	153.1166667	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		other: teeth marks	male	15	
+2	1	1979	-26.66666667	153.1166667	bronze whaler shark	Carcharhinus brachyurus	provoked	swimming	other: uninjured			male		
+16	9	1979	-28.63333333	153.6166667	whaler shark	Carcharhinidae	unprovoked	swimming	thigh		minor lacerations	male	18	
+5	1	1980	-32.43333333	152.5166667	wobbegong	Orectolobidae	provoked	diving	arm		minor lacerations	male		
+2	3	1980	-38.41666667	145.05	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing	"arm, hand"		minor lacerations	male	42	1130
+28	3	1980	-27.41666667	153.5333333	whaler shark	Carcharhinidae	unprovoked	boarding	calf		minor lacerations	male	21	
+1	9	1980	-32.08333333	132.9666667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		
+22	10	1980	-16.91666667	145.7666667	grey reef shark	Carcharhinus amblyrhynchos	provoked	diving	head		minor lacerations	female		
+18	11	1980	-31	115.3	white shark	Carcharodon carcharias	unprovoked	swimming	torso		major lacerations	male		
+1	1	1981	-28.63333333	153.6166667	tiger shark	Galeocerdo cuvier	unprovoked	boarding	other: uninjured			male	27	0700
+7	2	1981	-32	115.5166667	wobbegong	Orectolobidae	unprovoked	swimming	leg		surface wound	male	37	
+16	2	1981	-32.01666667	115.7333333	wobbegong	Orectolobidae	unprovoked	other: standing in water	foot		other: teeth marks	male		
+13	12	1981	-16.75	145.9666667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso		major lacerations	female		
+1	2	1982	-43.51666667	146.9	white shark	Carcharodon carcharias	provoked	diving	other: uninjured			male		
+28	2	1982	-43.56666667	146.8833333	white shark	Carcharodon carcharias	provoked	spearfishing	other: body not recovered			male	32	
+7	3	1982	-28.63333333	153.6166667	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	male	20	
+25	7	1983	-18.9	147.7333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming				male	33	
+25	7	1983	-18.68333333	147.1	tiger shark	Galeocerdo cuvier	unprovoked	swimming	other: body not recovered			female	21	0400
+25	7	1983	-18.68333333	147.1	tiger shark	Galeocerdo cuvier	unprovoked	swimming	other: body not recovered			male	24	
+12	11	1983	-28.16666667	153.5333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	thigh		minor lacerations	male	10	
+1	12	1983	-35.31666667	136.1	white shark	Carcharodon carcharias	provoked	diving	"arm, hand"		minor lacerations	male		
+11	2	1984	-21.13333333	149.1833333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"arm, hand"		major lacerations	male	27	
+1	3	1984	-23.13333333	113.7666667	whaler shark	Carcharhinidae	unprovoked	other: standing in water	calf		minor lacerations	male	25	
+16	3	1984	-31.83333333	115.75	wobbegong	Orectolobidae	unprovoked	other: standing in water	leg		other: teeth marks	male		
+15	6	1984	-43.23333333	147.7833333	white shark	Carcharodon carcharias	provoked	diving				male		
+1	9	1984	-14.11666667	129.5333333	tiger shark	Galeocerdo cuvier	unprovoked	other: standing in water	"arm, head, torso"		minor lacerations	female	27	
+1	10	1984	-28.68333333	153.6166667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	25	0700
+14	10	1984	-43.13333333	148	white shark	Carcharodon carcharias	provoked	diving				male		
+30	11	1984	-21.05	149.1833333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	"arm, head, torso"		major lacerations	male	15	1200
+1	2	1985	-38.33333333	144.3	white shark	Carcharodon carcharias	unprovoked	boarding				male	36	0600
+1	3	1985	-31.85	115.75	wobbegong	Orectolobidae	provoked	diving	thigh		minor lacerations	female	20	1030
+3	3	1985	-34.46666667	136.0166667	white shark	Carcharodon carcharias	unprovoked	snorkelling	torso		major lacerations	female	33	1230
+1	9	1985	-13.91666667	146.6166667	whitetip reef shark	Triaenodon obesus	provoked	diving	"arm, hand"		surface wound	male		
+14	12	1985	-29.91666667	153.3833333	wobbegong	Orectolobidae	provoked	diving	thigh		other: teeth marks	male		
+1	1	1986	-10.66666667	142.1833333	tiger shark	Galeocerdo cuvier	provoked	spearfishing				male		
+16	3	1986	-12.36666667	130.8333333	wobbegong	Orectolobidae	provoked	swimming	leg		other: teeth marks	male	13	
+18	5	1986	-33.81666667	151.3	wobbegong	Orectolobidae	unprovoked	diving	"arm, hand"		minor lacerations	male	41	0930
+3	8	1986	-33.81666667	151.3	wobbegong	Orectolobidae	unprovoked	diving	thigh		other: teeth marks	female		1130
+1	10	1986	-12.15	96.81666667	tiger shark	Galeocerdo cuvier	unprovoked	boarding				male	39	1100
+6	1	1987	-14.66666667	145.45	tiger shark	Galeocerdo cuvier	unprovoked	swimming	calf		minor lacerations	male	38	0730
+28	1	1987	-13.91666667	146.6166667	whitetip reef shark	Triaenodon obesus	provoked	diving	"torso, pelvic region"		abrasion	female		
+2	2	1987	-32.16666667	152.5166667	wobbegong	Orectolobidae	provoked	diving	thigh		other: teeth marks	female	17	0945
+4	2	1987	-38.46666667	144.8833333	white shark	Carcharodon carcharias	unprovoked	boarding			major lacerations	male		
+30	3	1987	-33.88333333	121.8166667	white shark	Carcharodon carcharias	unprovoked	boarding	leg			male	19	1730
+1	4	1987	-32.16666667	115.65	wobbegong	Orectolobidae	unprovoked	swimming	leg		other: teeth marks	male		
+18	9	1987	-34.91666667	138.5833333	white shark	Carcharodon carcharias	unprovoked	diving				male	47	
+1	10	1987	-14.16666667	132.1833333	bull shark	Carcharhinus leucas	unprovoked	swimming	arm		minor lacerations	female		
+10	12	1987	-14.66666667	145.45	hammerhead shark 	Sphyrnidae	provoked	diving	other: uninjured			male		1200
+4	7	1988	-33.26666667	151.5666667	white shark	Carcharodon carcharias	unprovoked	swimming	calf		minor lacerations	female	10	
+6	10	1988	-34.91666667	138.5833333	white shark	Carcharodon carcharias	unprovoked	boarding	"leg, hand"		other: teeth marks	male	15	1215
+1	10	1988	-23.9	152.3833333	tiger shark	Galeocerdo cuvier	provoked	spearfishing	other: uninjured			male		
+22	10	1988	-38.5	145.2666667	white shark	Carcharodon carcharias	unprovoked	boarding	calf		minor lacerations	male	35	1500
+8	11	1988	-23.11666667	150.7333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso			male	17	
+7	11	1988	-23.11666667	150.7333333	tiger shark	Galeocerdo cuvier	unprovoked	swimming				male	62	
+1	1	1989	-33.86666667	151.2	wobbegong	Orectolobidae	provoked	diving	arm			male	19	
+1	1	1989	-38.5	145.2666667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	30	1700
+1	1	1989	-32	115.5166667	wobbegong	Orectolobidae	unprovoked	snorkelling	leg		other: teeth marks	male		1400
+3	1	1989	-28.88333333	153.55	white shark	Carcharodon carcharias	unprovoked	boarding	torso		other: teeth marks	male	17	1600
+4	3	1989	-17.96666667	122.2333333	tiger shark	Galeocerdo cuvier	provoked	snorkelling				male		1100
+15	3	1989	-10.11666667	142.1333333	whaler shark	Carcharhinidae	provoked	spearfishing	thigh		minor lacerations	male	32	1630
+9	3	1989	-35.63333333	138.4833333	white shark	Carcharodon carcharias	unprovoked	boarding	thigh		major lacerations	male	27	2015
+13	8	1989	-28.78333333	153.5833333	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	17	0630
+22	10	1989	-41.43333333	148.2666667	white shark	Carcharodon carcharias	unprovoked	boarding				male	17	1450
+22	10	1989	-14.16666667	132.1833333	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		minor lacerations	female	31	
+22	11	1989	-38.53333333	145.4666667	white shark	Carcharodon carcharias	unprovoked	boarding	thigh		minor lacerations	male	32	1930
+2	11	1989	-28.03333333	153.4	bull shark	Carcharhinus leucas	unprovoked	swimming	calf		minor lacerations	male	10	1800
+1	12	1989	-16.38333333	122.9166667	wobbegong	Orectolobidae	unprovoked	diving	"arm, hand"		other: teeth marks	male		
+3	12	1989	-12.28333333	136.8166667	tiger shark	Galeocerdo cuvier	provoked	swimming	leg		minor lacerations	male	17	
+10	4	1990	-28.15	153.5333333	tiger shark	Galeocerdo cuvier	unprovoked	boarding	other: uninjured			male	31	0600
+6	4	1990	-28.18333333	153.55	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	29	
+8	4	1990	-19.16666667	148.3833333	tiger shark	Galeocerdo cuvier	provoked	snorkelling	torso			male	36	1400
+10	5	1990	-16.21666667	145.8833333	hammerhead shark 	Sphyrnidae	provoked	snorkelling	calf		abrasion	female	33	1200
+10	5	1990	-16.21666667	145.8833333	hammerhead shark 	Sphyrnidae	provoked	snorkelling	"arm, hand"		other: teeth marks	male	44	1200
+24	9	1990	-25.9	153.0833333	wobbegong	Orectolobidae	unprovoked	other: standing in water	foot		abrasion	male	13	0830
+27	10	1990	-28.03333333	153.4	bull shark	Carcharhinus leucas	unprovoked	swimming	"leg, pelvic region"		major lacerations	male	26	2000
+25	10	1990	-35.51666667	138.7666667	white shark	Carcharodon carcharias	unprovoked	boarding	foot		minor lacerations	male	20	1030
+28	11	1990	-28	153.4166667	bull shark	Carcharhinus leucas	unprovoked	swimming	"arm, torso, pelvic region"		minor lacerations	male	26	1640
+11	1	1991	-23.83333333	151.25			unprovoked	boarding	leg		minor lacerations	male	22	1745
+4	1	1991	-38.26666667	144.65	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing	other: uninjured			male	14	
+5	1	1991	-33.51666667	151.3666667	dusky shark	Carcharhinus obscurus	unprovoked	snorkelling	other: uninjured			male	45	1500
+19	1	1991	-28.03333333	153.4	bull shark	Carcharhinus leucas	unprovoked	swimming	"leg, pelvic region"		minor lacerations	male	29	0830
+3	3	1991	-34.56666667	150.8666667	grey nurse shark	Carcharius taurus	provoked	diving	"arm, leg"		minor lacerations	male	18	1600
+8	9	1991	-35.28333333	138.4333333	white shark	Carcharodon carcharias	unprovoked	diving	torso		major lacerations	male	19	1435
+15	11	1991	-32.51666667	115.7	white shark	Carcharodon carcharias	unprovoked	boarding	leg		abrasion	male	14	
+29	1	1992	-28.16666667	153.5333333	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	male	19	2000
+10	2	1992	-24.86666667	152.35	tiger shark	Galeocerdo cuvier	unprovoked	boarding	other: uninjured			male	22	
+7	3	1992	-27.98333333	153.3333333	bull shark	Carcharhinus leucas	provoked		other: uninjured			male	24	
+10	3	1992	-38.28333333	144.6	white shark	Carcharodon carcharias	unprovoked	boarding	"leg, pelvic region"		minor lacerations	male	17	1130
+25	8	1992	-34.25	135.1666667	white shark	Carcharodon carcharias	unprovoked	boarding	torso		minor lacerations	male	16	1750
+1	10	1992	-27.08333333	153.4	white shark	Carcharodon carcharias	unprovoked	boarding			major lacerations	male	28	1430
+5	1	1993	-20.05	148.8833333	whitetip reef shark	Triaenodon obesus	provoked	spearfishing	arm		minor lacerations	male	21	0900
+1	4	1993	-40.93333333	146.9833333	white shark	Carcharodon carcharias	provoked	spearfishing	other: uninjured			male	32	
+27	4	1993	-34.21666667	138.0166667	white shark	Carcharodon carcharias	provoked	spearfishing	calf		minor lacerations	male	60	1915
+5	6	1993	-40.93333333	146.9833333	white shark	Carcharodon carcharias	unprovoked	diving	other: body not recovered			female	35	1100
+9	6	1993	-28.63333333	153.6166667	white shark	Carcharodon carcharias	unprovoked	diving	torso		major lacerations	male	31	0930
+21	11	1993	-17.96666667	122.2333333	tiger shark	Galeocerdo cuvier	provoked	diving			major lacerations	male	28	1600
+10	12	1993	-23.36666667	150.5	whaler shark	Carcharhinidae	unprovoked	boarding	other: uninjured			male	13	
+9	1	1994	-27.53333333	153.8333333	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		minor lacerations	male	22	1330
+9	1	1994	-27.98333333	153.4166667	bull shark	Carcharhinus leucas	unprovoked	swimming	foot		minor lacerations	male		
+2	2	1994	-37.31666667	139.8333333	wobbegong	Orectolobidae	provoked	fishing	foot		other: teeth marks	male	39	2000
+4	4	1994	-27.93333333	153.4166667	whaler shark	Carcharhinidae	unprovoked	swimming	"arm, hand"		other: teeth marks	female		0945
+3	11	1994	-38.46666667	144.8833333	wobbegong	Orectolobidae	provoked	diving	torso		other: teeth marks	male	23	
+1	2	1995	-38.51666667	145.0833333	sevengill shark	Notorynchus cepedianus	provoked	diving				male	34	0730
+27	2	1995	-35.53333333	138.6666667	wobbegong	Orectolobidae	unprovoked	boarding	foot		other: teeth marks	male	14	
+11	3	1995	-32.08333333	132.9666667	white shark	Carcharodon carcharias	unprovoked	boarding	arm		minor lacerations	male	35	0730
+21	3	1995	-33.85	151.2333333	bull shark	Carcharhinus leucas	unprovoked	boarding	other: uninjured			female	29	0700
+9	4	1995	-37.05	149.9	wobbegong	Orectolobidae	unprovoked	diving	"arm, hand"		minor lacerations	male		
+18	5	1995	-24.83333333	113.1333333	tiger shark	Galeocerdo cuvier	unprovoked	diving	other: uninjured			male	49	1000
+11	9	1995	-33.88333333	120.6833333	white shark	Carcharodon carcharias	unprovoked	diving	torso		major lacerations	male	29	1500
+11	10	1995	-25	152.8333333	tiger shark	Galeocerdo cuvier	unprovoked	other: standing in water	leg		minor lacerations	female	15	1500
+10	11	1995	-29.53333333	153.3333333	bull shark	Carcharhinus leucas	provoked		thigh		other: teeth marks	male	35	
+18	11	1995	-23.16666667	150.95	tiger shark	Galeocerdo cuvier	unprovoked	swimming	leg		minor lacerations	male	19	1600
+31	12	1995	-33.55	151.2666667	bull shark	Carcharhinus leucas	unprovoked	swimming	arm		abrasion	male	24	1530
+22	1	1996	-27.85	153.4	bull shark	Carcharhinus leucas	unprovoked	other: standing in water	calf		minor lacerations	female	13	1400
+14	1	1996	-35.05	117.6833333	wobbegong	Orectolobidae	provoked	spearfishing	leg		other: teeth marks	male	40	1515
+26	2	1996	-33.86666667	151.2	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		other: teeth marks	male	24	0130
+4	2	1996	-31.51666667	159.05	galapagos shark	Carcharhinus galapagensis	provoked	other: standing in water	foot		minor lacerations	male	7	
+5	3	1996	-23.43333333	151.9	whaler shark	Carcharhinidae	unprovoked	swimming	"arm, leg"		minor lacerations	female	47	0700
+26	4	1996	-33.66666667	151.3	wobbegong	Orectolobidae	unprovoked	swimming	leg		other: teeth marks	female	16	
+26	4	1996	-33.66666667	151.3	wobbegong	Orectolobidae	unprovoked	swimming	thigh		other: teeth marks	male	11	
+6	6	1996	-38.41666667	145.0666667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	47	1730
+19	9	1996	-32	115.5166667	wobbegong	Orectolobidae	unprovoked	other: standing in water	thigh		abrasion	male		
+22	12	1996	-38.41666667	144.1833333	wobbegong	Orectolobidae	unprovoked	boarding	leg		other: teeth marks	female	12	
+29	12	1996	-26.5	153	wobbegong	Orectolobidae	unprovoked	boarding	foot		minor lacerations	female	18	1800
+20	1	1997	-20.25	148.9666667	tiger shark	Galeocerdo cuvier	unprovoked	snorkelling	leg		minor lacerations	male	27	1100
+20	1	1997	-28.15	153.5333333	bull shark	Carcharhinus leucas	unprovoked	boarding	leg		other: teeth marks	male	8	1300
+1	1	1997	-38.51666667	145.0833333	white shark	Carcharodon carcharias	unprovoked	unmotorised boating	other: uninjured			male	32	
+28	2	1997	-20.26666667	148.9	grey reef shark	Carcharhinus amblyrhynchos	unprovoked	diving	"arm, shoulder"		minor lacerations	male	30	1045
+28	2	1997	-27.98333333	153.3333333	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	female	20	1330
+3	2	1997	-33.86666667	151.2	bull shark	Carcharhinus leucas	unprovoked	unmotorised boating	other: uninjured			female	49	0615
+26	7	1997	-26.65	153.1	tiger shark	Galeocerdo cuvier	unprovoked	boarding	calf		minor lacerations	male	18	1400
+28	10	1997	-31.98333333	115.75	white shark	Carcharodon carcharias	unprovoked	boarding	head		abrasion	male		0630
+10	11	1997	-38.28333333	144.45	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	21	1515
+9	11	1997	-35.13333333	117.95	white shark	Carcharodon carcharias	unprovoked	diving	"arm, shoulder"		minor lacerations	male	42	
+29	12	1997	-33.98333333	114.9833333	wobbegong	Orectolobidae	unprovoked	other: standing in water	leg		minor lacerations	male	4	0900
+1	12	1997	-29.1	153.4333333	wobbegong	Orectolobidae	unprovoked	swimming	leg		minor lacerations	male	18	1530
+14	12	1997	-20.11666667	148.9166667	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		minor lacerations	male	8	
+28	1	1998	-34.21666667	115.0166667	wobbegong	Orectolobidae	provoked	diving	calf		minor lacerations	male	34	1000
+26	1	1998	-18.66666667	146.5	tiger shark	Galeocerdo cuvier	unprovoked	snorkelling	other: uninjured			male	45	0600
+17	1	1998	-35.5	138.7	wobbegong	Orectolobidae	unprovoked	boarding	foot		other: teeth marks	male	31	
+28	6	1998	-35.31666667	136.1	white shark	Carcharodon carcharias	unprovoked	snorkelling	"torso, leg"		major lacerations	male	26	1400
+1	9	1998	-35.03333333	150.7166667	wobbegong	Orectolobidae	unprovoked	diving	thigh		minor lacerations	male		
+20	10	1998	-26.5	153	wobbegong	Orectolobidae	provoked	diving	"arm, hand"		minor lacerations	male	37	1400
+22	12	1998	-35.5	138.7	wobbegong	Orectolobidae	unprovoked	boarding	calf		other: teeth marks	female	21	
+8	12	1998	-33.95	151.15	whaler shark	Carcharhinidae	provoked	spearfishing	calf		minor lacerations	male		
+23	2	1999	-30.56666667	152.9833333	white shark	Carcharodon carcharias	unprovoked	boarding	arm		minor lacerations	male	35	1930
+29	5	1999	-34.88333333	137.45	white shark	Carcharodon carcharias	unprovoked	boarding	torso		major lacerations	male	22	1600
+25	10	1999	-27.38333333	153.4333333	wobbegong	Orectolobidae	provoked	diving	thigh		minor lacerations	male		
+27	12	1999	-32.21666667	152.6	bronze whaler shark	Carcharhinus brachyurus	unprovoked	diving	other: uninjured			male	34	0930
+23	12	1999	-31.88333333	115.75	white shark	Carcharodon carcharias	provoked	diving	other: uninjured			male		
+7	2	2000	-34.03333333	151.15	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	57	1210
+4	2	2000	-32.08333333	132.9833333	white shark	Carcharodon carcharias	unprovoked	boarding	"arm, torso"		major lacerations	male	26	1100
+3	2	2000	-31.81666667	115.7333333	wobbegong	Orectolobidae	unprovoked	swimming	foot		other: teeth marks	male	51	0545
+30	3	2000	-27.96666667	153.4166667	white shark	Carcharodon carcharias	unprovoked	swimming	calf		major lacerations	male	26	1410
+8	3	2000	-31.95	115.0666667	white shark	Carcharodon carcharias	unprovoked	boarding	thigh		minor lacerations	male	20	1830
+15	3	2000	-33.48333333	151.4166667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	38	1930
+2	3	2000	-33.86666667	151.2	bull shark	Carcharhinus leucas	unprovoked	swimming	foot		other: teeth marks	male	61	
+10	3	2000	-33.86666667	151.2	bull shark	Carcharhinus leucas	unprovoked	unmotorised boating	other: uninjured			male		
+3	4	2000	-33.93333333	151.25	whaler shark	Carcharhinidae	unprovoked	boarding	other: uninjured			male		1500
+13	4	2000	-31.98333333	115.75	wobbegong	Orectolobidae	provoked	other: standing in water	foot		other: teeth marks	female	11	
+25	9	2000	-33.61666667	134.8166667	white shark	Carcharodon carcharias	unprovoked	boarding	torso			male	17	1230
+24	9	2000	-32.08333333	132.9666667	white shark	Carcharodon carcharias	unprovoked	boarding	torso			male	25	0730
+21	11	2000	-18.66666667	146.5	tiger shark	Galeocerdo cuvier	provoked	diving	other: uninjured			male	28	0910
+6	11	2000	-31.98333333	115.75	white shark	Carcharodon carcharias	unprovoked	swimming	foot		minor lacerations	male	52	0630
+6	11	2000	-34.63333333	150.3833333	white shark	Carcharodon carcharias	unprovoked	swimming	other: uninjured			male	40	1500
+3	11	2000	-33.18333333	134.65	white shark	Carcharodon carcharias	provoked	diving	other: uninjured			male	27	1200
+6	11	2000	-31.98333333	115.75	white shark	Carcharodon carcharias	unprovoked	swimming	"torso, leg"		major lacerations	male	49	0625
+3	12	2000	-23.43333333	151.9	whaler shark	Carcharhinidae	provoked	spearfishing	arm		minor lacerations	male	38	0900
+24	12	2000	-19.25	146.8166667	wobbegong	Orectolobidae	unprovoked	diving	"arm, hand"		minor lacerations	male		1630
+28	1	2001	-26.38333333	153.0833333	tiger shark	Galeocerdo cuvier	unprovoked	boarding	other: uninjured			male		1700
+21	1	2001	-30.88333333	153.05	white shark	Carcharodon carcharias	unprovoked	unmotorised boating	other: uninjured			male	35	
+4	2	2001	-29.6	153.3333333	tiger shark	Galeocerdo cuvier	unprovoked	boarding	calf		other: teeth marks	male	40	1615
+28	3	2001	-33.96666667	114.9833333	wobbegong	Orectolobidae	unprovoked	snorkelling	calf		other: teeth marks	male	19	1400
+2	4	2001	-30.63333333	153.0166667	wobbegong	Orectolobidae	unprovoked	boarding	calf		major lacerations	male	40	1000
+8	4	2001	-33.9	151.2666667	wobbegong	Orectolobidae	provoked	snorkelling	arm		abrasion	male	32	
+4	5	2001	-33.23333333	151.5333333	white shark	Carcharodon carcharias	unprovoked	boarding	torso		minor lacerations	male	37	1745
+1	10	2001	-27.28333333	153.4166667	tiger shark	Galeocerdo cuvier	unprovoked	unmotorised boating				male	31	1400
+2	10	2001	-16.91666667	149.25	silvertip shark	Carcharhinus albimarginatus	provoked	snorkelling	arm		minor lacerations	female	20	1330
+23	11	2001	-28.81666667	153.5333333	white shark	Carcharodon carcharias	unprovoked	boarding	torso		surface wound	male	49	0915
+3	12	2001	-29.43333333	153.35	wobbegong	Orectolobidae	unprovoked	swimming	foot		other: teeth marks	male	14	1815
+21	12	2001	-33.63333333	115	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	36	
+6	12	2001	-34.25	115.0166667	white shark	Carcharodon carcharias	provoked	spearfishing	other: uninjured			male		
+30	1	2002	-33.3	115.6833333	shortfin mako shark	Isurus oxyrinchus	unprovoked	swimming	thigh		minor lacerations	male	32	1700
+29	1	2002	-32.73333333	152.1833333	bull shark	Carcharhinus leucas	unprovoked	boarding	arm		abrasion	male	20	1900
+16	2	2002	-26.36666667	153.0833333	whaler shark	Carcharhinidae	unprovoked	boarding	foot		minor lacerations	male	36	0925
+7	2	2002	-33.86666667	151.2	bull shark	Carcharhinus leucas	unprovoked	unmotorised boating	other: uninjured			male	35	2030
+1	4	2002	-30.28333333	153.1333333	bull shark	Carcharhinus leucas	provoked	spearfishing	other: uninjured			male		
+30	4	2002	-32.38422037	133.9255802	white shark	Carcharodon carcharias	provoked	diving	leg		major lacerations	male	23	1230
+12	4	2002	-32.93333333	151.75	wobbegong	Orectolobidae	unprovoked	swimming	foot		other: teeth marks	male	46	
+13	8	2002	-31.96666667	115.75	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	34	0800
+29	12	2002	-16.66666667	145.9333333	hammerhead shark 	Sphyrnidae	provoked	snorkelling	arm		minor lacerations	female	18	1430
+22	12	2002	-33.78333333	151.2833333	wobbegong	Orectolobidae	unprovoked	diving	thigh		abrasion	male	35	0930
+16	12	2002	-28.05	153.4166667	bull shark	Carcharhinus leucas	unprovoked	swimming	"torso, leg"		major lacerations	male	23	0400
+11	1	2003	-33.91666667	151.25	wobbegong	Orectolobidae	unprovoked	swimming	leg		minor lacerations	male	24	
+1	1	2003	-33.86666667	135.1666667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			female		1300
+16	2	2003	-35.51666667	138.7666667	wobbegong	Orectolobidae	unprovoked	other: standing in water	foot		minor lacerations	male	37	
+8	2	2003	-28.1	153.1	bull shark	Carcharhinus leucas	unprovoked	swimming	leg		major lacerations	male	84	0700
+23	3	2003	-29.41666667	153.35	whaler shark	Carcharhinidae	unprovoked	boarding	foot		other: teeth marks	male		
+5	3	2003	-32.53333333	115.7166667	wobbegong	Orectolobidae	provoked	diving	"torso, pelvic region"		other: teeth marks	male		
+25	7	2003	-12.18333333	136.7666667	tiger shark	Galeocerdo cuvier	unprovoked	unmotorised boating	other: uninjured			male	37	
+1	10	2003	-30.28333333	153.1333333	wobbegong	Orectolobidae	unprovoked	boarding	foot		minor lacerations	male	12	1815
+31	10	2003	-32.43333333	152.5166667	wobbegong	Orectolobidae	unprovoked	boarding	foot		minor lacerations	male	22	1730
+30	11	2003	-33.63333333	114.9833333	wobbegong	Orectolobidae	provoked	swimming	thigh		abrasion	male	15	1130
+30	11	2003	-33.96666667	114.9833333	wobbegong	Orectolobidae	provoked	swimming	"leg, hand"		abrasion	male	15	1130
+8	12	2003	-33.96666667	114.9833333	wobbegong	Orectolobidae	provoked	spearfishing	leg		other: teeth marks	male	34	0700
+8	12	2003	-38.26666667	144.5333333	whaler shark	Carcharhinidae	unprovoked	swimming	other: uninjured			male		0545
+14	1	2004	-33.98333333	114.9833333	wobbegong	Orectolobidae	unprovoked	swimming	"torso, pelvic region"		other: teeth marks	male		2000
+12	1	2004	-34.56666667	150.8666667	whaler shark	Carcharhinidae	unprovoked	diving	other: uninjured			male		1030
+3	1	2004	-30.56666667	152.9833333	wobbegong	Orectolobidae	unprovoked	swimming	calf		other: teeth marks	male	8	
+15	1	2004	-30.63333333	153.0166667	wobbegong	Orectolobidae	unprovoked	swimming	"torso, pelvic region"		other: teeth marks	female		
+25	1	2004	-33.13333333	115.6833333	white shark	Carcharodon carcharias	provoked	spearfishing	leg		major lacerations	male	46	1100
+10	2	2004	-38.36666667	144.75	white shark	Carcharodon carcharias	provoked	diving	other: uninjured			male		
+10	2	2004	-33.1	151.65	blind shark	Brachaelurus waddi	provoked	spearfishing	foot		abrasion	male	22	
+22	2	2004	-31.85	115.75	wobbegong	Orectolobidae	unprovoked	snorkelling	calf		other: teeth marks	female	7	1400
+22	2	2004	-31.85	115.75	wobbegong	Orectolobidae	unprovoked	snorkelling	leg		other: teeth marks	male	38	1400
+6	3	2004	-30.25	115.0166667	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing	leg		other: teeth marks	male	47	
+26	4	2004	-32.2	152.55	wobbegong	Orectolobidae	unprovoked	diving	"arm, hand"		other: teeth marks	male		
+20	4	2004	-33.96666667	114.9833333	wobbegong	Orectolobidae	unprovoked	snorkelling	thigh		other: teeth marks	male		
+26	6	2004	-31.91666667	115.75	white shark	Carcharodon carcharias	provoked	diving	other: uninjured			male		
+10	6	2004	-33.33333333	115.6333333	white shark	Carcharodon carcharias	unprovoked	boarding	foot		minor lacerations	male	17	1630
+11	7	2004	-31.98333333	115.5333333	wobbegong	Orectolobidae	unprovoked	diving	calf		other: teeth marks	male	33	1408
+10	7	2004	-33.85	114.9833333	white shark	Carcharodon carcharias	unprovoked	boarding	"leg, pelvic region"		major lacerations	male	29	1400
+4	8	2004	-28.63333333	153.6166667	grey nurse shark	Carcharius taurus	provoked	spearfishing	foot		other: teeth marks	male	42	1330
+28	8	2004	-38.46666667	145.0166667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	33	1710
+25	9	2004	-16.4	145.7666667	tiger shark	Galeocerdo cuvier	provoked	snorkelling	other: uninjured			male		1200
+21	10	2004	-32.85	151.8333333	white shark	Carcharodon carcharias	unprovoked	boarding	foot		minor lacerations	male	59	1600
+6	11	2004	-32.01666667	152.5333333	wobbegong	Orectolobidae	unprovoked	boarding	"arm, hand"		minor lacerations	male	14	0800
+11	12	2004	-16.21666667	145.8833333	tiger shark	Galeocerdo cuvier	provoked	spearfishing	thigh		major lacerations	male	38	1215
+16	12	2004	-34.9	137	white shark	Carcharodon carcharias	unprovoked	boarding	torso			male	18	1515
+19	1	2005	-37.98333333	145.0166667	white shark	Carcharodon carcharias	provoked	spearfishing	other: uninjured			male		
+26	2	2005	-27.55	152.8166667	bull shark	Carcharhinus leucas	unprovoked	swimming	"arm, hand"		minor lacerations	male	18	
+25	3	2005	-33.38333333	151.4833333	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	31	1400
+19	3	2005	-28.71666667	113.7833333	white shark	Carcharodon carcharias	unprovoked	snorkelling	torso			male	26	
+16	4	2005	-12.11666667	136.8	whaler shark	Carcharhinidae	provoked	spearfishing	head		other: teeth marks	male	20	
+16	4	2005	-33.9	151.2666667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	40	0615
+16	5	2005	-19.35	147.3666667	blacktip reef shark	Carcharhinus melanopterus	provoked	spearfishing	"arm, hand"		minor lacerations	male		
+24	8	2005	-34.96666667	138.5	white shark	Carcharodon carcharias	unprovoked	diving	torso			male	23	1610
+24	9	2005	-30.88333333	153.0833333	tiger shark	Galeocerdo cuvier	unprovoked	boarding	other: uninjured			male	28	
+7	9	2005	-30.3	153.1333333	wobbegong	Orectolobidae	unprovoked	boarding	foot		minor lacerations	male	15	
+23	9	2005	-31.88333333	115.75	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	44	
+25	9	2005	-35.08333333	137.5333333	white shark	Carcharodon carcharias	unprovoked	boarding	"arm, leg"		minor lacerations	male	26	
+4	9	2005	-34.83333333	135.6833333	white shark	Carcharodon carcharias	unprovoked	boarding	"arm, leg"		minor lacerations	male	40	1500
+25	11	2005	-38.46666667	145.0166667	white shark	Carcharodon carcharias	unprovoked	boarding	calf		minor lacerations	male	18	1815
+12	11	2005	-27.18333333	153.4	bronze whaler shark	Carcharhinus brachyurus	unprovoked	diving	other: uninjured			male	57	1100
+11	12	2005	-16.48333333	145.45	whitetip reef shark	Triaenodon obesus	provoked	spearfishing	arm		major lacerations	male	44	1000
+7	1	2006	-27.4	153.4333333	bull shark	Carcharhinus leucas	unprovoked	swimming	"leg, hand"		major lacerations	female	21	1710
+15	1	2006	-31.93333333	115.75	white shark	Carcharodon carcharias	provoked	spearfishing	arm		minor lacerations	male	52	1120
+13	2	2006	-26.8	153.1333333	wobbegong	Orectolobidae	unprovoked	other: standing in water	foot		minor lacerations	male	18	1100
+15	3	2006	-33.88333333	151.2666667	whaler shark	Carcharhinidae	unprovoked	boarding	other: uninjured			male		1620
+11	4	2006	-32.91666667	151.7833333	wobbegong	Orectolobidae	unprovoked	boarding	foot		other: teeth marks	male	15	1330
+2	5	2006	-26.68333333	153.1333333	wobbegong	Orectolobidae	provoked	diving	torso		minor lacerations	male	46	1630
+11	8	2006	-33.9	151.2666667	white shark	Carcharodon carcharias	provoked	spearfishing	other: uninjured			male		
+2	12	2006	-33.91666667	122.5833333	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	male	15	
+2	12	2006	-20.36666667	116.8666667	grey reef shark	Carcharhinus amblyrhynchos	provoked	spearfishing	other: uninjured			male		
+18	12	2006	-38.36666667	144.2666667	white shark	Carcharodon carcharias	unprovoked	boarding	leg		minor lacerations	male	25	0800
+9	1	2007	-32.38333333	152.5166667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	44	0630
+23	1	2007	-37.5	149.9666667	white shark	Carcharodon carcharias	provoked	diving	"head, torso"		minor lacerations	male	41	1030
+3	2	2007	-28.83333333	153.6	white shark	Carcharodon carcharias	unprovoked	boarding	foot		minor lacerations	male	26	
+20	3	2007	-28.53333333	153.55	white shark	Carcharodon carcharias	unprovoked	boarding	"arm, hand"		minor lacerations	female	42	
+12	3	2007	-24.71666667	152.2666667	bull shark	Carcharhinus leucas	unprovoked	swimming	"leg, foot"		major lacerations	female	59	1515
+26	4	2007	-16.55	139.4			unprovoked	swimming	foot		minor lacerations	female	12	1830
+16	5	2007	-23.13333333	113.7666667	whitetip reef shark	Triaenodon obesus	provoked	swimming	foot		major lacerations	female	38	1430
+5	6	2007	-31.18333333	152.9666667	bull shark	Carcharhinus leucas	unprovoked	boarding	"leg, foot"		major lacerations	male		1630
+14	7	2007	-33.78333333	151.2833333	wobbegong	Orectolobidae	unprovoked	diving	thigh		other: teeth marks	male	30	
+5	7	2007	-21.95	114.1166667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	48	0745
+20	7	2007	-12.15	96.81666667	wobbegong	Orectolobidae	provoked	swimming	calf		minor lacerations	male	15	
+13	10	2007	-16.91666667	145.7666667	whaler shark	Carcharhinidae	provoked	spearfishing	calf		major lacerations	male	31	1200
+15	10	2007	-28.63333333	153.6166667	white shark	Carcharodon carcharias	unprovoked	boarding	"arm, hand"		minor lacerations	female	52	1130
+8	11	2007	-28.63333333	153.6	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		1420
+11	12	2007	-33.9495	151.2437	wobbegong	Orectolobidae	unprovoked	surfing	"leg, foot"		minor lacerations	male	14	1930
+15	12	2007	-27.93333333	153.4166667	whaler shark	Carcharhinidae	unprovoked	swimming	"arm, hand"		minor lacerations	male	13	1230
+18	12	2007	-32.68333333	152.1833333	white shark	Carcharodon carcharias	unprovoked	boarding	"torso, pelvic region"		minor lacerations	male	31	1100
+1	1	2008	-41	147.1333333	white shark	Carcharodon carcharias	unprovoked	unmotorised boating	other: uninjured			male		
+28	1	2008	-28.18333333	153.5666667	wobbegong	Orectolobidae	unprovoked	diving	thigh		other: teeth marks	male		1030
+29	1	2008	-31.98333333	115.5333333	wobbegong	Orectolobidae	unprovoked	swimming	calf		other: teeth marks	male	42	1130
+18	2	2008	-38.83333333	146.1666667	wobbegong	Orectolobidae	unprovoked	swimming	foot		minor lacerations	female	66	1330
+17	4	2008	-28.15	153.5333333	wobbegong	Orectolobidae	unprovoked	other: standing in water	thigh		other: teeth marks	male		1100
+8	4	2008	-28.86666667	153.5666667	bull shark	Carcharhinus leucas	unprovoked	boarding	"thigh, calf"		major lacerations	male	16	0810
+16	4	2008	-33.63333333	115	wobbegong	Orectolobidae	provoked	swimming	"calf, thigh, pelvic region"		surface wound	female		
+10	5	2008	-35.01666667	117.9166667	white shark	Carcharodon carcharias	unprovoked	swimming	calf		major lacerations	male	37	0730
+30	7	2008	-38.38333333	142.4833333	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	31	1030
+30	8	2008	-28.63333333	153.6166667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	30	1130
+7	9	2008	-28.63333333	153.6166667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	51	
+28	12	2008	-32.43333333	152.5166667	whaler shark	Carcharhinidae	unprovoked	boarding	other: uninjured			male	10	
+27	12	2008	-32.35	115.7166667	white shark	Carcharodon carcharias	provoked	snorkelling	other: body not recovered			male	52	0700
+27	12	2008	-33.73333333	151.3166667	white shark	Carcharodon carcharias	provoked	unmotorised boating	other: uninjured			male	29	
+12	1	2009	-34.53333333	150.8666667	dusky shark	Carcharhinus obscurus	provoked	spearfishing	leg		major lacerations	male	25	1045
+1	1	2009	-13.91666667	146.6166667	grey reef shark	Carcharhinus amblyrhynchos	provoked	diving	calf		minor lacerations	male		
+11	1	2009	-28.18333333	153.55	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	male	31	0930
+11	1	2009	-41.23333333	148.3	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	female	13	1400
+24	1	2009	-35.76	150.2053	unknown	unknown	unprovoked	swimming	"arm, hand"		minor lacerations	male	19	1630
+18	2	2009	-31.45	152.9166667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	24	1700
+11	2	2009	-33.85	151.2166667	bull shark	Carcharhinus leucas	unprovoked	diving	"leg, hand"		major lacerations	male	31	0700
+7	2	2009	-29.76666667	153.2833333	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		0730
+12	2	2009	-33.88333333	151.2666667	white shark	Carcharodon carcharias	unprovoked	boarding	"arm, hand"		major lacerations	male	33	1930
+7	2	2009	-32.38333333	152.5166667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	41	1100
+1	3	2009	-33.63333333	151.3166667	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	male	15	0630
+19	3	2009	-35.85	150.1666667	whaler shark	Carcharhinidae	unprovoked	boarding	other: uninjured			female	47	0745
+23	3	2009	-33.93333333	151.25	wobbegong	Orectolobidae	unprovoked	diving	leg		minor lacerations	male		
+20	3	2009	-32.5	115.7	white shark	Carcharodon carcharias	unprovoked	boarding	"calf, foot"		other: teeth marks	male	17	1845
+15	3	2009	-31.98333333	115.5333333	wobbegong	Orectolobidae	provoked	swimming	leg		minor lacerations	male	21	1130
+12	4	2009	-32.73333333	152.1833333	bull shark	Carcharhinus leucas	unprovoked	boarding	other: uninjured			male	40	0800
+27	6	2009	-34.66666667	150.85	wobbegong	Orectolobidae	unprovoked	boarding	foot		minor lacerations	male	52	0830
+30	7	2009	-28.63333333	153.6166667	whaler shark	Carcharhinidae	unprovoked	boarding	"arm, hand"		other: teeth marks	male	14	0615
+25	8	2009	-32	115.45	white shark	Carcharodon carcharias	provoked	spearfishing	other: uninjured			male	42	1300
+6	9	2009	-12.15	96.81666667	whaler shark	Carcharhinidae	unprovoked	boarding	thigh		other: teeth marks	male	35	1300
+30	10	2009	-38.33333333	141.6	white shark	Carcharodon carcharias	unprovoked	unmotorised boating	other: uninjured			male	27	
+28	10	2009	-28.78333333	153.5833333	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			female	17	0700
+7	11	2009	-35.5	138.2333333	white shark	Carcharodon carcharias	provoked	spearfishing	"leg, hand"		minor lacerations	male	25	0950
+19	12	2009	-23.43333333	151.9	whaler shark	Carcharhinidae	provoked	spearfishing	arm		minor lacerations	male	18	
+26	12	2009	-33.45	151.4333333	wobbegong	Orectolobidae	provoked	other: standing in water	foot		other: teeth marks	male	55	1100
+12	12	2009	-26.067	113.567	white shark	Carcharodon carcharias	unprovoked	unmotorised boating				male		
+13	12	2009	-29.1	153.4333333	white shark	Carcharodon carcharias	unprovoked	boarding	foot		minor lacerations	male	39	
+27	12	2009	-32.16666667	152.5	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		0630
+27	1	2010	-24.8	152.45	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	37	1630
+22	1	2010	-38.28333333	144.4333333	white shark	Carcharodon carcharias	unprovoked	boarding	"arm, hand"		minor lacerations	male		0730
+9	1	2010	-10.56666667	142.2166667	whitetip reef shark	Triaenodon obesus	unprovoked	snorkelling	leg		other: teeth marks	female	9	
+6	2	2010	-29.41666667	153.3666667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	18	
+13	2	2010	-20.35	148.9333333	bull shark	Carcharhinus leucas	unprovoked	snorkelling	"torso, pelvic region"		major lacerations	female	55	1245
+11	2	2010	-33.66666667	151.3	wobbegong	Orectolobidae	unprovoked	other: standing in water	calf		other: teeth marks	male	46	0800
+18	5	2010	-31.3	152.9666667	bull shark	Carcharhinus leucas	unprovoked	boarding	calf		other: teeth marks	male		1630
+6	6	2010	-35.03333333	116.8333333	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	male		
+8	8	2010	-31.18333333	152.9666667	white shark	Carcharodon carcharias	unprovoked	boarding	foot		minor lacerations	male	47	0800
+17	8	2010	-33.85	114.9666667	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	male	31	0815
+13	9	2010	-29.4	153.3333333	white shark	Carcharodon carcharias	unprovoked	boarding	foot		minor lacerations	male	15	1700
+23	10	2010	-30.83333333	115.2666667	white shark	Carcharodon carcharias	unprovoked	boarding	calf		other: teeth marks	male		
+16	10	2010	-30.06666667	153.2	wobbegong	Orectolobidae	unprovoked	boarding	foot		minor lacerations	male	22	
+30	10	2010	-32.18333333	115.6833333	white shark	Carcharodon carcharias	unprovoked	snorkelling	thigh		major lacerations	female	19	1230
+17	2	2011	-34.71666667	135.15	white shark	Carcharodon carcharias	provoked	diving	other: body not recovered			male	50	1800
+12	2	2011	-21.95	114.1166667	whaler shark	Carcharhinidae	unprovoked	snorkelling	arm		minor lacerations	male	58	1645
+16	3	2011	-32.73333333	152.1833333	white shark	Carcharodon carcharias	unprovoked	boarding	"head, shoulder"		major lacerations	female		1300
+23	3	2011	-31.83333333	152.7333333	white shark	Carcharodon carcharias	unprovoked	boarding	arm		major lacerations	male	48	1845
+23	4	2011	-24.48333333	113.4	whaler shark	Carcharhinidae	provoked	fishing	foot		major lacerations	male	17	1500
+29	5	2011	-32.45	152.5333333	wobbegong	Orectolobidae	provoked	diving	thigh		other: teeth marks	female		
+28	8	2011	-18.71666667	146.5666667	tiger shark	Galeocerdo cuvier	unprovoked	swimming	torso		major lacerations	male	50	1930
+4	9	2011	-33.53333333	115.0333333	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	male	21	
+22	10	2011	-32	115.45	white shark	Carcharodon carcharias	unprovoked	diving			major lacerations	male	32	1330
+19	10	2011	-37.88333333	144.9833333	port jackson shark	Heterodontus portusjacksoni	provoked	diving	other: uninjured			male	49	1600
+10	10	2011	-31.98333333	115.75	white shark	Carcharodon carcharias	unprovoked	swimming				male		0800
+28	11	2011	-26.46666667	153.0833333	wobbegong	Orectolobidae	provoked	swimming	foot		other: teeth marks	male	10	1700
+2	12	2011	-28.7	153.6	white shark	Carcharodon carcharias	unprovoked	boarding	"torso, shoulder"		surface wound	male	63	0600
+7	12	2011	-33.93333333	151.25	wobbegong	Orectolobidae	provoked	boarding	foot		minor lacerations	male	14	1930
+11	12	2011	-29.48333333	153.35	white shark	Carcharodon carcharias	unprovoked	boarding	thigh		minor lacerations	male	50	0600
+3	1	2012	-33.45	151.4333333	white shark	Carcharodon carcharias	unprovoked	boarding	arm		minor lacerations	male	28	1945
+2	1	2012	-28.16666667	153.55	tiger shark	Galeocerdo cuvier	provoked	spearfishing	other: uninjured			male		
+18	1	2012	-33	151.7166667	white shark	Carcharodon carcharias	unprovoked	boarding	thigh		major lacerations	male	44	1640
+19	1	2012	-23.13333333	113.7666667	tiger shark	Galeocerdo cuvier	unprovoked	snorkelling	arm		minor lacerations	male	26	
+3	2	2012	-31.98333333	152.5666667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		
+25	2	2012	-32.6	152.3166667	wobbegong	Orectolobidae	provoked	fishing	foot		other: teeth marks	male		1600
+6	2	2012	-26.75	153.1333333	whaler shark	Carcharhinidae	unprovoked	boarding	other: uninjured			male	29	
+20	3	2012	-28.05	153.4333333	bull shark	Carcharhinus leucas	provoked	boarding	foot		minor lacerations	male	20	1710
+15	3	2012	-33.55	151.3166667			unprovoked	unmotorised boating	other: uninjured			male	52	
+31	3	2012	-33.46666667	115.5166667	white shark	Carcharodon carcharias	unprovoked	diving	torso		major lacerations	male	32	0930
+11	4	2012	-35.18333333	136.85	white shark	Carcharodon carcharias	unprovoked	unmotorised boating	thigh		other: teeth marks	male	27	
+17	5	2012	-32.21666667	152.6	wobbegong	Orectolobidae	provoked	diving	"arm, hand"		minor lacerations	male	57	1030
+27	5	2012	-33	151.7	white shark	Carcharodon carcharias	unprovoked	unmotorised boating	other: uninjured			male	30	1430
+12	6	2012	-38.61666667	142.9833333	white shark	Carcharodon carcharias	unprovoked	boarding	leg		minor lacerations	male	42	
+22	6	2012	-43.51666667	146.2333333	white shark	Carcharodon carcharias	unprovoked	boarding	leg		abrasion	male		0915
+20	6	2012	-31.78333333	115.7166667	white shark	Carcharodon carcharias	unprovoked	unmotorised boating	other: uninjured			male	61	0705
+31	7	2012	-32.76666667	134.2	white shark	Carcharodon carcharias	unprovoked	boarding	"arm, shoulder"		major lacerations	male	47	
+14	7	2012	-30.83333333	115.2666667	white shark	Carcharodon carcharias	unprovoked	boarding	other: body not recovered			male	24	0900
+28	8	2012	-24.38333333	113.3833333	tiger shark	Galeocerdo cuvier	unprovoked	boarding	torso		major lacerations	male	34	1525
+3	10	2012	-31.76666667	115.7166667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	11	1230
+28	12	2012	-31.73333333	152.7833333	bull shark	Carcharhinus leucas	unprovoked	boarding	thigh		major lacerations	male	29	1045
+2	12	2012	-30.86666667	153.0333333	grey nurse shark	Carcharius taurus	provoked	spearfishing	leg		minor lacerations	male	31	1630
+30	12	2012	-33.75	151.3	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		1245
+5	1	2013	-20.35	116.8166667	whaler shark	Carcharhinidae	provoked	spearfishing	leg		minor lacerations	male		1000
+25	1	2013	-26.36666667	153.0833333	tiger shark	Galeocerdo cuvier	unprovoked	boarding	"torso, shoulder"		minor lacerations	male		
+10	3	2013	-28.8	114.6	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing	"arm, hand"		minor lacerations	male	28	0900
+22	4	2013	-29.46666667	153.35	wobbegong	Orectolobidae	provoked	swimming	leg		other: teeth marks	female		
+24	5	2013	-32.4	115.7333333	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		1700
+29	5	2013	-28.63333333	153.6	wobbegong	Orectolobidae	provoked	swimming	foot		other: teeth marks	male	65	0610
+6	6	2013	-35.06666667	150.7833333	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		1600
+1	7	2013	-38.46666667	145.0166667	white shark	Carcharodon carcharias	unprovoked	swimming	"arm, hand"		minor lacerations	male	29	0530
+24	10	2013	-33.71666667	151.3	wobbegong	Orectolobidae	provoked	boarding	foot		minor lacerations	male		1815
+28	10	2013	-21.95	114.1166667	grey reef shark	Carcharhinus amblyrhynchos	unprovoked	snorkelling	arm		minor lacerations	female		
+8	10	2013	-33.95	123.9166667	white shark	Carcharodon carcharias	provoked	diving	"head, shoulder"		major lacerations	male	55	1030
+30	11	2013	-30.26666667	153.1333333	tiger shark	Galeocerdo cuvier	unprovoked	boarding	leg		major lacerations	male	19	1230
+23	11	2013	-33.85	114.9666667	white shark	Carcharodon carcharias	unprovoked	boarding	"arm, torso, leg"		major lacerations	male	35	0900
+14	12	2013	-28.1	153.4666667	wobbegong	Orectolobidae	unprovoked	diving	leg		surface wound	female	33	1230
+5	12	2013	-31.45	152.9166667	wobbegong	Orectolobidae	unprovoked	boarding	leg		minor lacerations	male	26	1815
+8	2	2014	-35.13333333	137.7	white shark	Carcharodon carcharias	provoked	spearfishing	other: body not recovered			male	28	1200
+18	2	2014	-32	115.55	white shark	Carcharodon carcharias	provoked	spearfishing	other: uninjured			male	70	1345
+18	3	2014	-38.36666667	144.2666667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	42	
+12	3	2014	-31.46666667	152.9166667	wobbegong	Orectolobidae	provoked	swimming	foot		minor lacerations	male	40	1800
+3	4	2014	-36.71666667	149.9833333	white shark	Carcharodon carcharias	unprovoked	swimming	other: body not recovered			female	63	0820
+24	4	2014	-23.13333333	113.75	whaler shark	Carcharhinidae	provoked	spearfishing	"arm, hand"		minor lacerations	male		1500
+14	5	2014	-33.63333333	134.8666667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	35	0930
+25	5	2014	-27.98333333	153.4166667	bull shark	Carcharhinus leucas	unprovoked	swimming	thigh		major lacerations	female	29	2130
+9	6	2014	-35.63087083	138.4666667	white shark	Carcharodon carcharias	unprovoked	boarding	torso		minor lacerations	male	39	0945
+1	6	2014	-34.83333333	150.75	wobbegong	Orectolobidae	provoked	boarding	foot		minor lacerations	male		0700
+19	6	2014	-35.5	138.7166667	white shark	Carcharodon carcharias	unprovoked	boarding	leg		minor lacerations	male	15	1700
+19	6	2014	-35.5	138.7166667	white shark	Carcharodon carcharias	unprovoked	boarding			minor lacerations	male		1700
+16	8	2014	-23.78333333	113.5	whaler shark	Carcharhinidae	provoked	spearfishing	head		major lacerations	male	31	
+9	9	2014	-28.63333333	153.6	white shark	Carcharodon carcharias	unprovoked	snorkelling	thigh		major lacerations	male	50	1030
+26	9	2014	-31.41666667	152.9166667	wobbegong	Orectolobidae	unprovoked	swimming	"arm, hand"		minor lacerations	female	13	
+17	10	2014	-33.45	151.4333333	wobbegong	Orectolobidae	provoked	boarding	foot		minor lacerations	female	13	0630
+29	10	2014	-31.98333333	152.5666667	wobbegong	Orectolobidae	provoked	boarding	foot		minor lacerations	male	20	1800
+2	10	2014	-33.83333333	121.9166667	white shark	Carcharodon carcharias	unprovoked	boarding	"arm, leg"		major lacerations	male	23	1100
+10	11	2014	-30.2	159.15	wobbegong	Orectolobidae	provoked	swimming	foot		punctures	male		0630
+10	11	2014	-35.73333333	150.2	wobbegong	Orectolobidae	provoked	snorkelling	thigh		other: teeth marks	male		
+29	11	2014	-33.75	151.3	wobbegong	Orectolobidae	unprovoked	swimming	"thigh, right"		minor punctures	female		0530
+29	11	2014	-32.6	115.6166667	bronze whaler shark	Carcharhinus brachyurus	unprovoked	boarding	leg		other: teeth marks	male	13	0625
+29	12	2014	-35.1338	150.686	unknown	unknown	unprovoked	boarding	"leg, ankle"		minor lacerations	male		0715
+29	12	2014	-34.88003124	118.404958	white shark	Carcharodon carcharias	provoked	spearfishing	leg		major lacerations	male	17	1220
+15	12	2014	-16.2	145.75	tiger shark	Galeocerdo cuvier	provoked	spearfishing	"arm, leg"		major lacerations	male	18	1100
+19	1	2015	-28.63333333	153.6166667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			female		
+5	1	2015	-32.68333333	152.0333333	wobbegong	Orectolobidae	provoked	other: standing in water	foot		minor lacerations	male		1700
+30	1	2015	-27.63333333	153.45	bull shark	Carcharhinus leucas	unprovoked	unmotorised boating	other: uninjured			male	57	0500
+24	1	2015	-28.83333333	153.6	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	36	1100
+16	1	2015	-35.33333333	150.4666667	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing	hand		minor lacerations	male	17	
+8	2	2015	-28.88333333	153.5666667	white shark	Carcharodon carcharias	unprovoked	boarding	"torso, pelvic region"		major lacerations	male	35	0600
+9	2	2015	-28.85	153.5833333	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	male	41	
+6	2	2015	-32.95	151.75	wobbegong	Orectolobidae	unprovoked	swimming	leg		minor lacerations	male		
+24	3	2015	-31.51666667	159.05	galapagos shark	Carcharhinus galapagensis	provoked	swimming	leg		minor lacerations	female	43	1200
+9	4	2015	-31.51666667	159.05	galapagos shark	Carcharhinus galapagensis	provoked	swimming	leg		minor lacerations	male	8	1630
+11	4	2015	-35.8	150.2166667	wobbegong	Orectolobidae	provoked	boarding	foot		minor lacerations	male		0630
+25	4	2015	-34.86666667	135.7666667	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	male	26	0945
+3	5	2015	-32.01666667	152.5333333	white shark	Carcharodon carcharias	unprovoked	boarding	"arm, hand"		major lacerations	male	46	1430
+24	6	2015	-35.01666667	117.3333333	white shark	Carcharodon carcharias	unprovoked	boarding	"head, hand"		surface wound	female	37	0930
+26	6	2015	-31.98333333	115.5333333	wobbegong	Orectolobidae	provoked	swimming	arm		minor lacerations	male	19	
+24	6	2015	-28.63333333	153.6	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	71	1115
+1	6	2015	-35.65	150.2833333	tiger shark	Galeocerdo cuvier	provoked	spearfishing	foot		minor lacerations	male	21	1700
+21	7	2015	-28.1	153.465	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		1000
+25	7	2015	-42.63333333	147.9833333	white shark	Carcharodon carcharias	provoked	diving	"torso, pelvic region"		major lacerations	male	47	0800
+24	7	2015	-42.63333333	147.9833333	white shark	Carcharodon carcharias	provoked	diving	other: uninjured			male		0800
+31	7	2015	-29.1	153.4333333	white shark	Carcharodon carcharias	unprovoked	boarding	"leg, hand"		major lacerations	male	51	0600
+3	7	2015	-28.78333333	153.5833333	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	51	0900
+1	7	2015	-29.43333333	153.3666667	white shark	Carcharodon carcharias	unprovoked	boarding	"arm, hand"		major lacerations	male		
+23	7	2015	-38.25	141.7833333	white shark	Carcharodon carcharias	unprovoked	boarding	"arm, hand"		minor lacerations	male	40	
+2	7	2015	-28.86666667	153.5833333	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	male	32	1015
+22	8	2015	-31.46666667	152.9166667	white shark	Carcharodon carcharias	unprovoked	boarding	thigh		major lacerations	male	38	1700
+16	8	2015	-18.83333333	147.6333333	tiger shark	Galeocerdo cuvier	unprovoked	boarding	other: uninjured			female		
+8	9	2015	-33.05	152.5333333			provoked	boarding	"arm, hand"		minor lacerations	male	42	0615
+4	9	2015	-32.06666667	152.5333333	white shark	Carcharodon carcharias	unprovoked	boarding	foot		major lacerations	male	65	1200
+26	9	2015	-17.21666667	146.0833333			unprovoked	snorkelling	leg		major lacerations	female	7	
+30	10	2015	-34.88003124	118.404958	white shark	Carcharodon carcharias	provoked	spearfishing	"arm, torso, hand, shoulder "		minor lacerations	male	50	1130
+7	10	2015	-32.6	115.6166667	grey nurse shark	Carcharius taurus	unprovoked	boarding	foot		minor lacerations	male	18	1650
+10	11	2015	-28.86666667	153.5833333	bull shark	Carcharhinus leucas	unprovoked	boarding	thigh		major lacerations	male		1815
+9	1	2016	-26.8	153.1333333	wobbegong	Orectolobidae	provoked	boarding	foot		major lacerations	male		
+5	1	2016	-23.43333333	151.9	blacktip reef shark	Carcharhinus melanopterus	unprovoked	swimming	calf		major lacerations	male	11	
+2	1	2016	-23.15	150.9	tiger shark	Galeocerdo cuvier	provoked	spearfishing	"arm, leg"		major lacerations	male	31	1200
+4	2	2016	-34	151.65	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		
+21	2	2016	-23.56666667	151.3166667	wobbegong	Orectolobidae	provoked	spearfishing	arm		minor lacerations	male		
+11	2	2016	-40.91666667	144.6166667	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		1230
+11	3	2016	-31.18333333	152.9666667	white shark	Carcharodon carcharias	unprovoked	boarding				male		
+2	3	2016	-37.03333333	139.7333333	bronze whaler shark	Carcharhinus brachyurus	provoked	fishing			minor lacerations	male		2330
+28	3	2016	-34.03333333	151.15	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		1100
+30	3	2016	-34.65	150.85	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	male	22	1900
+20	4	2016	-28.63333333	153.6	wobbegong	Orectolobidae	provoked	swimming	foot		minor lacerations	male	12	1030
+31	5	2016	-32.58333333	115.6333333	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	male	29	
+31	5	2016	-28.25276667	153.5921833	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing	other: uninjured			male		1730
+5	6	2016	-31.66666667	115.6666667	white shark	Carcharodon carcharias	unprovoked	diving			major lacerations	female	60	
+15	6	2016	-23.02411667	113.1294	grey reef shark	Carcharhinus amblyrhynchos	provoked	spearfishing	other: uninjured			male	19	
+26	6	2016	-34.6215	150.8568	unknown		unprovoked	boarding	other: uninjured			male		1643
+31	6	2016	-28.2646	153.5777	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing	other: uninjured			male	23	1630
+19	7	2016	-32.717	152.1049	unknown		provoked	spearfishing	other: uninjured			male		morning
+26	7	2016	-28.8377	153.6044	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	18	1200
+29	7	2016	-28.3037	153.5742	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		740
+16	9	2016	-38.06115	144.04745	white shark 	Carcharodon carcharias	unprovoked	boarding				male		
+26	9	2016	-28.86666667	153.5833333	white shark	Carcharodon carcharias	unprovoked	boarding	leg		minor lacerations	male		
+5	9	2016	-33.11656667	114.1649	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		
+15	10	2016	-27.335	153.235	white shark	Carcharodon carcharias	unprovoked	boarding	"leg, torso"		minor lacerations	male		1800
+12	10	2016	-28.83333333	153.6	white shark	Carcharodon carcharias	unprovoked	boarding	leg		minor lacerations	male	20	1030
+24	10	2016	-33.08945	151.0587667	white shark	Carcharodon carcharias	unprovoked	boarding	leg		minor lacerations	male	36	
+4	10	2016	-20.23333333	148.95	lemon shark	Negaprion brevirostris	provoked	swimming	arm		minor lacerations	male	10	
+1	12	2016	-32.30595	152.52275	white shark	Carcharodon carcharias	unprovoked	boarding	"arm, foot"		major lacerations	male	65	0900
+10	12	2016	-12.45183333	143.3444167	bull shark	Carcharhinus leucas	provoked	spearfishing	other: uninjured			male	35	
+24	12	2016	-21.15741667	114.0218833	whaler shark	Carcharhinidae	unprovoked	snorkelling	"torso, pelvic region"		minor lacerations	female		
+15	12	2016	-31.14531667	115.1265			unprovoked	snorkelling	foot		minor lacerations	male	61	
+21	1	2017	-9.863916667	144.7908167	whaler shark	Carcharhinidae	unprovoked	snorkelling	"hand, arm, torso"		major lacerations	male	55	
+3	1	2017	-36.88666667	149.9131833	wobbegong	Orectolobidae	provoked	swimming	foot		minor lacerations	male	19	
+13	1	2017	-21.96676667	149.4843833			unprovoked	swimming	hand		minor lacerations	male	57	1330
+8	1	2017	-10.65406667	142.5072333	whaler shark	Carcharhinidae	provoked	spearfishing	other: uninjured			male		
+24	2	2017	-32.567	115.65			unprovoked	boarding				male		0730
+18	2	2017	-18.24948333	146.1839333	tiger shark	Galeocerdo cuvier	unprovoked	snorkelling	leg		major lacerations	male	25	
+25	2	2017	-23.2411667	113.1294	bull shark	Carcharhinus leucas	unprovoked	snorkelling	hand		minor lacerations	female		
+19	3	2017	-34.60465	150.8677833			unprovoked	boarding	"torso, pelvic region"		minor lacerations	male	30	1830
+2	4	2017	-27.05206667	153.05745			unprovoked	unmotorised boating	other: uninjured			male		1500
+2	4	2017	-32.7667	152.1127	grey nurse shark	Carcharius taurus	provoked	boarding	left foot		minor lacerations	male	46	1700
+17	4	2017	-33.83250092	121.9968696	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	female	17	1600
+4	6	2017	-33.0775	151.0725	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male		1700
+11	6	2017	-33.3146	115.635	white shark	Carcharodon carcharias	unprovoked	boarding						
+29	8	2017	-38.5367	143.9715	white shark	Carcharodon carcharias	unprovoked	boarding	pelvic region		minor lacerations	male		
+10	9	2017	-29.59387	153.3322	white shark	Carcharodon carcharias	unprovoked	boarding						
+25	9	2017	-33.8585	114.9843	white shark	Carcharodon carcharias	unprovoked	boarding				female		
+10	9	2017	-20.61367	117.1863	whaler shark	Carcharhinidae	unprovoked	swimming	leg			male		1500
+22	10	2017	-35.448	138.318	white shark	Carcharodon carcharias	unprovoked	unmotorised boating				female		
+28	10	2017	-32.798333	152.079167	wobbegong	Orectolobidae	provoked	boarding	foot		minor lacerations	male	31	0900
+13	11	2017	-33.465	151.435	white shark	Carcharodon carcharias	unprovoked	boarding	arm		minor lacerations	male	25	1600
+11	12	2017	-32.7876	152.08002	grey nurse shark	Carcharius taurus	unprovoked	boarding				male		540
+28	1	2018	-16.4683	123.5353	bull shark	Carcharhinus leucas	provoked	swimming				male		
+13	1	2018	-34.425072	150.893143	white shark	Carcharodon carcharias	unprovoked	snorkelling			surface wound	female	28	0900
+5	1	2018	-33.8416	115.0221	wobbegong	Orectolobidae	unprovoked	boarding	foot		minor lacerations	male		1800
+14	1	2018	-14.668	145.4638	grey reef shark	Carcharhinus amblyrhynchos	provoked	snorkelling			major lacerations	male		
+1	2	2018	-32.5361	115.7424	whaler shark	Carcharhinidae	provoked	spearfishing				male	14	
+15	2	2018	-34.67	150.84	whaler shark	Carcharhinidae	unprovoked	other: standing in water	"leg, foot"		minor lacerations	male	35	1620
+5	2	2018	-31.7789	115.7326	wobbegong	Orectolobidae	unprovoked	swimming	calf		minor lacerations	female	17	
+15	2	2018	-33.5638	115.0629	wobbegong	Orectolobidae	provoked	snorkelling	leg		minor lacerations	male		
+23	2	2018	-33.993	151.1753	white shark	Carcharodon carcharias	unprovoked	swimming	leg		major lacerations	female	55	1900
+4	3	2018	-34.2256	115.0609	tiger shark	Galeocerdo cuvier	provoked	snorkelling	other: uninjured			male		
+9	3	2018	-38.37	144.28	bronze whaler shark	Carcharhinus brachyurus	unprovoked	boarding	foot		minor lacerations	male	18	
+16	4	2018	-33.8416	115.0221	white shark	Carcharodon carcharias	unprovoked	boarding	thigh		minor lacerations	male	41	1440
+16	4	2018	-33.8416	115.0221	white shark	Carcharodon carcharias	unprovoked	boarding	calf		major lacerations	male	37	
+25	4	2018	-33.9825	114.9922	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	60	0930
+11	5	2018	-33.8416	115.0221	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			female		1130
+8	6	2018	-30.296	153.11	wobbegong	Orectolobidae	unprovoked	boarding	"calf, foot"		minor lacerations	male	19	
+3	6	2018	-28.84	153.601	white shark	Carcharodon carcharias	unprovoked	boarding	other: uninjured			male	37	
+19	9	2018	-20.25	148.9333	tiger shark	Galeocerdo cuvier	unprovoked	swimming			major lacerations	female		
+20	9	2018	-20.25	148.9333	tiger shark	Galeocerdo cuvier	unprovoked	swimming			major lacerations	female		
+28	9	2018	-13.97	136.5933	bull shark	Carcharhinus leucas	unprovoked					male	17	
+20	10	2018	-32.7667	152.0833	wobbegong	Orectolobidae	provoked	swimming				male		
+5	11	2018	-20.25	148.9333			unprovoked	boarding	"leg, arm"			male		
+28	11	2018	-33.37	151.4859	wobbegong	Orectolobidae	unprovoked	boarding	foot		punctures	male	28	1640
+6	11	2018	-28.8632	153.5944	white shark	Carcharodon carcharias	unprovoked	boarding	thigh		minor lacerations	male	43	0645
+15	11	2018	-26.791	153.139	tiger shark	Galeocerdo cuvier	unprovoked							
+17	11	2018	-34.830278	150.7561	wobbegong	Orectolobidae	unprovoked	boarding	"leg, hand"		minor lacerations	male	24	1300
+18	11	2018	-12.1825	136.7819	whaler shark	Carcharhinidae	provoked	spearfishing	"arm, leg"		major lacerations	male	17	1000
+11	11	2018	-32.6036	115.6304	grey nurse shark	Carcharius taurus	unprovoked	boarding	foot		minor lacerations	male	20	0900
+9	12	2018	-30.643181	153.008839			unprovoked							
+15	12	2018	-33.425018	151.342224	wobbeogong	Orectolobidae	provoked	swimming	left foot		minor lacerations	male	68	1100
+14	1	2019	-31.989	115.7526	wobbegong	Orectolobidae	unprovoked	swimming	foot		minor lacerations	female	15	1130
+	2	2019	-33.6702	114.9951	white shark	Carcharodon carcharias	provoked	spearfishing				male	27	
+4	2	2019	-30.452	152.8979			unprovoked	boarding				male	50	615
+11	2	2019	-13.8611	136.8116	whitetip reef shark	Triaenodon obesus	provoked							
+17	2	2019	-28.6337	153.6003	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	male	41	0640
+25	3	2019	-18.156	147.48	grey reef shark	Carcharhinus amblyrhynchos	unprovoked	snorkelling	"thigh, pelvic region"		major lacerations	male	25	1230
+20	4	2019	-32.7501	152.1459	grey nurse shark	Carcharius taurus	provoked	spearfishing	arm		minor lacerations	male	18	1400
+14	5	2019	-24.7293	152.101			unprovoked	swimming	"calf, foot"		minor lacerations	male	53	1620
+7	6	2019	-43.6523	146.277	white shark	Carcharodon carcharias	provoked	diving				male		
+5	6	2019	-28.7999	153.58	whaler shark	Carcharhinidae	unprovoked							
+28	7	2019	-11.9667	143.2333	tiger shark	Galeocerdo cuvier	provoked	snorkelling	leg		major lacerations	female	21	1830
+2	7	2019	-33.8005	151.2979	grey nurse shark	Carcharius taurus	unprovoked	swimming	"leg, torso"		major lacerations	male	54	0530
+9	7	2019	-26.7994	153.0611	bull shark	Carcharhinus leucas	unprovoked	boarding	arm		minor lacerations	male	43	0700
+18	7	2019	-28.45602	153.54457	bull shark		unprovoked	surfing	"leg, thigh"		major lacerations	male		
+2	9	2019	-34.6817	150.8511			unprovoked							
+7	9	2019	-31.7247	115.7249	white shark	Carcharodon carcharias	provoked	spearfishing				male		
+29	10	2019	-21.957	148.1893				snorkelling				male		
+29	10	2019	-20.3441	148.1893			unprovoked	snorkelling				male		
+5	10	2019	-32.4436	152.5279	white shark	Carcharodon carcharias	unprovoked	boarding				male	29	
+17	10	2019	-27.0609	153.2006				boarding				male	17	
+30	11	2019	-24.8312	152.4592			unprovoked	snorkelling	foot		minor lacerations	male	30	1900
+7	12	2019	-20.3441	114.143										
+17	12	2019	-34.6038	150.8676	wobbegong	Orectolobidae	unprovoked	boarding	foot		minor lacerations	male	42	1900
+30	12	2019	-23.3	151.71	lemon shark	Negaprion brevirostris		swimming				male		
+5	1	2020	-33.9222	121.9032	white shark	Carcharodon carcharias	unprovoked	diving						
+1	1	2020	-30.3119	153.1427	bull shark	Carcharhinus leucas	unprovoked	boarding						
+19	1	2020	-31.9908	115.5215	white shark	Carcharodon carcharias	provoked	snorkelling				male		1415
+8	1	2020	-23.2951	151.7079	lemon shark	Negaprion brevirostris	unprovoked	swimming						
+17	1	2020	-34.5343	150.8746			unprovoked	boarding	foot		minor lacerations	male	60	800
+6	2	2020	-14.6787	145.4483	lemon shark	Negaprion brevirostris	unprovoked	swimming	"head, torso"		minor lacerations	female	64	700
+21	4	2020	-31.19	152.98	wobbegong	Orectolobidae	unprovoked	swimming	foot		minor lacerations	female	55	800
+7	4	2020	-23.2951	151.7079			unprovoked	swimming	"arm, leg, torso"			male	23	
+19	4	2020	-21.93	114.117778	bull shark	Carcharhinus leucas	unprovoked	boarding				male	10	1500
+6	4	2020	-34.6817	150.8511	bull shark	Carcharhinus leucas	unprovoked	boarding				male	21	
+8	5	2020	-38.3669	144.2847	whaler shark	Carcharhinidae	unprovoked	boarding	leg		minor lacerations	male	23	
+7	6	2020	-28.2778	153.5774	white shark	Carcharodon carcharias	unprovoked	boarding	thigh			male	60	1000
+6	6	2020	-22.6799	113.698			unprovoked	boarding				female		1030
+13	6	2020	-33.49762	151.420378	white shark	Carcharodon carcharias	unprovoked	boarding						
+14	6	2020	-34.33834	150.91347	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing				female	16	
+14	6	2020	-34.33834	150.91347	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing				male	13	
+14	6	2020	-34.33834	150.91347	bronze whaler shark	Carcharhinus brachyurus	provoked	spearfishing				male	13	
+31	7	2020	-33.5427	115.0392	white shark	Carcharodon carcharias	unprovoked							
+14	7	2020	-16.9337	145.9943	whaler shark	Carcharhinidae	unprovoked	swimming	"leg, foot"		major lacerations	female	29	1100
+4	7	2020	-25.2398	153.1325	whaler shark	Carcharhinidae	provoked	snorkelling	"leg, foot"			male	36	1400
+17	7	2020	-40.7667	145.3	white shark	Carcharodon carcharias	provoked	fishing	"arm, torso, head"		major lacerations	male	10	
+8	7	2020	-33.44815	151.44666	dusky shark	Carcharhinus obscurus	unprovoked	swimming				female	55	1915
+11	7	2020	-29.853	153.2715	white shark	Carcharodon carcharias	unprovoked	boarding			major lacerations	male	15	1430
+15	8	2020	-31.4333	152.9	white shark	Carcharodon carcharias	unprovoked	boarding	leg		major lacerations	female	35	930
+8	9	2020	-28.164	153.5476	white shark	Carcharodon carcharias	unprovoked							
+17	9	2020	-28.33362	153.569698	white shark	Carcharodon carcharias	provoked	boarding				male	43	1630
+21	9	2020	-32.7876	152.08002	whaler shark	Carcharhinidae	unprovoked	standing	leg	left leg	minor lacerations	male	46	550
+21	9	2020	-32.7876	153.08002	wobbegong	Orectolobidae	unprovoked	boarding	leg	left shin	minor lacerations	male		1730
+20	10	2020	-33.950	151.267	white shark	Carcharodon carcharias	unprovoked	scuba diving	leg	scratch	minor lacerations	male	45	1430
+21	10	2020	-38.26789	144.66193	whaler shark	Carcharhinidae	unprovoked	boarding				male	28	1920
+25	10	2020	-18.25	146.666944	bull shark	Carcharhinus leucas	provoked	spearfishing	leg		major lacerations	male	59	1200
+9	10	2020	-34.8611	121.8919	white shark	Carcharodon carcharias	unprovoked	boarding				male		
+22	11	2020	-17.9319	122.2081	bull shark	Carcharhinus leucas	unprovoked	boarding				male	50	845
+26	11	2020	-13.7333	143.8667	hammerhead shark	Sphyrnidae	provoked	fishing				male		
+2	11	2020	-31.4295	152.9193	wobbegong	Orectolobidae	unprovoked	boarding	"hand, foot"		minor lacerations	male	13	600
+9	12	2020	-17.9319	122.2081	bull shark	Carcharhinus leucas	unprovoked	boarding				male		700
+6	12	2020	-35.9295	137.5966	white shark	Carcharodon carcharias	unprovoked	boarding				male	29	1420
+23	1	2021	-33.0833	151.5833	bull shark	Carcharhinus leucas	unprovoked	swimming				male		1830
+30	1	2021	-33.8640	114.9864	wobbegong	Orectolobidae	unprovoked	swimming	foot		minor lacerations	female	46	1030
+14	1	2021	-32.0117	115.7866	bull shark	Carcharhinus leucas	unprovoked	swimming			major lacerations	male	50	800
+14	2	2021	-31.034	115.3356	wobbegong	Orectolobidae	unprovoked	boarding						
+7	3	2021	-34.0557	151.1551	wobbegong	Orectolobidae	unprovoked	boarding				male	28	800
+27	3	2021	-34.2763	115.052	wobbegong	Orectolobidae	provoked	spearfishing				male		
+13	3	2021	-36.8875	149.9059			unprovoked	swimming	"torso, pelvic region"		major lacerations	female	63	700
+27	3	2021	-23.325	113.791	bull shark	Carcharhinus leucas	provoked	spearfishing	calf		minor lacerations	male		1220
+20	3	2021	-33.6397	115.0263	blacktip reef shark	Carcharhinus melanopterus	unprovoked	boarding				male		1500
+19	4	2021	-20.6564	116.7081	blacktip reef shark	Carcharhinus melanopterus	unprovoked	swimming	foot			male	33	1540
+21	5	2021	-17.5804	122.1571	tiger shark 	Galeocerdo cuvier	provoked	spearfishing	"arm, hand"		minor lacerations	male	48	1120
+18	5	2021	-32.1521	152.5053	white shark	Carcharodon carcharias	unprovoked	boarding				male		1100
+11	6	2021	-23.1423	113.7723	tiger shark 	Galeocerdo cuvier	unprovoked	snorkelling	foot			male	10	
+23	6	2021	-29.9453	114.9824	white shark	Carcharodon carcharias	provoked	spearfishing	"calf, foot"		minor lacerations	male	25	1420
+5	7	2021	-31.1295	153.0011	white shark	Carcharodon carcharias	unprovoked	boarding	arm			male	25	
+27	7	2021	-20.6517	115.5785	lemon shark	Negaprion brevirostris	provoked	motorised boating	"leg, pelvic region"		minor lacerations	male	32	
+5	9	2021	-30.1575	153.1502	white shark	Carcharodon carcharias	unprovoked	boarding	arm			male	31	1100
+18	9	2021	-30.2860	153.1364	wobbegong	Orectolobidae	unprovoked	boarding	foot		minor lacerations	male	47	
+17	10	2021	-20.2665	148.8819			unprovoked	swimming	leg		minor lacerations	male		
+11	10	2021	-30.2042	153.1490	wobbegong	Orectolobidae	unprovoked	boarding	foot		minor lacerations	male	37	600
+6	11	2021	-32.0569	115.7439	white shark	Carcharodon carcharias	unprovoked	swimming				male	57	
+6	12	2021	-38.2676	144.5067			unprovoked		torso		minor lacerations	male		
+6	12	2021	-38.2676	144.5067			unprovoked	boarding	"leg, hand"		minor lacerations	female	15	
+12	12	2021	-16.9062	145.8662	bull shark	Carcharhinus leucas	provoked	spearfishing	leg		major lacerations	male	24	
+4	1	2022	-35.1011	150.6892	whaler shark	Carcharhinidae	unprovoked	swimming	"leg, thigh"		minor lacerations	female	42	620
+24	1	2022	-33.7000	151.2999	wobbegong	Orectolobidae	unprovoked	swimming	foot		minor lacerations	male	11	
+22	1	2022	-35.0031	117.8660	wobbegong	Orectolobidae	unprovoked	snorkelling	"leg, other: multiple bites"		minor lacerations	male		
+16	2	2022	-30.8830	153.0830	white shark	Carcharodon carcharias	unprovoked	swimming				male	35	1700
+17	2	2022	-27.2333	153.2667	tiger shark	Galeocerdo cuvier	unprovoked	other:floating	leg		major lacerations			
+6	2	2022	-33.84848	121.9184	white shark	Carcharodon carcharias	unprovoked	other:floating	torso		major lacerations	female	20	1200
+20	2	2022	-33.8006	151.2982	wobbegong	Orectolobidae	unprovoked	scuba diving						
+22	3	2022	-32	152.7512	wobbegong	Orectolobidae	unprovoked	wading	minor lacerations	3 lacerations on lower calf muscle	male	32	swimwear	
+8	3	2022	-33.9516	151.2603	unknown		unprovoked	surfing			male	47	swimwear	
+														
+														
+														
+														
+														
+														
+														
+														
