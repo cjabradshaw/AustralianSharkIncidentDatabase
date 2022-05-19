@@ -25,36 +25,3 @@ table(dat$Shark.common.name)
 bullshark.dat <- subset(dat, Shark.common.name=="bull shark")
 tigershark.dat <- subset(dat, Shark.common.name=="tiger shark")
 whiteshark.dat <- subset(dat, Shark.common.name=="white shark")
-
-write.table(bullshark.dat,file="BULL.txt",sep="\t", row.names = F, col.names = T)
-write.table(tigershark.dat,file="TIGER.txt",sep="\t", row.names = F, col.names = T)
-write.table(whiteshark.dat,file="WHITE.txt",sep="\t", row.names = F, col.names = T)
-
-## choose full dataset or main species
-dat.base <- dat
-#dat.base <- bullshark.dat
-#dat.base <- tigershark.dat
-#dat.base <- whiteshark.dat
-
-year.vec <- seq(1900, 2022, 1)
-tot.bite <- fatal <- injured <- uninjured <- unknown <- rep(NA,length(year.vec))
-
-for (i in 1:length(year.vec)) {
-  ydat <- subset(dat.base, Incident.year == year.vec[i])
-  tot.bite[i] <- ifelse(dim(ydat)[1] == 0, 0, dim(ydat)[1])
-  ydat.inj.tab <- table(ydat$Victim.injury)
-  
-  if (dim(ydat.inj.tab)[1] > 0) {
-    fatal[i] <- ifelse(length(which(names(ydat.inj.tab) == "fatal")) == 0, 0, as.numeric(ydat.inj.tab[which(names(ydat.inj.tab) == "fatal")]))
-    injured[i] <- ifelse(length(which(names(ydat.inj.tab) == "injured")) == 0, 0, as.numeric(ydat.inj.tab[which(names(ydat.inj.tab) == "injured")]))
-    uninjured[i] <- ifelse(length(which(names(ydat.inj.tab) == "uninjured")) == 0, 0, as.numeric(ydat.inj.tab[which(names(ydat.inj.tab) == "uninjured")]))
-    unknown[i] <- ifelse(length(which(names(ydat.inj.tab) == "")) == 0, 0, as.numeric(ydat.inj.tab[which(names(ydat.inj.tab) == "")]))
-  }
-}
-
-out.dat <- data.frame(year.vec,fatal, injured, uninjured, unknown, tot.bite)
-tot.known <- fatal + injured + uninjured
-prop.dat <- data.frame(year.vec, fatal/tot.known, injured/tot.known, uninjured/tot.known, unknown/tot.bite, tot.bite)
-colnames(prop.dat) <- c("year", "fatal", "injured", "uninjured", "NA", "totbites")
-head(prop.dat)
-apply(prop.dat[,2:4], MARGIN=1, sum, na.rm=T)
