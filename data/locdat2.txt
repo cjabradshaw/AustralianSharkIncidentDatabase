@@ -1,0 +1,1205 @@
+Incident.day	Incident.month	Incident.year	Victim.injury	State	Location	Latitude	Longitude	Shark.common.name	Shark.length.m	Provoked.unprovoked	No.sharks	Victim.activity	Injury.location	Injury.severity	Victim.gender	Victim.age	Time.of.incident
+1	1	1791	fatal	NSW	near sydney	-33.86666667	151.2	white shark		unprovoked		swimming	torso	major lacerations	female		
+22	3	1803	injured	WA	"hamelin bay, faure island"	-25.83333333	113.8833333	tiger shark		unprovoked	1	swimming			male		
+18	1	1807	injured	NSW	"cockle bay, sydney harbour"	-33.86666667	151.2	bull shark		unprovoked	1	swimming	"arm, hand"	minor lacerations	male		
+1	1	1820	fatal	TAS	"sweetwater point, pitt water"	-42.8	147.5333333			provoked	1	swimming	leg	major lacerations	male		
+1	1	1825	injured	NSW	"kirribili point, sydney harbour"	-33.85	151.2166667	bull shark		unprovoked	1	swimming	leg	minor lacerations	male	15	
+1	1	1830	injured	TAS	bruny island	-43.28333333	147.3333333	white shark		unprovoked	1	swimming	arm	major lacerations	female		
+20	1	1832	injured	NSW	"blackwattle bay, glebe, sydney harbour"	-33.86666667	151.1833333	bull shark		provoked		swimming	leg	minor lacerations	male		
+4	6	1832	injured	NSW	"south head, sydney harbour"	-33.83333333	151.2666667	white shark		provoked	1	fishing	leg	major lacerations	female		
+1	1	1836	injured	SA	holdfast bay	-34.95	138.5	white shark		unprovoked		swimming			male		
+1	8	1836	fatal	QLD	fraser island	-25.48333333	152.9833333	whaler shark		unprovoked	1	swimming	other: body not recovered		male		
+1	8	1836	fatal	QLD	fraser island	-25.48333333	152.9833333	whaler shark		unprovoked	1	swimming	other: body not recovered		male		
+17	1	1837	fatal	NSW	macleay river	-30.93333333	153.0166667	bull shark		unprovoked	1	swimming	leg	major lacerations	male	12	
+7	8	1839	fatal	VIC	"sealer's cove, wilson's promontory"	-38.98333333	146.45	white shark		provoked	1	swimming	leg	major lacerations	male		
+1	12	1840	fatal	NSW	"wooloomooloo bay, sydney harbour"	-33.85	151.2166667	bull shark		unprovoked	1	swimming	leg	major lacerations	male		
+25	4	1841	fatal	NSW	"cockatoo island, sydney harbour"	-33.83333333	151.1666667	bull shark		unprovoked	1	swimming	thigh	major lacerations	male		
+3	3	1847	injured	QLD	moreton bay	-27.25	153.25	bull shark		unprovoked		swimming	foot	major lacerations	male		
+30	11	1847	injured	QLD	brisbane river	-27.43333333	153.0833333	bull shark		unprovoked	1	swimming	"thigh, calf"	major lacerations	male		
+1	1	1849	fatal	WA	"quindalup, busselton"	-33.36666667	115.2833333	white shark		provoked	1	swimming			male		
+9	12	1849	injured	VIC	portland	-38.33333333	141.6	white shark		unprovoked	1	swimming	leg	other: teeth marks	male		
+2	12	1849	fatal	NSW	"woolloomooloo bay, sydney harbour"	-33.81666667	151.2	bull shark		unprovoked	1	swimming	thigh	major lacerations	male		
+1	1	1850	fatal	QLD	moreton bay	-27.28333333	153.2166667	tiger shark		unprovoked	1	swimming	other: body not recovered		male		
+10	3	1850	injured	NSW	"yamba, clarence head"	-29.41666667	153.3333333	whaler shark		unprovoked	1	swimming			male		
+9	11	1853	injured	NSW	sydney harbour	-33.85	151.2166667	wobbegong	1.0	provoked	1	swimming	leg	minor lacerations	male		
+1	1	1855	injured	QLD	mary river	-25.5	152.7166667	bull shark		unprovoked	1	swimming	leg	major lacerations	female		
+6	1	1855	uninjured	NSW	"woolloomooloo bay, sydney harbour"	-33.85	151.2166667	bull shark		unprovoked	1	swimming	other: uninjured		male		
+28	7	1855	fatal	QLD	hammond island	-10.56666667	142.2	tiger shark		unprovoked	1	swimming	torso	major lacerations	male		
+11	11	1855	fatal	NSW	"millers point, sydney harbour"	-33.86666667	151.2	bull shark		unprovoked	1	swimming	leg	major lacerations	male		
+5	2	1856	injured	VIC	"port phillip bay, point henry"	-38.13333333	144.4166667	white shark		unprovoked	1	swimming	"thigh, foot"	major lacerations	male	18	2100
+22	5	1856	injured	SA	"port elliot, horseshoe bay"	-35.53333333	138.6833333	wobbegong		unprovoked	1				male		
+14	3	1858	fatal	VIC	"hobson's bay, port phillip bay"	-37.85	144.9	white shark		unprovoked	1	swimming	calf	major lacerations	male	22	1500
+1	1	1860	injured	SA	encounter bay	-35.56666667	138.6	white shark		unprovoked		swimming	arm	major lacerations	male		
+13	1	1861	injured	QLD	"cleveland, moreton bay"	-27.51666667	153.2666667	wobbegong		unprovoked	1	swimming	"arm, hand"	minor lacerations	male		
+10	2	1862	injured	VIC	"huttons wharf, port phillip bay"	-37.85	144.9	white shark		unprovoked	1	swimming	leg	abrasion	male		
+1	12	1862	fatal	QLD	"brisbane river, brisbane"	-27.36666667	153.15	bull shark		unprovoked	1	swimming	other: body not recovered		male		
+10	1	1863	fatal	NSW	manning river	-31.88333333	151.4666667	bull shark		unprovoked	1	swimming	thigh	major lacerations	male	17	
+1	1	1863	fatal	QLD	"moreton bay, victoria point"	-27.58333333	153.3166667	tiger shark		provoked	1	swimming	other: body not recovered		male		
+5	3	1863	injured	VIC	"brighton bay, melbourne"	-37.9	144.9833333	white shark		unprovoked	1	swimming	"torso, leg"	major lacerations	male		2000
+12	4	1863	fatal	QLD	caloundra heads	-26.8	153.1333333	tiger shark		unprovoked	2		other: body not recovered		male		
+23	11	1865	fatal	VIC	"williamstown, phillip bay, melbourne"	-37.86666667	144.8666667	white shark		unprovoked		swimming	thigh	major lacerations	male	33	
+1	1	1868	injured	QLD	yeppoon	-23.08333333	150.7333333	tiger shark		unprovoked	1	swimming	leg	major lacerations	male		
+17	1	1869	injured	QLD	"brisbane river, milton reach"	-27.46666667	153	bull shark		unprovoked	1	swimming	leg	other: teeth marks	male		
+17	3	1869	injured	SA	"cape elizabeth, port hughes"	-34.13333333	137.45	broadnose sevengill shark	2.2	provoked	1	fishing	foot	minor lacerations	male		
+9	1	1870	injured	QLD	"brisbane river, north quay"	-27.46666667	153.0166667	bull shark		unprovoked	1	swimming	thigh	major lacerations	male	17	
+19	5	1870	injured	QLD	moreton island	-27.08333333	153.4	whaler shark		provoked	1	spearfishing	leg	minor lacerations	male	13	
+1	1	1872	injured	QLD	"wide bay, near fraser island"	-25.8	153.0166667			unprovoked	1	swimming			male		
+12	2	1873	uninjured	SA	semaphore beach	-34.83333333	138.4666667	white shark		unprovoked	1	unmotorised boating	other: uninjured		male		
+9	1	1874	injured	NSW	"darling harbour, sydney harbour"	-33.86666667	151.2	bull shark		unprovoked	1	swimming	"calf, foot"	major lacerations	male		
+21	11	1874	injured	QLD	"mary river, maryborough"	-25.5	152.7166667	bull shark	3.0	unprovoked	1	swimming	thigh	other: teeth marks	male		
+19	11	1874	injured	NSW	"redhead beach, newcastle"	-33	151.7166667	wobbegong	2.0	provoked	1	swimming	foot	minor lacerations	male		1900
+9	7	1875	injured	NSW	"yamba, clarence river"	-29.41666667	153.3333333	tiger shark		unprovoked	1	swimming		major lacerations	male		
+1	10	1875	fatal	QLD	torres strait islands	-10.25	142.1166667	tiger shark		provoked	1	snorkelling	leg	major lacerations	male		
+1	11	1875	injured	NSW	"yamba, clarence river heads, lluka beach"	-29.4	153.3333333	white shark		provoked	1	swimming	foot	major lacerations	male		
+26	12	1875	injured	NSW	"yamba, clarence river, grafton"	-29.4	153.3333333	bull shark		unprovoked	1	swimming	leg	minor lacerations	male		
+1	1	1876	injured	WA	port walcott & de grey river	-20.7	117.25	bull shark		provoked		snorkelling	thigh	major lacerations	male	36	
+30	1	1876	injured	VIC	st kilda beach	-37.86666667	144.9666667	white shark		unprovoked	1	swimming			male		
+1	2	1876	fatal	QLD	torres strait islands	-10.25	142.1166667	tiger shark		provoked	1	snorkelling	torso	major lacerations	male		
+6	2	1876	fatal	VIC	albert park pier	-37.85	144.95	white shark	4.0	unprovoked	1	swimming	"leg, pelvic region"	major lacerations	male	18	0600
+6	7	1876	uninjured	NSW	"dawse point battery, sydney harbour"	-33.85	151.2	whaler shark	4.3	provoked	1	diving	other: uninjured		male		
+1	12	1876	injured	NSW	"paterson river, newcastle"	-32.76666667	151.7	bull shark		unprovoked	1	swimming	leg	major lacerations	male		
+28	1	1877	fatal	VIC	"emerald hill, melbourne"	-37.83333333	144.9333333	white shark		unprovoked	1	swimming		major lacerations	male	30	
+20	1	1877	injured	VIC	port fairy	-38.38333333	142.4833333	white shark		unprovoked	1	swimming	foot	minor lacerations	female		
+21	3	1877	injured	VIC	"port phillip bay, portarlington"	-38.1	144.65	white shark		unprovoked	1	swimming	"thigh, foot"	major lacerations	male		
+15	12	1877	injured	NSW	"balmain, sydney harbour"	-33.86666667	151.2	bull shark		unprovoked	1	swimming	leg	major lacerations	male	12	
+1	12	1877	injured	SA	st kilda beach	-34.73333333	138.0333333		1.2	provoked	1	swimming	leg	minor lacerations	male		
+1	1	1878	injured	QLD	"torres strait, saibai island"	-9.633333333	142.6833333	tiger shark		provoked	1	snorkelling		major lacerations	male		
+2	3	1878	injured	VIC	hopkin's river	-38.38333333	142.5	whaler shark	3.2	unprovoked	1	swimming	torso	minor lacerations	male		
+23	7	1878	injured	QLD	"inskip point, off frazer island"	-25.8	153.05	bull shark		provoked	1	fishing	calf	major lacerations	male		
+14	11	1878	injured	NSW	"iron cove river, sydney harbour"	-33.85	151.15	wobbegong		unprovoked	1	swimming		minor lacerations	male		
+19	6	1879	fatal	NSW	"darling harbour, sydney harbour"	-33.86666667	151.2	bull shark		unprovoked	1	swimming	leg	major lacerations	male		
+10	11	1879	injured	NSW	"yamba, clarence river heads, lluka beach"	-29.4	153.3333333	white shark		unprovoked	1	swimming	thigh	major lacerations	male	15	
+1	1	1880	fatal	QLD	"cairns, fitzroy island"	-16.9	145.9833333	tiger shark		unprovoked	1	swimming	other: body not recovered		male		
+4	1	1880	injured	NSW	"lake macquarie, dora creek"	-33.08333333	151.5	bull shark		unprovoked	1	swimming	foot	major lacerations	female	13	1700
+7	1	1880	injured	QLD	"brisbane river, ipswich"	-27.51666667	152.9	bull shark		unprovoked	1	swimming	leg	minor lacerations	male	22	
+25	11	1880	fatal	QLD	"brisbane river, kangaroo point"	-27.46666667	153.0333333	bull shark		unprovoked	1	swimming	leg	major lacerations	male	15	1700
+19	1	1881	uninjured	NSW	"lake macquarie, pelican flat"	-31.06666667	152.6333333	bull shark	3.5	unprovoked	1	swimming	other: uninjured		female		
+1	1	1881	injured	QLD	"hervey bay, wide bay"	-25.25	152.85	tiger shark		unprovoked	1		foot	major lacerations	female	16	
+10	8	1881	injured	QLD	great barrier reef (unknown location)	-20	148.8	tiger shark		provoked	1	spearfishing	leg	minor lacerations	male		
+13	11	1881	fatal	NSW	"rushcutters bay, sydney harbour"	-33.86666667	151.2333333	bull shark		unprovoked	1	swimming	other: body not recovered		male		
+4	12	1881	injured	QLD	"kolan river, bunbagerg"	-24.83333333	152.1166667	bull shark		unprovoked	1	swimming	arm	major lacerations	male		
+1	1	1882	injured	WA	broome (area)	-17.98333333	122.2333333	tiger shark		provoked		snorkelling			male		
+15	4	1882	fatal	NSW	lake macquarie heads	-33.08333333	151.65	white shark		unprovoked	1		torso		male		
+15	5	1882	injured	NSW	"miller's point, sydney harbour"	-33.85	151.2	wobbegong		unprovoked	1	swimming	calf	minor lacerations	male		
+1	5	1882	fatal	WA	broome area (nintey mile beach)	-15.88333333	122	tiger shark		provoked	1	snorkelling	torso	major lacerations	male		
+1	12	1882	fatal	WA	broome (area)	-17.98333333	122.2333333	tiger shark		provoked	1	snorkelling			male		
+23	1	1883	fatal	NSW	"iron cove bay, sydney"	-33.85	151.15	bull shark		unprovoked	1	swimming	torso	major lacerations	male	37	
+19	12	1883	fatal	NSW	"parramatta river, sydney"	-33.86666667	151.2	bull shark		unprovoked	1	swimming	torso	major lacerations	male	21	
+22	12	1883	uninjured	NSW	"store beach, quarantine, manly"	-33.8	151.2833333	bull shark	2.8	provoked	1	swimming	other: uninjured		male		
+14	1	1884	fatal	SA	port pirie	-33.18333333	137.9833333	white shark		unprovoked	2	swimming	other: body not recovered		female	16	
+2	10	1885	uninjured	NSW	parramatta river	-33.81666667	151.05	bull shark		unprovoked	1	swimming	other: uninjured		female		
+26	11	1885	injured	WA	bunbury	-33.31666667	115.6333333	white shark		unprovoked	1	swimming	calf	major lacerations	male		
+25	1	1886	uninjured	QLD	maryborough harbour	-25.53333333	152.7	bull shark		unprovoked	1	swimming	other: uninjured		male		
+26	4	1886	injured	QLD	"fitzroy river, rotheway bay"	-23.38333333	150.6333333	bull shark		unprovoked	1	swimming	"arm, hand"	minor lacerations	male		
+23	2	1887	uninjured	NSW	"manly wharf, sydney"	-33.8	151.2833333	whaler shark		unprovoked		unmotorised boating	other: uninjured		male		1700
+4	12	1887	fatal	NSW	"ryde, sydney harbour"	-33.81666667	151.0833333	bull shark	4.0	unprovoked	1	swimming	"torso, leg, pelvic region"	major lacerations	male	25	1130
+11	9	1888	injured	QLD	cooktown (gbr)	-19.85	145.4	tiger shark		provoked		snorkelling			male		
+9	12	1888	fatal	NSW	"iron cove bridge, sydney"	-33.85	151.15	bull shark		unprovoked	1	swimming	torso	major lacerations	male	11	
+1	7	1889	fatal	VIC	port phillip bay heads	-38.33333333	144.6166667	white shark		unprovoked	1	swimming	other: body not recovered		male		
+1	1	1890	injured	TAS	"derwent, bridgewater"	-42.73333333	147.2333333	broadnose sevengill shark	3.0	unprovoked	1	swimming	thigh	major lacerations	male		
+8	4	1891	uninjured	NSW	tathra wharf	-36.71666667	149.9833333	wobbegong		provoked	1	diving	other: uninjured		male		
+17	6	1891	injured	VIC	point danger of torquay	-38.33333333	144.3166667	wobbegong	2.1	provoked	1	snorkelling	arm	minor lacerations	male		
+1	1	1892	fatal	QLD	"torres strait, badu island"	-10.11666667	142.1333333	tiger shark		provoked	1	diving	torso	major lacerations	male		
+22	3	1892	injured	QLD	"rockhampton, fitzroy river"	-23.36666667	150.5	bull shark		unprovoked	1	swimming	calf	other: teeth marks	male		
+6	11	1892	injured	QLD	"moreton bay, wellington point"	-27.45	153.2166667	whaler shark		unprovoked	1	swimming	leg	other: teeth marks	female		
+1	12	1892	injured	QLD	brisbane river	-27.43333333	153.0833333	bull shark		unprovoked	1	swimming	leg	abrasion	male		
+7	1	1893	uninjured	WA	geraldton	-28.76666667	114.6	wobbegong		provoked	1	fishing	other: uninjured		male		
+25	1	1893	fatal	QLD	claremont isles national park	-13.93333333	143.7333333	tiger shark		unprovoked	1	swimming	other: body not recovered		male		
+14	4	1893	injured	QLD	"torres strait, cap island"	-9.816666667	142.7	tiger shark		unprovoked	1	swimming	leg	minor lacerations	male		
+28	11	1894	injured	NSW	newcastle beach	-32.91666667	151.7833333	white shark	2.0	unprovoked	1	swimming	arm	major lacerations	male		0740
+1	1	1895	uninjured	QLD	brisbane river	-27.46666667	153	bull shark		unprovoked	1	unmotorised boating	other: uninjured		male	25	
+27	2	1895	fatal	NSW	"leichhardt, sydney harbour"	-33.93333333	151.25	bull shark	3.5	unprovoked	1	swimming	leg	major lacerations	male	16	1600
+15	3	1895	injured	QLD	"burnett river, sharon"	-24.9	152.2333333	bull shark		unprovoked	1	swimming	foot	major lacerations	male	13	
+1	6	1895	fatal	WA	barrow island	-20.78333333	115.5333333	tiger shark		provoked	4	diving	other: body not recovered		male		
+16	11	1895	fatal	NSW	"jervis bay, cape st george lighthouse"	-35.13333333	150.75	whaler shark		provoked	3	swimming	other: body not recovered		male		
+15	12	1895	uninjured	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		provoked	1	diving	other: uninjured		male		
+8	12	1895	fatal	NSW	"iron cove bridge, sydney"	-33.85	151.15	bull shark	4.0	unprovoked	1	swimming	torso	major lacerations	male	14	
+11	1	1896	fatal	NSW	"pyrmont baths, sydney"	-33.86666667	151.1833333	bull shark		unprovoked	1	swimming	torso	major lacerations	male	11	
+1	11	1896	fatal	WA	esperance	-33.85	121.8833333	white shark		unprovoked	1	swimming	leg		male		
+6	1	1897	injured	NSW	"macleay river, kempsey"	-31.06666667	152.8333333	bull shark	1.8	unprovoked	1	swimming	thigh	minor lacerations	male	12	
+1	12	1897	injured	QLD	"torres strait, mabuiag island "	-9.95	142.1833333	tiger shark		unprovoked	1	swimming	torso	major lacerations	male		
+22	9	1898	injured	NSW	"port stephens, nelson's bay"	-32.71666667	152.1166667	bull shark		provoked	1	fishing	foot	minor lacerations	male		
+20	12	1898	injured	QLD	"moreton bay, wellington point"	-27.46666667	153.2166667	whaler shark	1.2	provoked	1	fishing	thigh	minor lacerations	male		
+7	2	1899	injured	NSW	"sugar loaf bay, sydney harbour"	-33.78333333	151.2166667	bull shark		unprovoked	1	swimming	thigh	minor lacerations	male		
+18	12	1899	injured	QLD	"moreton bay, tingalpa creek, near wynnum"	-27.55	153.1833333	bull shark		unprovoked	1	swimming	leg	minor lacerations	male		
+28	1	1900	injured	NSW	"iron cove bridge, sydney"	-33.85	151.15	bull shark		unprovoked	1	swimming	thigh	major lacerations	male		1200
+1	1	1900	injured	NT	melville island	-11.6	130.95	tiger shark		unprovoked		swimming	arm	major lacerations	male		
+15	9	1900	injured	QLD	townsville harbour	-19.25	146.8166667	tiger shark		unprovoked	1	swimming	calf	major lacerations	male		2100
+10	11	1900	fatal	QLD	torres strait (unknown location)	-10.55	142.3833333			provoked		snorkelling			male		
+27	12	1900	fatal	NSW	"middle harbour, folly point, sydney harbour"	-33.78333333	151.2333333	bull shark		unprovoked	1	swimming	leg	major lacerations	male	21	
+1	1	1901	injured	NT	melville island	-11.6	130.95	tiger shark		unprovoked		swimming	leg	major lacerations	male		
+22	1	1901	fatal	QLD	"brisbane river, rowing club"	-27.46666667	153	bull shark		unprovoked	1	swimming	thigh	major lacerations	male	13	
+1	2	1901	injured	QLD	barron river mouth	-16.85	145.75	wobbegong		provoked	1	swimming	head	minor lacerations	male		
+23	4	1901	injured	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		provoked		snorkelling	"torso, shoulder"	major lacerations	male		
+25	4	1901	injured	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		provoked		snorkelling	torso	major lacerations	male		
+1	12	1901	injured	QLD	"brisbane river, south brisbane cemetery"	-27.46666667	153	bull shark	2.0	unprovoked	1	swimming	"torso, leg, pelvic region"	major lacerations	male		1335
+19	1	1902	injured	QLD	"brisbane river, highgate hill"	-27.48333333	153	bull shark		unprovoked	1	swimming	leg	major lacerations	male	16	1200
+4	1	1902	injured	QLD	"moreton bay, wynnum south"	-27.43333333	153.1666667	whaler shark		provoked	1	swimming	torso	abrasion	male		
+10	1	1903	fatal	NSW	"lane cove river, sydney"	-33.81666667	151.15	bull shark	3.0	unprovoked	1	swimming	leg	major lacerations	male	20	1700
+1	2	1903	uninjured	NSW	"middle lagoon, tanja"	-36.63333333	150	bull shark	1.8	provoked	1	fishing	other: uninjured		male		
+15	3	1903	fatal	QLD	logan river	-27.7	153.2833333	bull shark		unprovoked	1	swimming	leg	major lacerations	male		
+6	5	1903	uninjured	NSW	kiama	-34.66666667	150.85	whaler shark	3.0	provoked	1	diving	other: uninjured		male		
+27	3	1904	injured	QLD	"brisbane river, pinkenba"	-27.41666667	153.1166667	bull shark		unprovoked	1	swimming	torso	minor lacerations	male		
+30	3	1905	injured	NSW	lismore - wilsons river	-28.8	153.2666667	bull shark		unprovoked	1	swimming	leg	minor lacerations	male		
+2	12	1905	fatal	QLD	"badu island, torres strait"	-10.2	142.15	tiger shark		provoked	1	snorkelling	thigh	major lacerations	male		
+28	1	1906	fatal	NSW	georges river	-33.98333333	151.0666667	bull shark	2.0	unprovoked	1	swimming	leg	major lacerations	male	33	1410
+14	4	1906	fatal	QLD	lizard island	-14.66666667	145.45	tiger shark		unprovoked	1	swimming	arm	major lacerations	male		
+24	8	1906	fatal	QLD	"torres strait, mabuiag island "	-9.95	142.1666667	tiger shark		provoked	1	snorkelling	"arm, shoulder, torso"	major lacerations	male		
+17	12	1906	uninjured	NSW	batemans bay	-35.7	150.1833333	wobbegong		unprovoked	1	motorised boating	other: uninjured		male		
+3	2	1907	fatal	QLD	"townsville, ross creek"	-19.25	146.8166667	bull shark	3.2	unprovoked	1	swimming		major lacerations	male		
+4	8	1907	injured	WA	"geraldton, murray island - off geraldton"	-28.85	113.9	tiger shark		provoked	1	snorkelling	leg	major lacerations	male		
+13	10	1907	injured	NSW	"merewether beach, newcastle"	-32.93333333	151.75	white shark	1.8	unprovoked	1	swimming	"torso, shoulder"	major lacerations	male	26	1000
+21	12	1907	fatal	NSW	"middle harbour, sugarloaf bay, sydney"	-33.78333333	151.2333333	bull shark		unprovoked	1	swimming	torso	major lacerations	male		
+1	1	1909	injured	NSW	"brisbane waters, woy woy"	-33.48333333	151.3	bull shark		unprovoked		swimming			male		
+26	1	1910	fatal	NSW	newcastle harbour	-32.9	151.7666667	bull shark		unprovoked	1	swimming	leg	major lacerations	male	16	
+17	2	1910	injured	WA	bunbury 	-33.31666667	115.6166667	white shark	1.8	unprovoked	1	swimming	"shoulder, torso, leg"	major lacerations	male		
+31	3	1910	uninjured	WA	cape leeuwin	-34.36666667	115.1166667			unprovoked	1	swimming	other: uninjured		male		
+24	11	1910	injured	QLD	mackay (9 miles away)	-21.16666667	149.2333333		3.0	unprovoked	1	swimming	foot	minor lacerations	male		
+6	2	1911	uninjured	WA	legendre island	-20.38333333	116.8666667	tiger shark		unprovoked	1	swimming	other: uninjured		male		
+27	3	1911	fatal	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		unprovoked	1	swimming	"torso, thigh"	major lacerations	male	16	
+25	10	1911	injured	QLD	cooktown (gbr)	-15.48333333	145.4	tiger shark		provoked	1	snorkelling	leg	major lacerations	male	23	
+6	1	1912	injured	NSW	sydney (near)	-33.83333333	151.1666667	dusky shark		unprovoked	1	swimming	"leg, pelvic region"	major lacerations	male		
+26	1	1912	fatal	NSW	"lane cove river, figtree, sydney"	-33.81666667	151.15	bull shark	3.0	unprovoked	1	swimming	thigh	major lacerations	male		
+1	1	1912	fatal	QLD	"townsville, ross creek"	-19.45	146.6	bull shark		unprovoked	1	swimming	leg	major lacerations	male		
+16	2	1912	uninjured	WA	bunbury harbour	-33.31666667	115.6333333	wobbegong		provoked	1	diving	other: uninjured		male		
+9	2	1912	injured	SA	carpenters rocks	-37.58333333	140.3333333	white shark	2.4	provoked	1	fishing	"arm, hand"	major lacerations	male		
+19	2	1912	injured	NSW	"coogee beach, sydney"	-33.91666667	151.25	white shark		unprovoked	1	swimming	"calf, foot"	major lacerations	male		1600
+5	11	1912	injured	QLD	"moreton bay, sandgate, scroncliffe pier"	-27.31666667	153.05	tiger shark	2.7	unprovoked	1	swimming	leg	major lacerations	male	35	1750
+24	3	1913	injured	QLD	"torres strait, thursday/york island"	-10.56666667	142.2166667	tiger shark		provoked	1	snorkelling	head	minor lacerations	male		
+2	5	1913	injured	NSW	"yamba, clarence river"	-29.4	153.3333333	bull shark		provoked	1	fishing	leg	minor lacerations	male		
+1	6	1913	injured	QLD	"badu island, torres strait"	-10.2	142.15			provoked	1	swimming	head	major lacerations	male		
+21	11	1913	injured	QLD	"moreton bay, sandgate, scroncliffe pier"	-27.31666667	153.05	tiger shark	2.5	unprovoked	1	swimming	leg	major lacerations	male	13	
+29	12	1913	injured	SA	port noarlunga	-35.05	138.45	white shark		unprovoked	1	swimming	leg	minor lacerations	male		2030
+20	1	1914	uninjured	NSW	"five dock bay, drummoyne"	-33.85	151.15	bull shark		unprovoked	1	unmotorised boating	other: uninjured		male		1800
+11	1	1914	injured	QLD	"moreton bay, sandgate beach"	-27.31666667	153.05	wobbegong	1.7	unprovoked	1	swimming	leg	minor lacerations	female		1000
+1	2	1914	injured	NSW	"parramatta river, sydney harbour"	-33.83333333	151.0666667	bull shark		unprovoked	1	unmotorised boating	torso	abrasion	male	23	
+4	2	1914	injured	SA	"marion bay, yorke peninsula"	-35.23333333	136.9666667	wobbegong		provoked	1	spearfishing	foot	minor lacerations	male		
+15	4	1914	injured	NSW	"maclean river, lawrence"	-29.43333333	153.1833333	bull shark		provoked	1	fishing	foot	minor lacerations	male		
+10	6	1914	fatal	VIC	"port phillip bay, sandringham beach"	-37.95	145	white shark		unprovoked	1	swimming	other: body not recovered		male		
+2	12	1914	injured	QLD	"magnetic island, picnic bay wharf"	-19.16666667	146.8333333			unprovoked	1	swimming	thigh	minor lacerations	male		
+6	12	1914	injured	WA	"cottesloe beach, perth"	-31.98333333	115.7333333	wobbegong	0.8	provoked	1		calf	minor lacerations	male		
+1	1	1915	fatal	NSW	"sirius cove, sydney harbour"	-33.83333333	151.2333333	bull shark		unprovoked	1	swimming	thigh	major lacerations	male		
+6	2	1915	injured	QLD	moreton bay	-27.26666667	153.2166667	wobbegong		unprovoked	1	unmotorised boating	foot	minor lacerations	male		
+8	11	1915	injured	NSW	"manly, north steyne, sydney"	-33.78333333	151.2833333	whaler shark		unprovoked	1	swimming	"leg, foot"	major lacerations	male		
+10	11	1915	injured	QLD	"moreton bay, cabbage tree creek"	-27.31666667	153.0666667	bull shark		unprovoked	1	swimming	"arm, torso"	minor lacerations	male	8	
+24	2	1916	uninjured	TAS	burnie	-41.05	145.75	wobbegong	1.5	provoked	1	diving	other: uninjured		male		
+19	3	1916	injured	NSW	curl curl beach	-33.76666667	151.2833333	white shark		unprovoked	1	swimming	leg	minor lacerations	male		
+10	11	1916	fatal	QLD	"townsville, kissing point"	-19.23333333	146.8	tiger shark		unprovoked	1	swimming			male	27	
+9	11	1916	fatal	QLD	"townsville, strand beach"	-19.23333333	146.8166667	tiger shark		unprovoked	1	swimming	leg	major lacerations	male		1800
+1	11	1916	injured	WA	condon creek - port headland (area)	-20	119.3666667	tiger shark	3.7	provoked	1	snorkelling	leg	major lacerations	male		
+2	11	1916	fatal	WA	condon creek - broome (area)	-20	119.3333333	tiger shark	3.7	provoked	1	snorkelling	leg	major lacerations	male		
+8	12	1916	fatal	NSW	"sugarloaf point, sydney harbour,"	-33.78333333	151.2166667	bull shark		unprovoked	1	other: standing in water	"arm, torso"	major lacerations	male	41	
+30	12	1916	fatal	QLD	yeppoon (mens beach)	-23.11666667	150.75	tiger shark	3.0	unprovoked	1	swimming	calf	major lacerations	male	26	
+14	6	1917	injured	QLD	moreton bay	-27.23333333	153.2166667	whaler shark		provoked	1	fishing	leg	minor lacerations	male		
+15	12	1917	injured	WA	port headland	-20.3	118.5833333	tiger shark		unprovoked	1	swimming	thigh	major lacerations	male		
+15	1	1918	injured	NSW	"port stephens, tea gardens"	-32.66666667	152.15	wobbegong		provoked	1	fishing	"arm, hand"	major lacerations	male		
+22	3	1918	injured	NSW	newcastle beach	-32.91666667	151.7833333	white shark		unprovoked		swimming	"arm, hand"	major lacerations	male		1715
+17	3	1918	injured	QLD	"kirra beach, coolangatta"	-28.15	153.5166667	wobbegong		provoked	1	swimming	foot	minor lacerations	male		
+17	3	1918	injured	NSW	tweed heads	-28.15	153.1	tiger shark		unprovoked	1	swimming	leg	major lacerations	male		
+5	4	1918	uninjured	NSW	burmagui	-26.41666667	150.0666667	wobbegong		provoked	1	diving	other: uninjured		male		
+9	4	1918	uninjured	NSW	"parramatta river, sydney harbour"	-33.86666667	151.2	bull shark		unprovoked	1	swimming	other: uninjured		male	28	0900
+19	9	1918	fatal	QLD	"townsville, strand beach"	-19.25	146.8166667	tiger shark	2.2	unprovoked	1	swimming	leg	major lacerations	male		
+21	11	1918	fatal	QLD	arlington reef (gbr)	-16.7	146.05	tiger shark		provoked	1	snorkelling	torso	major lacerations	male		1500
+17	1	1919	injured	NSW	newcastle beach	-32.91666667	151.7833333	white shark	3.7	unprovoked	1	swimming	"hand, torso, calf"	major lacerations	male	19	
+9	1	1919	fatal	NSW	"sirius cove, sydney harbour"	-33.83333333	151.2333333	bull shark	3.5	unprovoked	1	swimming	thigh	major lacerations	male	13	0730
+5	1	1919	fatal	QLD	"townsville, ross creek"	-19.45	146.6	bull shark		unprovoked	1	swimming	leg	major lacerations	male	38	
+29	12	1919	injured	QLD	bribie island	-27.08333333	153.45	wobbegong		provoked	1	swimming	leg	minor lacerations	male		
+8	12	1919	fatal	NSW	"macleay river, pelican island"	-30.91666667	153.0166667	bull shark		unprovoked	1	swimming	"calf, foot"	major lacerations	male		
+15	1	1920	fatal	NSW	throsby creek. newcastle	-32.9	151.75	bull shark		unprovoked	1	swimming	leg	major lacerations	male	12	
+24	2	1920	uninjured	NSW	tuggerah lake entrance	-33.33333333	151.5	wobbegong		provoked	1	spearfishing	other: uninjured		male		
+8	3	1920	injured	QLD	"townsville, cleveland bay"	-19.25	146.8166667	tiger shark		unprovoked	1	swimming	torso	major lacerations	male	20	1900
+1	7	1920	injured	QLD	mackay (320km east)	-20.9	151.7166667	tiger shark		provoked	1	snorkelling	"arm, shoulder, torso"	major lacerations	male		
+1	11	1920	injured	NSW	cape halke	-32.2	152.55	wobbegong		provoked	1	snorkelling	"arm, hand"	minor lacerations	male		
+29	11	1920	injured	WA	"ocean beach, demark"	-35.01666667	117.3333333	wobbegong	1.2	unprovoked	1	other: standing in water	leg		male		2000
+22	11	1920	injured	WA	"cottesloe beach, perth"	-31.98333333	115.7333333	wobbegong		unprovoked	1	other: standing in water	"leg, hand"		male		
+1	12	1920	injured	QLD	howick island	-14.5	144.9166667			provoked	1	fishing	leg	minor lacerations	male		
+1	12	1920	injured	NSW	lismore - wilsons river	-28.8	153.2666667	bull shark		unprovoked	1	swimming	leg	minor lacerations	male		
+12	10	1921	injured	QLD	hinchinbrook island	-18.23333333	146.65	tiger shark		provoked	1	snorkelling	arm	major lacerations	male		
+9	10	1921	fatal	QLD	"cairns, elford reef (26 miles east)"	-16.9	146.2333333	tiger shark		unprovoked	1	swimming	leg	major lacerations	male		
+27	11	1921	fatal	QLD	"brisbane river, bulimba beach "	-27.43333333	153.15	bull shark		unprovoked	1	swimming	other: body not recovered		male	8	
+27	11	1921	injured	QLD	"brisbane river, bulimba beach "	-27.43333333	153.15	bull shark		unprovoked	1	swimming	"leg, pelvic region"	minor lacerations	male		
+11	12	1921	injured	QLD	fitzroy river	-23.38333333	150.55	bull shark		unprovoked	1	swimming	torso	minor lacerations	male		
+12	1	1922	injured	NSW	"stockton beach, newcastle"	-32.85	151.8333333	white shark		unprovoked	1	swimming	thigh	minor lacerations	male		
+15	1	1922	fatal	QLD	"townsville, ross creek"	-19.45	146.6	bull shark		unprovoked	4	swimming		major lacerations	male	54	
+4	2	1922	fatal	NSW	"coogee beach, sydney"	-33.91666667	151.25	white shark		unprovoked	1	swimming	arm	major lacerations	male	19	1530
+2	3	1922	fatal	NSW	"coogee beach, sydney"	-33.91666667	151.25	white shark	2.5	unprovoked	1	swimming	"hand, torso"	major lacerations	male	21	1100
+5	12	1922	fatal	QLD	"maryborough, pialba beach"	-25.53333333	152.7	tiger shark	3.0	unprovoked	1	swimming	torso	major lacerations	male		
+27	1	1923	fatal	WA	"swan river, claremont"	-31.96666667	115.7666667	bull shark		unprovoked	1	swimming	thigh	major lacerations	male	13	
+7	1	1923	uninjured	NSW	"merewether beach, newcastle"	-32.93333333	151.75	white shark	3.2	provoked	1	swimming	other: uninjured		male		
+18	3	1923	injured	QLD	"townsville, ross creek"	-19.23333333	146.8166667	bull shark		unprovoked	1	swimming	leg	minor lacerations	male		
+22	5	1923	fatal	QLD	great barrier reef (townsville area)	-16.85	146.15	tiger shark		provoked	1	snorkelling	torso	major lacerations	male		
+22	5	1923	injured	WA	"geraldton, southgate"	-28.81666667	114.6166667	wobbegong		provoked	1	fishing	foot	other: teeth marks	male		
+29	6	1923	injured	QLD	townsville area (gbr)	-18.7	147.7666667	tiger shark		provoked	1	snorkelling		major lacerations	male		
+16	6	1923	fatal	NSW	"bellambi, wollongong"	-34.35	150.9166667	white shark		unprovoked	3	swimming	other: body not recovered		male	50	
+16	10	1923	injured	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		provoked		snorkelling	arm	major lacerations	male		
+24	11	1923	fatal	WA	condon creek - broome (area)	-20	119.35	tiger shark		provoked			other: body not recovered	major lacerations	male		
+24	11	1923	fatal	WA	condon creek - broome (area)	-20	119.35	tiger shark		provoked			other: half of body recovered	major lacerations	male		
+11	12	1923	injured	NSW	"tweed river, murwillumbah"	-28.31666667	153.4	bull shark		unprovoked	1	swimming	leg	minor lacerations	male		
+19	1	1924	fatal	NSW	"parramatta river, camella, sydney"	-33.8	151.0166667	bull shark	3.2	unprovoked	1	swimming	"arm, torso, foot"	major lacerations	male		1600
+9	2	1924	injured	WA	bunbury	-33.31666667	115.6333333	wobbegong	0.9	unprovoked	1	swimming	foot	minor lacerations	male		
+13	2	1924	injured	NSW	"bronte beach, sydney"	-33.9	151.2666667	white shark		unprovoked	1	swimming	"leg, foot"	major lacerations	female	30	0700
+25	4	1924	fatal	NSW	"kiama, wollongong"	-34.66666667	150.85	white shark		unprovoked		swimming		major lacerations	male	20	
+18	10	1924	injured	VIC	"town pier, port melbourne"	-37.83333333	144.9333333	white shark	3.0	unprovoked	1	swimming	leg	major lacerations	male		
+27	3	1925	injured	NSW	"coogee beach, sydney"	-33.91666667	151.25	white shark		unprovoked	1	swimming	leg	major lacerations	male	16	1700
+12	3	1925	fatal	NSW	newcastle beach	-32.91666667	151.7833333	white shark	3.0	unprovoked	1	swimming	"arm, torso"	major lacerations	male	16	1530
+22	11	1925	fatal	WA	"cottesloe beach, perth"	-31.98333333	115.75	tiger shark	4.0	unprovoked	1	swimming	"torso, leg"	major lacerations	male	55	
+18	3	1926	fatal	SA	"brighton pier, adelaide"	-34.9	137	white shark	4.0	unprovoked	1	swimming	thigh	major lacerations	female		1600
+23	10	1926	injured	NSW	"yamba, clarence river, maclean"	-29.45	153.1833333	bull shark		unprovoked	1	swimming			male		1600
+17	11	1926	injured	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		provoked		snorkelling	arm	minor lacerations	male		
+2	12	1926	fatal	QLD	palm island	-18.71666667	146.5666667	tiger shark		provoked	1	snorkelling			male		
+1	1	1927	injured	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		provoked		snorkelling	"torso, shoulder"	minor lacerations	male		
+3	1	1927	fatal	NSW	"greys point, port hacking"	-34.05	151.0833333	tiger shark	4.0	unprovoked	1	swimming	thigh	major lacerations	male	15	1130
+9	2	1927	uninjured	QLD	brisbane river	-27.46666667	153.0333333	bull shark		unprovoked	1	swimming	other: uninjured		male		
+1	3	1927	injured	NSW	"merewether beach, newcastle"	-32.93333333	151.75	white shark	3.0	unprovoked	1	swimming	"hand, pelvic region"	major lacerations	male	17	1500
+8	4	1927	injured	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark	1.8	provoked	1		leg	minor lacerations	male		
+10	4	1927	injured	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		provoked		snorkelling	leg	major lacerations	male		
+1	5	1927	fatal	QLD	cairns (near)	-17.21666667	145.9666667	tiger shark		unprovoked	1	swimming	leg	major lacerations	male		
+26	7	1927	uninjured	WA	broome (area)	-17.98333333	122.2333333	tiger shark		provoked	1	diving	other: uninjured		male		
+27	1	1928	fatal	QLD	"deliverance island, torres strait"	-9.516666667	141.5666667	tiger shark		provoked			"arm, leg"	major lacerations	male		
+20	2	1928	fatal	QLD	"barrow point, 100 km north of cooktown"	-14.15	144.5	tiger shark		provoked		snorkelling			male		
+20	3	1928	injured	QLD	great barrier reef (bowen area)	-19.8	149.05	tiger shark		provoked	1	snorkelling	torso	minor lacerations	male		
+6	4	1928	injured	QLD	"brisbane river, graceville"	-27.51666667	152.9833333	bull shark	1.2	unprovoked	1	swimming	leg	minor lacerations	male	15	
+14	4	1928	injured	NSW	"bondi beach north, sydney"	-33.88333333	151.2666667	white shark		unprovoked	1	swimming	calf	major lacerations	male	19	1600
+4	4	1928	fatal	NSW	"bar beach, newcastle"	-32.93333333	151.75	white shark		unprovoked	1	swimming	"hand, leg, torso"	major lacerations	male	27	1800
+11	7	1928	injured	QLD	torres strait	-10.58333333	142.2166667	tiger shark		unprovoked		swimming	"arm, torso"	major lacerations	male		
+21	12	1928	injured	QLD	torres strait	-10.58333333	142.2166667	tiger shark		provoked	1	snorkelling	"arm, hand"	major lacerations	male		
+27	1	1929	fatal	QLD	"magnetic island, alma bay"	-19.13333333	146.8333333	tiger shark		unprovoked	1	swimming	"arm, torso"	major lacerations	male	18	1730
+1	1	1929	injured	SA	adrossan beach	-34.41666667	137.9166667	wobbegong		provoked	1	fishing	leg	other: teeth marks	male		
+12	1	1929	fatal	NSW	"bondi beach, sydney"	-33.88333333	151.2666667	white shark	4.9	unprovoked	1	swimming	thigh	major lacerations	male	14	1830
+24	2	1929	injured	NSW	jervis bay	-35.03333333	150.7166667	wobbegong		provoked	1	snorkelling	foot	minor lacerations	male		
+18	2	1929	fatal	NSW	"maroubra beach, sydney"	-33.93333333	151.25	white shark		unprovoked	1	swimming	"leg, hand"	major lacerations	male	19	1600
+8	2	1929	fatal	NSW	"bondi beach, sydney"	-33.88333333	151.2666667	white shark		unprovoked	1	swimming	thigh	major lacerations	male	39	1600
+10	2	1929	uninjured	SA	"glenelg, adelaide"	-34.96666667	138.5	white shark	3.6	unprovoked	1	unmotorised boating	other: uninjured		female		
+26	3	1929	injured	QLD	bowen (gbr)	-19.51666667	148.8333333			provoked	1	snorkelling		major lacerations	male		
+3	3	1929	injured	SA	adrossan beach	-34.41666667	137.9166667	wobbegong		unprovoked	1	unmotorised boating	leg		male	12	
+3	3	1929	injured	SA	adrossan beach	-34.41666667	137.9166667	wobbegong		unprovoked	1	unmotorised boating	foot		male	12	
+12	3	1929	fatal	QLD	"torres strait, dauan island"	-9.416666667	142.5333333	tiger shark		unprovoked		swimming			male		
+16	4	1929	injured	QLD	mackay	-21	149.8833333	tiger shark		provoked	1	snorkelling	"arm, hand"	major lacerations	male		
+11	4	1929	injured	QLD	"bribie passage, pumicestone channel"	-26.98333333	153.0666667	bull shark	1.5	provoked	1	fishing	leg	major lacerations	male	21	
+9	4	1929	fatal	QLD	"torres strait, badu island"	-10.11666667	142.1333333	tiger shark		unprovoked		swimming	thigh	major lacerations	male		1200
+31	5	1929	injured	QLD	"torres strait, coconut island"	-10.05	143.0666667	tiger shark		provoked	1	snorkelling	"leg, pelvic region"	major lacerations	male		
+21	9	1929	injured	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		provoked	1	spearfishing	leg	major lacerations	male		
+1	9	1929	fatal	QLD	"townsville, ross creek"	-19.45	146.6	bull shark		unprovoked		swimming	leg	major lacerations	male	42	
+20	10	1929	injured	QLD	"torres strait, badu island"	-10.11666667	142.1333333	tiger shark		unprovoked		swimming	foot	major lacerations	male		
+3	12	1929	fatal	QLD	"townsville, ross creek"	-19.45	146.6	bull shark		unprovoked		swimming	"torso, leg"	major lacerations	male	50	
+16	12	1929	injured	NSW	"collaroy beach, sydney"	-33.71666667	151.3	wobbegong		unprovoked	1	swimming	leg	minor lacerations	female	17	
+26	12	1929	fatal	NSW	"balmain, white bay, sydney harbour"	-33.85	151.1833333	bull shark		unprovoked	1	swimming	"arm, leg, pelvic region"	major lacerations	male	16	
+13	12	1929	injured	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		unprovoked		swimming	"arm, torso"	major lacerations	male		
+23	12	1929	uninjured	QLD	coolangatta beach	-28.16666667	153.5333333			unprovoked	1	swimming	other: uninjured		male		
+1	1	1930	injured	QLD	"torres strait, moa island"	-10.15	142.1833333	tiger shark		provoked	1	spearfishing	arm	major lacerations	male		
+15	2	1930	fatal	VIC	"port philip bay, middle brighton pier"	-37.9	144.9833333	white shark	5.0	unprovoked	1	swimming	other: body not recovered		male	19	1630
+20	2	1930	injured	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		unprovoked		swimming	"arm, torso"	major lacerations	male		
+4	6	1930	fatal	QLD	"torres strait, mabuiag island"	-9.95	142.1833333	tiger shark		unprovoked		swimming			male		
+1	7	1930	fatal	QLD	"torres strait, badu island"	-10.25	142.1	tiger shark		provoked		snorkelling			male	16	
+31	8	1930	injured	WA	geraldton	-28.76666667	114.6	wobbegong	0.6	provoked	1	fishing	leg	other: teeth marks	male		
+25	12	1930	injured	NSW	"homebush bay, parramatta river, sydney"	-33.83333333	151.0666667	bull shark		unprovoked	1	swimming	torso	abrasion	male	49	
+10	1	1931	injured	NSW	"spit bridge, middle harbour sydney"	-33.8	151.2333333	wobbegong		provoked	1	fishing	foot	minor lacerations	male		
+7	1	1931	injured	QLD	yeppoon	-23.11666667	150.7333333	tiger shark	1.5	unprovoked	1	swimming	torso	minor lacerations	male	18	1600
+14	1	1931	injured	QLD	torres strait	-10.58333333	142.2166667	tiger shark		provoked		snorkelling	"leg, pelvic region"	major lacerations	male		
+24	1	1931	injured	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		provoked	1	snorkelling			male		
+22	3	1931	fatal	QLD	"townsville, ross creek"	-19.45	146.6	bull shark		provoked	1	swimming	thigh	major lacerations	male	19	
+26	11	1931	injured	QLD	innisfail	-17.53333333	146.0166667	tiger shark	4.0	provoked	1	snorkelling	leg	major lacerations	male		
+27	1	1932	injured	QLD	"brisbane river, bremer river"	-27.6	152.7666667	bull shark		unprovoked	1	swimming	thigh	minor lacerations	male		
+13	2	1932	injured	QLD	calliope river	-23.83333333	151.2166667	bull shark		provoked	1	fishing	foot	minor lacerations	male		
+24	2	1932	injured	NSW	bellambi jetty	-34.36666667	150.9166667	wobbegong		provoked	1	fishing	foot	minor lacerations	male		
+1	5	1932	injured	QLD	cairns	-16.91666667	145.7666667	tiger shark		provoked		snorkelling	arm	major lacerations	male		
+12	5	1932	fatal	QLD	"torres strait, warrior reef"	-9.4	142.6666667	tiger shark		unprovoked		swimming			male		
+9	8	1932	injured	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		unprovoked		swimming	"leg, pelvic region"	major lacerations	male		
+31	10	1932	injured	NSW	"redhead beach, newcastle"	-33	151.7166667	white shark	4.0	unprovoked	1	swimming	torso	minor lacerations	male	24	1100
+9	12	1932	injured	NT	arnhem land (coastal area)	-11.93333333	132.6166667	tiger shark		unprovoked		swimming	leg	major lacerations	male		
+4	1	1933	fatal	QLD	"townsville, strand beach"	-19.25	146.8166667	tiger shark		unprovoked	1	swimming	torso	major lacerations	male	38	
+7	2	1933	uninjured	WA	"swan river, pelican rock"	-31.96666667	115.85	bull shark	2.1	provoked	1	fishing	other: uninjured		male		
+15	2	1933	injured	QLD	"barrow point, 100km north of cooktown"	-14.15	144.5	tiger shark	4.2	provoked	1	snorkelling	"arm, shoulder"	major lacerations	male		
+31	3	1933	injured	QLD	mackay (50 miles off - gbr)	-20.96666667	149.75	tiger shark	2.1	provoked	1	snorkelling	leg	major lacerations	male		
+27	6	1933	uninjured	NT	"darwin, fanny bay"	-12.45	130.8333333			provoked	1	fishing	other: uninjured		male		
+12	6	1933	injured	QLD	"currumbin creek, currumbin"	-28.13333333	153.4666667	bull shark		unprovoked	1	swimming	leg	abrasion	male		
+3	7	1933	uninjured	WA	broome	-17.96666667	122.1666667	tiger shark		provoked	1	diving	other: uninjured		male		
+5	9	1933	fatal	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		provoked	1	snorkelling	thigh	major lacerations	male		
+18	10	1933	injured	QLD	"barrow point, 100 km north of cooktown"	-14.15	144.5	tiger shark		provoked	1	snorkelling	"arm, hand"	major lacerations	male	17	
+1	10	1933	injured	NSW	evans head	-29.1	153.4333333	wobbegong		provoked	1	swimming	foot	minor lacerations	male		
+27	1	1934	injured	NSW	"georges river,"	-33.98333333	151.0666667	bull shark	3.0	unprovoked	1	swimming	"arm, torso"	minor lacerations	male	15	
+7	1	1934	injured	NSW	"queenscliff beach, sydney"	-33.78333333	151.2833333	white shark	4.0	unprovoked	1	swimming	leg	major lacerations	male	22	1500
+1	1	1934	uninjured	QLD	"gloucester island, bowen"	-20	148.45	tiger shark		provoked	1	snorkelling	other: uninjured		male		
+24	2	1934	injured	QLD	"torres strait, adolphus channel "	-10.6	142.6166667	tiger shark	2.8	provoked	2	spearfishing	thigh	abrasion	male		
+12	3	1934	fatal	NSW	"dee why beach, sydney"	-33.75	151.3	white shark	4.0	unprovoked	1	swimming	"leg, pelvic region"	major lacerations	male	17	1500
+15	4	1934	injured	QLD	"currumbin beach, gold coast"	-28.15	153.4833333	tiger shark	2.0	unprovoked	1	swimming	calf	minor lacerations	male	34	0920
+1	4	1934	fatal	NSW	"manly, north steyne, sydney"	-33.78333333	151.2833333	white shark	3.5	unprovoked	1	swimming	"leg, torso"	major lacerations	male	16	1230
+26	8	1934	fatal	QLD	"cardwell, off eva island"	-18.23333333	146.3166667	tiger shark		unprovoked	3	swimming	torso		male		
+2	10	1934	fatal	QLD	"torres strait, warrior reef"	-9.966666667	143.2666667	tiger shark		provoked		snorkelling	arm	major lacerations	male		
+9	10	1934	fatal	NT	"red cliff, cobourg peninsula"	-11.66666667	132.5166667	tiger shark	4.5	unprovoked	1	swimming	"arm, torso, thigh"	major lacerations	female		
+31	12	1934	injured	NSW	"georges river, milpera, sydney"	-33.95	151.9666667	bull shark	3.6	unprovoked	1	swimming	arm	major lacerations	female	13	2000
+31	12	1934	fatal	NSW	"georges river, milperra bridge"	-33.93333333	150.9666667	bull shark	3.6	unprovoked	1	swimming	calf	major lacerations	male	20	1630
+23	12	1934	fatal	NSW	"brisbane waters, woy woy"	-33.48333333	151.3	bull shark		unprovoked	1	swimming	torso		male	14	1300
+23	12	1934	injured	NSW	"brisbane waters, woy woy"	-33.48333333	151.3	bull shark		unprovoked	1	swimming	leg	abrasion	female	12	1300
+1	1	1935	fatal	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		unprovoked		swimming			male		
+14	2	1935	injured	NSW	"austinmer beach, wollongong"	-34.3	150.9333333	white shark		unprovoked	1	boarding	thigh	minor lacerations	male	20	1730
+9	3	1935	fatal	NSW	"maroubra beach, sydney"	-33.93333333	151.25	white shark	4.2	unprovoked	1	swimming	"arm, torso, pelvic region"	major lacerations	male		1230
+30	3	1935	injured	QLD	mackay (100 mile south)	-21.16666667	149.2333333	whaler shark		unprovoked	1	snorkelling	"leg, pelvic region"	other: teeth marks	male		
+18	3	1935	injured	QLD	lizard island	-14.66666667	145.45	tiger shark	3.2	provoked	1	snorkelling	"hand, thigh"	major lacerations	male		
+2	3	1935	fatal	NSW	"north narrabeen, sydney"	-33.7	151.3	white shark	4.2	unprovoked	1	swimming	thigh	major lacerations	male	22	1730
+12	5	1935	injured	QLD	"torres strait, warrior reef"	-9.4	142.6666667	whaler shark		provoked		snorkelling	"arm, hand"	minor lacerations	male		
+13	8	1935	fatal	QLD	"torres strait, yule entrance"	-9.4	142.6666667	tiger shark		provoked	1	snorkelling	thigh	major lacerations	male		
+13	11	1935	injured	QLD	innisfail (near)	-17.53333333	146.0166667	tiger shark		provoked	1	snorkelling	"arm, shoulder"	minor lacerations	male		
+1	1	1936	uninjured	NSW	"bondi beach north, sydney"	-33.88333333	151.2666667	white shark	3.5	provoked	1	boarding	other: uninjured		male		
+1	1	1936	injured	WA	"depuch island, cossack creek, dampier"	-20.66666667	117.1833333	tiger shark		provoked	1	snorkelling	leg	major lacerations	male		
+22	1	1936	fatal	SA	"west beach, adelaide"	-34.9	137	white shark		unprovoked	1	swimming	torso		male	16	1800
+4	2	1936	fatal	NSW	"manly, south steyne,  sydney"	-33.78333333	151.2833333	white shark	6.0	unprovoked	1	swimming	other: body not recovered		male	14	1500
+19	2	1936	uninjured	QLD	brisbane river	-27.43333333	153.0833333	bull shark	3.1	unprovoked	1	unmotorised boating	other: uninjured		male		
+29	3	1936	injured	QLD	cape direction	-12.78333333	143.6	tiger shark		provoked	1	snorkelling	arm	major lacerations	male		
+19	3	1936	injured	QLD	forbes island	-12.16666667	143.3833333	whaler shark		unprovoked		swimming	"arm, hand"	minor lacerations	male		
+21	4	1936	injured	QLD	"arlington reef, green island"	-16.7	146.05	tiger shark	4.0	provoked	1	snorkelling	"arm, torso, foot"	major lacerations	male	16	
+28	5	1936	injured	QLD	mackay reef (area)	-20.81666667	149.4833333			provoked		snorkelling	leg	major lacerations	male		
+26	6	1936	fatal	QLD	"torres strait, nepean island "	-10.6	142.2166667	tiger shark		provoked	1	snorkelling	torso	major lacerations	male	16	
+4	7	1936	injured	QLD	mackay (reef area)	-20.81666667	149.4833333	tiger shark		provoked	1	snorkelling	torso	major lacerations	male		
+24	8	1936	injured	QLD	"torres strait, mabuiag island"	-9.95	142.1833333	whaler shark		provoked		snorkelling	foot	other: teeth marks	male		
+20	11	1936	injured	WA	rottnest island	-31.98333333	115.5333333	wobbegong		provoked	1	swimming	leg	minor lacerations	male		
+19	11	1936	injured	NSW	"botany bay, brighton-le-sands"	-33.95	151.15	wobbegong	1.2	unprovoked	1	swimming	foot	minor lacerations	male	16	
+12	12	1936	fatal	NSW	"throsby creek, newcastle"	-32.9	151.75	bull shark	3.0	unprovoked	1	swimming	leg	major lacerations	male	16	1130
+1	1	1937	injured	QLD	torres strait	-10.58333333	142.2166667	tiger shark		unprovoked		swimming		major lacerations	male		
+13	2	1937	fatal	NSW	"bar beach, newcastle"	-32.93333333	151.75	white shark		unprovoked	1	swimming	"torso, leg"	major lacerations	male	32	
+11	2	1937	injured	NSW	smoky cape lighthouse	-30.91666667	153.0833333	wobbegong		unprovoked	1	swimming	foot	minor lacerations	male		
+15	5	1937	fatal	QLD	"townsville, ross creek"	-19.45	146.6	bull shark		unprovoked		swimming	"leg, hand"	major lacerations	male	33	
+31	8	1937	injured	QLD	"torres strait, mabuiag island"	-9.95	142.1833333	tiger shark		provoked	1	snorkelling	head	major lacerations	male		
+24	10	1937	injured	NSW	byron bay beach	-28.63333333	153.6166667	white shark	3.0	unprovoked	1	swimming	torso	other: teeth marks	male	16	
+27	10	1937	fatal	QLD	"kirra beach, coolangatta"	-28.16666667	153.5166667	tiger shark	4.6	unprovoked	1	swimming	"arm, torso, leg"	major lacerations	male	18	1715
+27	10	1937	fatal	QLD	"kirra beach, coolangatta"	-28.16666667	153.5166667	tiger shark	4.6	unprovoked	1	swimming	torso	major lacerations	male	18	1715
+20	11	1937	injured	QLD	"fitzroy river, rockhampton"	-23.38333333	150.5166667	bull shark		unprovoked	1	swimming	leg	abrasion	male		
+11	11	1937	injured	QLD	hinchinbrook channel	-18.53333333	146.2333333	tiger shark		provoked	1	snorkelling	"calf, foot"	major lacerations	male	17	
+1	1	1938	injured	QLD	brook island nr townsville	-18.13333333	146.25	tiger shark	2.7	provoked	1	fishing	thigh	major lacerations	male		
+14	1	1938	injured	NSW	"lady martins beach, sydney harbour"	-33.85	151.25	bull shark	1.7	provoked	1	swimming	"leg, foot"	major lacerations	male	24	
+2	1	1938	uninjured	NSW	"cronulla beach, sydney"	-34.03333333	151.15	white shark	3.6	unprovoked	1	boarding	other: uninjured		male		
+8	3	1938	injured	NT	liverpool river	-12.03333333	134.2	whaler shark		unprovoked	1	unmotorised boating	leg	major lacerations	male		
+11	6	1938	fatal	QLD	thursday island area (unknown location)	-10.56666667	142.1666667			provoked		diving	other: body not recovered		male		
+10	7	1938	fatal	NT	bathurst island	-11.4	130.4	whaler shark		provoked		diving	other: body not recovered		male		
+11	10	1938	injured	QLD	"moreton bay, wynnum"	-27.43333333	153.1666667	tiger shark	1.8	provoked	1	fishing	foot	minor lacerations	male		
+14	11	1938	injured	QLD	"cribb island, brisbane"	-27.35	153.1166667	wobbegong	1.2	provoked	1	swimming	foot	other: teeth marks	male		
+12	1	1939	uninjured	NSW	"yamba, clarence river"	-29.41666667	152.3333333	bull shark	2.1	provoked	1	fishing	other: uninjured		male	11	
+25	9	1939	injured	QLD	"torres strait, mabuig island"	-9.95	142.1666667	tiger shark		provoked	1	snorkelling	leg	major lacerations	male	17	
+1	10	1939	injured	QLD	"double island beach, cairns"	-16.71666667	154.6833333			unprovoked	1	swimming	foot	major lacerations	male		
+24	10	1939	injured	QLD	"restoration rock, portland road"	-12.61666667	143.45	tiger shark	4.3	provoked	1	snorkelling	thigh	major lacerations	male	27	
+28	12	1939	injured	NSW	georges river	-33.98333333	151.0666667	bull shark	1.8	unprovoked	1	swimming	leg	surface wound	male	40	
+14	12	1939	fatal	QLD	"mackay, rubbish dump creek, pioneer river"	-21.16666667	149.2333333	bull shark	2.6	unprovoked	1	swimming	"leg, foot"	major lacerations	male	20	1215
+1	1	1940	injured	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		provoked	1	snorkelling	head	major lacerations	male		
+30	1	1940	injured	QLD	"brisbane river, dutton park"	-27.48333333	153.0166667	bull shark		unprovoked	1	swimming	"torso, shoulder"	minor lacerations	male	17	
+15	1	1940	injured	QLD	"southport, surfers paradise"	-28	153.4166667	tiger shark		unprovoked	1	swimming	"arm, torso"	minor lacerations	male	22	
+23	1	1940	fatal	NSW	"botany bay, brighton-le-sands"	-33.95	151.15	tiger shark	3.1	unprovoked	1	swimming	"torso, leg"	major lacerations	male	13	1040
+4	2	1940	fatal	NSW	"botany bay, brighton-le-sands"	-33.95	151.15	bull shark		unprovoked	1	swimming	arm	major lacerations	male	55	1400
+20	3	1940	injured	NSW	"gerringong, wollongong"	-34.73333333	150.8333333	wobbegong		provoked	1	snorkelling	foot	minor lacerations	male		
+28	5	1940	injured	QLD	mackay	-21.4	150.5333333	tiger shark		unprovoked	1	swimming		minor lacerations	male	56	
+28	12	1940	fatal	NSW	"stockton beach, newcastle"	-32.85	151.8333333	tiger shark		unprovoked	1	swimming	torso	major lacerations	male	23	0900
+8	10	1941	injured	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		unprovoked	1	swimming			male		
+15	10	1941	fatal	QLD	"torres strait, badu island"	-10.11666667	142.1333333	tiger shark		unprovoked	1	swimming			male		
+19	11	1941	injured	WA	off carnarvon	-26.46666667	110.2666667			unprovoked	1	swimming	leg	minor lacerations	male		
+5	12	1941	injured	WA	"the facine, carnarvon"	-24.88333333	113.65	bull shark		unprovoked	1	swimming	foot	major lacerations	male		
+4	1	1942	fatal	NSW	"bantry bay, sydney harbour"	-33.76666667	151.2166667	bull shark	4.0	unprovoked	1	swimming	torso	major lacerations	female	28	1500
+18	1	1942	uninjured	NSW	"manly, fairy bower, sydney"	-33.78333333	151.2833333	white shark	3.0	provoked	1	boarding	other: uninjured		male		
+9	5	1942	injured	QLD	cairns (reef 160km south)	-17.7	146.5166667	tiger shark	2.1	provoked	1	snorkelling	arm	major lacerations	male		
+4	8	1942	injured	QLD	"hook island, whitsunday islands"	-20.08333333	148.8833333			provoked	1	snorkelling	leg	major lacerations	male		
+12	9	1942	injured	QLD	"trinity beach, cairns"	-16.78333333	145.7	tiger shark	3.0	unprovoked	1	swimming	leg	major lacerations	male	24	1630
+26	12	1942	fatal	NSW	"bantry bay, sydney harbour"	-33.76666667	151.2166667	bull shark		unprovoked	1	swimming	leg	major lacerations	female	15	1050
+1	1	1943	injured	NT	darwin	-12.46666667	130.8333333	tiger shark		unprovoked	1	swimming	torso	minor lacerations	male		
+14	1	1944	injured	NSW	"forster, first beach"	-32.16666667	152.5166667	white shark		unprovoked	1	boarding	leg	major lacerations	male	14	
+7	2	1945	injured	NSW	malabar bay	-33.95	151.25	wobbegong	1.3	provoked	1	fishing	"arm, hand"	minor lacerations	male	24	
+15	6	1945	fatal	QLD	"trinity beach, double island, cairns"	-16.71666667	145.6666667	tiger shark		unprovoked	1	swimming			male		1600
+17	1	1946	injured	QLD	townsville	-19.25	146.8166667			unprovoked	1	swimming	foot	minor lacerations	male	12	
+5	1	1946	fatal	NSW	"georges river, oatley bay, sydney"	-33.98333333	151.0833333	bull shark		unprovoked	1	swimming	leg	major lacerations	female	14	
+10	2	1946	injured	WA	"city beach, perth"	-31.93333333	115.75	white shark	4.2	unprovoked	1	swimming	"thigh, calf, foot"	major lacerations	male	18	1215
+19	4	1946	fatal	QLD	"trinity beach, cairns"	-16.78333333	145.7	tiger shark		unprovoked	1	swimming	"arm, leg"	major lacerations	male	17	0830
+18	8	1946	fatal	QLD	"ellis beach, cairns"	-16.71666667	145.6333333	tiger shark	4.8	unprovoked	1	swimming	torso	major lacerations	male	30	1520
+14	10	1946	injured	NSW	"lake macquarie, mark's point"	-33.05	151.6333333	bull shark		unprovoked	1	swimming	leg	minor lacerations	male	15	1300
+20	11	1946	fatal	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	tiger shark		provoked	1	snorkelling	arm	major lacerations	male	30	
+27	12	1946	injured	SA	"glenelg jetty, adelaide"	-34.96666667	138.5	white shark		unprovoked	1	swimming	"arm, hand"	minor lacerations	male	23	
+23	7	1947	uninjured	NT	darwin harbour	-12.45	130.7833333	tiger shark		provoked		diving	other: uninjured		male		
+27	10	1947	injured	QLD	mornington island	-16.55	139.4	tiger shark		unprovoked	1	other: standing in water	leg	major lacerations	male		
+8	11	1947	fatal	NSW	"port macquarie, wilson river"	-31.33333333	152.8333333	bull shark		unprovoked	1	swimming	leg	major lacerations	male	12	1600
+8	11	1947	injured	NSW	"port macquarie, wilson river"	-31.33333333	152.8333333	bull shark		unprovoked	1	swimming	foot	minor lacerations	male	13	1600
+21	12	1947	injured	NSW	"watson taylor lake, laurieton"	-31.7	152.75	bull shark	2.0	provoked	1	fishing	thigh	minor lacerations	male	9	
+5	1	1948	injured	WA	rottnest island	-31.98333333	115.5333333	wobbegong	0.8	provoked	1	swimming	leg	other: teeth marks	male		
+12	2	1948	fatal	NSW	"stockton beach, newcastle"	-32.85	151.8333333	tiger shark	4.0	unprovoked	1	swimming	"torso, leg"	major lacerations	male	16	
+18	11	1948	injured	QLD	"torres strait, saibai island"	-9.633333333	142.6833333	tiger shark		provoked	1	snorkelling	leg	major lacerations	male	41	
+26	12	1948	fatal	QLD	"caloundra, kings beach"	-26.8	153.1333333	tiger shark		unprovoked	1	swimming	"arm, leg, pelvic region"	major lacerations	male	28	1130
+4	12	1948	uninjured	NSW	"nielson park, sydney harbour"	-33.85	151.25	tiger shark	2.0	provoked	1	spearfishing	other: uninjured		male		
+14	1	1949	uninjured	NSW	"bondi north, ben buckler, sydney"	-33.88333333	151.2666667	whaler shark		provoked	2	boarding	other: uninjured		male	32	
+17	1	1949	injured	NSW	evans head	-29.1	153.4333333	wobbegong		provoked	1		leg	minor lacerations	male		
+13	1	1949	uninjured	NSW	"mona vale beach, sydney"	-33.66666667	151.3	white shark	3.0	unprovoked	1	boarding	other: uninjured		male	0	
+23	1	1949	fatal	NSW	"bar beach, newcastle"	-32.93333333	151.75	white shark	4.0	unprovoked	1	swimming	"leg, hand"	major lacerations	male	20	1500
+26	2	1949	uninjured	NSW	"newport, sydney"	-33.65	151.3166667	white shark	3.6	unprovoked	1	boarding	other: uninjured		male		
+17	4	1949	fatal	QLD	"ellis beach, cairns"	-16.71666667	145.6333333	tiger shark	3.6	unprovoked	1	swimming	leg	major lacerations	male	13	1330
+16	5	1949	injured	WA	"broome, gantheaume point"	-17.96666667	122.1666667	bull shark	2.7	unprovoked	1	swimming	arm	major lacerations	female	22	
+16	8	1949	injured	TAS	"flinders island, bass strait."	-40.11666667	148.9333333	white shark		unprovoked	1	swimming	thigh	minor lacerations	male	18	
+28	8	1949	injured	QLD	"yorkey knob beach, cairns"	-16.81666667	145.7666667	tiger shark		unprovoked	1	swimming	torso	abrasion	male	21	1330
+28	8	1949	fatal	QLD	"yorkey knob beach, cairns"	-16.81666667	145.7666667	tiger shark		unprovoked	1	swimming	torso	major lacerations	male	34	1330
+20	11	1949	injured	NSW	"botany bay, kurnell"	-34	151.2	wobbegong	2.0	provoked	2	swimming	arm	minor lacerations	male	36	
+8	1	1950	injured	VIC	"port phillip bay, south beach, werribee"	-37.96666667	144.7	wobbegong		provoked	1	swimming	foot	minor lacerations	male		
+11	4	1950	fatal	QLD	"cairns, kings beach"	-16.9	145.85	tiger shark		unprovoked		swimming		major lacerations	male	50	
+25	11	1950	injured	QLD	burleigh heads	-28.1	153.1	bull shark	3.6	unprovoked	1	swimming	"hand, pelvic region"	major lacerations	male	21	1700
+12	11	1950	uninjured	QLD	yeppoon	-23.11666667	150.7333333	tiger shark		unprovoked	1	unmotorised boating	other: uninjured		male	18	
+16	12	1950	fatal	QLD	"palm beach, gold coast"	-28.1	153.4666667	tiger shark		unprovoked	1	swimming	"leg, torso"	major lacerations	male	20	1615
+3	2	1951	injured	NSW	"windang, lake illawarra, wollongong"	-34.53333333	150.8666667	bull shark		provoked	1	spearfishing	"thigh, torso"	abrasion	male	20	
+1	2	1951	injured	NSW	"bondi beach, sydney"	-33.88333333	151.2666667	wobbegong	1.2	unprovoked	1	swimming	leg	major lacerations	male	14	
+26	3	1951	injured	NSW	"avalon beach, sydney."	-33.63333333	151.3166667	wobbegong	1.8	provoked	1	boarding	torso	minor lacerations	male	23	
+2	9	1951	fatal	QLD	fitzroy river	-23.38333333	150.55	bull shark		unprovoked	1	swimming	"leg, torso"	major lacerations	male	56	
+22	10	1951	fatal	QLD	"townsville, kissing point"	-19.23333333	146.8	tiger shark		unprovoked	1	swimming	"hand, torso, thigh"	major lacerations	male	42	1900
+6	12	1951	fatal	NSW	"merewether beach, newcastle"	-32.93333333	151.75	white shark	2.4	unprovoked	1	swimming	"arm, leg, torso"	major lacerations	male	21	1600
+30	12	1951	uninjured	NSW	"terrigal, central coast"	-33.36666667	151.4333333	white shark	3.7	unprovoked	1	boarding	other: uninjured		male	32	
+7	1	1952	injured	NSW	evan's head	-29.1	153.4333333	wobbegong	2.4	unprovoked	1	boarding	"calf, foot"	minor lacerations	male		
+10	2	1952	uninjured	QLD	"townsville, ross creek"	-19.25	146.8166667	bull shark		provoked	1		other: uninjured		male		
+6	5	1952	injured	WA	boyup brook (area)	-35.06666667	117.05	wobbegong		provoked	1	fishing	"arm, hand"	abrasion	male		
+24	11	1952	injured	VIC	"somers beach, westernport"	-38.38333333	145.15	white shark	1.8	unprovoked	1	swimming	torso	abrasion	male	23	
+21	12	1952	injured	SA	cape douglas	-38.01666667	140.5666667	white shark	2.5	provoked	1	fishing	thigh	major lacerations	male	25	
+1	2	1953	injured	NSW	sydney	-33.86666667	151.2	wobbegong		provoked	1	spearfishing	leg	major lacerations	male		
+15	2	1953	injured	NSW	"shellharbour, wollongong"	-34.56666667	150.8666667	wobbegong	1.8	provoked	1	spearfishing	head	other: teeth marks	male	25	
+1	2	1953	injured	NSW	"collaroy beach, sydney"	-33.71666667	151.3	wobbegong		provoked	1	spearfishing	foot	minor lacerations	male		
+22	3	1953	injured	NSW	"long reef, sydney"	-33.73333333	151.3	tiger shark	4.0	provoked	1	spearfishing	arm	minor lacerations	male	23	
+29	12	1953	uninjured	NSW	"maroubra beach, sydney"	-33.93333333	151.25	white shark	3.7	unprovoked	1	swimming	other: uninjured		male	26	
+22	12	1953	injured	NSW	"maroubra beach, sydney"	-33.93333333	151.25	white shark	3.7	unprovoked	1	swimming	"arm, leg"	abrasion	male	26	
+13	12	1953	injured	QLD	"palm beach, gold coast"	-28.11666667	153.4666667	white shark		unprovoked	1	swimming	torso	surface wound	male	16	1200
+20	1	1954	injured	SA	port macdonnell	-38.05	140.7	wobbegong		provoked	1		"arm, hand"	minor lacerations	male		
+22	1	1954	injured	QLD	"torres strait, naghir island"	-10.23333333	142.4833333	tiger shark	1.6	provoked	1	spearfishing	arm	major lacerations	female		
+30	1	1954	injured	NSW	avoca beach	-33.45	151.4333333	whaler shark		unprovoked	1	swimming	arm	minor lacerations	male		
+27	2	1954	fatal	NSW	"the entrance, gosford"	-33.33333333	151.5	white shark		unprovoked	1	swimming	thigh	major lacerations	male	23	1715
+28	6	1954	injured	QLD	"cairns,  fitzroy island"	-16.91666667	145.99445	tiger shark	2.4	provoked	1	snorkelling	"arm, shoulder"	major lacerations	male	30	
+4	9	1954	fatal	QLD	"torres strait, darnley (erub) island"	-9.583333333	143.7666667	tiger shark		provoked	1	spearfishing		major lacerations	male		
+17	1	1955	fatal	NSW	"balmoral beach, wyargine point"	-33.81666667	151.25	bull shark	4.0	provoked	1	spearfishing	"leg, hand"	major lacerations	male	13	1500
+5	2	1955	fatal	NSW	"sugarloaf bay, sydney harbour"	-33.78333333	151.2166667	bull shark	3.6	unprovoked	1	swimming	leg	major lacerations	male	25	1400
+9	3	1955	fatal	NSW	"wamberal beach, gosford."	-33.41666667	151.45	white shark		unprovoked	1	swimming	other: body not recovered		male	22	1800
+15	10	1955	injured	QLD	tully (5 miles off)	-17.93333333	145.9333333	wobbegong	1.8	provoked	1	spearfishing	"arm, hand"	minor lacerations	male	28	1500
+14	1	1956	injured	QLD	innisfail (off shore reef)	-17.71666667	146.4	tiger shark	5.0	provoked	1	snorkelling	leg	minor lacerations	male	18	
+26	2	1956	fatal	QLD	"mackay, rocklea reach, pioneer river"	-21.11666667	149.15	bull shark		unprovoked	1	swimming	leg	major lacerations	male	14	1100
+4	2	1956	injured	VIC	"cowes jetty, phillip island"	-38.43333333	145.2333333	wobbegong	0.9	unprovoked	1	swimming	leg	minor lacerations	male		
+19	2	1956	uninjured	VIC	"port phillip bay, black rock beach"	-37.96666667	145	bronze whaler shark	3.6	provoked	1	spearfishing	other: uninjured		male	19	
+17	3	1956	uninjured	WA	"woodmans point, perth"	-32.13333333	115.7333333	whaler shark		unprovoked	1	diving	other: uninjured		male	25	2155
+4	3	1956	fatal	VIC	portsea beach	-38.33333333	144.7	white shark	4.0	unprovoked	1	swimming	torso	major lacerations	male	26	1700
+1	5	1956	injured	QLD	torres strait	-10.58333333	142.2166667	tiger shark		provoked	1	snorkelling		major lacerations	male		
+15	8	1956	injured	QLD	"southport, surfers paradise"	-28	153.4166667	wobbegong	1.2	provoked	1	diving	arm	other: teeth marks	male		
+1	1	1957	uninjured	NSW	"byron bay, sharkey's beach "	-28.63333333	153.6166667	white shark		unprovoked	1	boarding	other: uninjured		male		
+2	2	1957	fatal	WA	cape leveque	-16.38333333	122.9166667	tiger shark		unprovoked	1	swimming			male		
+23	4	1957	injured	NSW	"merewether beach, newcastle"	-32.93333333	151.75	wobbegong		unprovoked	1	swimming	foot	minor lacerations	male	15	
+13	4	1957	injured	QLD	"torres strait, hervey island harbour"	-10.56666667	142.2166667	tiger shark		provoked	1	swimming	"arm, shoulder"	major lacerations	male	22	1400
+11	5	1957	injured	NSW	"port stephens, mount yakaba head"	-32.68333333	152.1833333	white shark		provoked	1	spearfishing	thigh	minor lacerations	male	28	
+9	7	1957	injured	QLD	torres strait	-10.58333333	142.2166667	tiger shark	3.0	provoked	1	snorkelling	arm	major lacerations	male	36	
+19	1	1958	injured	NSW	brunswick heads	-28.53333333	153.55	wobbegong		unprovoked	1	swimming	foot	other: teeth marks	male	14	
+27	1	1958	injured	NSW	"swan lake, sussex inlet"	-35.2	150.55	white shark	3.0	provoked	1	spearfishing	leg	minor lacerations	male	17	
+9	2	1958	uninjured	NSW	"lake macquarie, speers point"	-33.05	151.6333333	bull shark	3.1	provoked	1	fishing	other: uninjured		male		
+10	3	1958	fatal	QLD	"torres strait, umaga (york) island"	-9.75	143.4	tiger shark		provoked	1	spearfishing	leg	major lacerations	male	24	
+23	3	1958	uninjured	VIC	"port phillip bay, mornington, marina cove"	-38.21666667	145.0166667	bronze whaler shark	2.2	provoked	1	spearfishing	other: uninjured		male		
+1	9	1958	injured	NSW	"port stephens, shoal bay"	-32.71666667	152.1666667	wobbegong	1.8	provoked	1	spearfishing	"arm, hand"	minor lacerations	male		
+23	11	1958	fatal	QLD	surfers paradise	-28	153.4166667	tiger shark		unprovoked	1	swimming	torso	major lacerations	male	22	
+31	1	1959	injured	WA	"swan river, south perth"	-31.95	115.85	bull shark	1.5	provoked	1	fishing	calf	abrasion	male	20	
+17	1	1959	injured	QLD	"mooloolaba, alexandra headland"	-26.66666667	153.1166667	wobbegong	1.8	unprovoked	1	swimming	foot	minor lacerations	male	18	0920
+17	1	1959	fatal	TAS	"safety cove, port arthur"	-43.15	147.85	white shark		provoked	1	swimming	other: body not recovered		male	22	1630
+25	1	1959	injured	TAS	"whale bay, king island"	-39.85	143.8333333	white shark		unprovoked	1	unmotorised boating	leg	abrasion	male	16	
+5	4	1959	uninjured	NSW	thirroul near wollongong	-34.3	150.9166667	whaler shark		provoked	1	spearfishing	other: uninjured		male		
+11	4	1959	injured	QLD	"torres strait, coconut island"	-10.58333333	142.2166667	tiger shark	1.8	provoked	1		"arm, hand"	major lacerations	male	43	
+22	11	1959	injured	QLD	northcliffe beach. gold coast	-28.01666667	153.4333333	tiger shark	4.5	provoked	1	swimming	leg	major lacerations	male	19	1100
+29	11	1959	injured	VIC	"fairhaven beach, lorne"	-38.45	144.0833333	white shark	4.0	unprovoked	1	swimming	leg	major lacerations	male	19	1430
+19	12	1959	fatal	QLD	"moreton bay, wynnum"	-27.43333333	153.1666667	tiger shark		unprovoked		swimming		major lacerations	male	29	
+29	12	1959	uninjured	QLD	"moreton bay, scott's point beach, redcliff"	-27.23333333	153.1	tiger shark	3.6	provoked	1	boarding	other: uninjured		male		
+15	1	1960	injured	VIC	"port phillip bay, ricketts point, parkdale"	-37.98333333	145.0166667	bronze whaler shark	2.5	provoked	1	spearfishing	head	minor lacerations	male		
+16	1	1960	fatal	NSW	"roseville bridge, sydney"	-33.76666667	151.2	bull shark	3.3	unprovoked	1	snorkelling	leg	major lacerations	male	13	1530
+3	4	1960	injured	VIC	"port phillip bay, canadian bay, mount eliza,"	-38.16666667	145.0666667	bronze whaler shark	1.5	provoked	1	spearfishing	head	minor lacerations	male		
+13	4	1960	injured	NSW	"horseshoe bay, kempsey"	-30.86666667	153.0333333	white shark	3.7	unprovoked	1	swimming	"arm, torso"	abrasion	male	17	
+3	4	1960	uninjured	NSW	"port stephens, broughton island"	-32.6	152.3166667	bronze whaler shark	3.6	provoked	1	spearfishing	other: uninjured		male		
+27	11	1960	injured	QLD	"mackay, black beach"	-21.13333333	149.2	whaler shark	0.9	unprovoked	1	swimming	"arm, shoulder"	minor lacerations	male	44	1445
+3	11	1960	injured	WA	hamelin bay	-34.21666667	115.0166667	wobbegong		provoked	1	spearfishing	arm	abrasion	male	24	
+27	12	1960	injured	NSW	"manly, shelly beach"	-33.78333333	151.2833333	whaler shark	3.0	unprovoked	1	swimming	torso	abrasion	female	27	
+20	12	1960	injured	QLD	"brisbane river, college crossing"	-27.36666667	153.15	bull shark	1.0	unprovoked	1	swimming	thigh	minor lacerations	male	33	0900
+14	1	1961	injured	NSW	nambucca heads	-30.63333333	153.1833333	dogfish	1.3	provoked	1	swimming	head	minor lacerations	male	40	
+17	2	1961	injured	VIC	"port phillip bay, mount martha beach"	-38.26666667	145.0166667	wobbegong		unprovoked	1	swimming		abrasion	female		
+1	2	1961	uninjured	WA	carnac island	-32.11666667	115.65	wobbegong	2.7	provoked	1	spearfishing	other: uninjured		male		
+30	3	1961	injured	SA	"glenelg, adelaide"	-34.96666667	138.5	bronze whaler shark		provoked	1	spearfishing	leg	abrasion	male	24	
+18	3	1961	injured	VIC	"lady bay beach, warrnambool"	-38.38333333	142.4833333	white shark	3.1	unprovoked	1	swimming	torso	major lacerations	male	21	1700
+12	3	1961	injured	SA	aldinga beach	-35.28333333	138.4333333	white shark	3.6	provoked	1	spearfishing	"arm, leg"	major lacerations	male	21	1430
+3	4	1961	uninjured	VIC	flinders beach	-38.46666667	145.0166667	dusky shark	2.7	provoked	1	spearfishing	other: uninjured		male	24	0830
+18	12	1961	fatal	QLD	"noosa heads, laguna bay"	-26.36666667	153.0833333	bull shark	3.0	unprovoked	1	boarding	"arm, leg"	major lacerations	male	22	0600
+28	12	1961	injured	QLD	"mackay, lamberts beach"	-21.06666667	149.2166667	tiger shark	3.0	unprovoked	1	swimming	"arm, hand"	major lacerations	male	24	1615
+28	12	1961	fatal	QLD	"mackay, lamberts beach"	-21.06666667	149.2166667	tiger shark	3.0	unprovoked	1	swimming	"arm, thigh"	major lacerations	female	18	1615
+13	12	1961	injured	QLD	"torres strait, horn island"	-10.38333333	142.2833333	tiger shark	2.0	unprovoked	1	swimming	leg	major lacerations	male	17	1400
+14	1	1962	injured	NSW	lennox head	-28.78333333	153.5833333	white shark		unprovoked	1	boarding	foot	major lacerations	male	19	
+7	1	1962	uninjured	NSW	"long reef, sydney"	-33.73333333	151.3	white shark	2.0	unprovoked	1	boarding	other: uninjured		male		
+4	2	1962	injured	QLD	"greenmount beach, coolangatta"	-28.15	153.5333333	wobbegong	0.6	provoked	1	swimming	leg	other: teeth marks	male	35	1430
+29	11	1962	uninjured	NSW	"long reef, sydney"	-33.73333333	151.3166667	whaler shark	3.0	provoked	1	spearfishing	other: uninjured		male	26	
+10	12	1962	fatal	SA	carrickalinga head	-35.4	138.3166667	white shark	3.6	provoked	1	spearfishing	leg	major lacerations	male	16	1300
+28	1	1963	fatal	NSW	"middle harbour, sydney harbour"	-33.78333333	151.2333333	bull shark	3.0	unprovoked	1	other: standing in water	leg	major lacerations	female	32	
+24	2	1963	injured	NSW	"austinmer beach, wollongong"	-34.3	150.9333333	bronze whaler shark	3.0	provoked	1	spearfishing	calf	minor lacerations	male	18	
+13	4	1963	injured	WA	"yallingup, south perth"	-33.63333333	115	white shark	2.3	unprovoked	1	boarding	arm	major lacerations	male	25	
+8	12	1963	injured	SA	aldinga beach	-35.28333333	138.4333333	white shark	5.0	provoked	1	spearfishing	"arm, torso"	minor lacerations	male	23	
+1	1	1964	uninjured	WA	off coast of western aust	-31.95	115.85	whaler shark	2.5	provoked	1	spearfishing	other: uninjured		male		
+18	1	1964	injured	WA	hamelin bay	-34.21666667	115.0166667	wobbegong		provoked	1	spearfishing	arm	other: teeth marks	male		
+28	3	1964	injured	SA	"paradise beach, nr victor harbour"	-35.53333333	138.6166667	white shark		unprovoked	1	boarding	thigh	major lacerations	male	19	
+4	10	1964	injured	WA	mandurah	-32.51666667	115.6833333			provoked		swimming	leg	other: teeth marks	male	19	
+29	11	1964	injured	VIC	lady julia percy island	-38.41666667	142	white shark	4.0	provoked	1	snorkelling	leg	major lacerations	male	25	1330
+16	1	1965	injured	VIC	port melbourne	-37.83333333	144.9333333	wobbegong	1.5	provoked	1	other: standing in water	thigh	minor lacerations	male		
+3	11	1965	injured	QLD	"cairns, oak beach"	-16.91666667	145.7666667	tiger shark	2.4	unprovoked	1	boarding	thigh	other: teeth marks	male	24	
+27	12	1965	injured	WA	rottnest island	-31.98333333	115.5333333	wobbegong	2.0	provoked	1	spearfishing	leg	other: teeth marks	male	40	
+27	2	1966	injured	NSW	coledale beach near wollongong	-34.28333333	150.9333333	white shark	2.5	unprovoked	1	swimming	"arm, leg"	major lacerations	male	13	1400
+20	5	1966	fatal	NSW	jervis bay	-35.03333333	150.7166667	white shark		unprovoked	1	swimming	"arm, shoulder"	major lacerations	male	40	
+8	9	1966	uninjured	WA	rottnest island	-31.98333333	115.5333333	shortfin mako shark	2.0	provoked	1	spearfishing	other: uninjured		male		
+26	12	1966	injured	NSW	"coogee beach, sydney"	-33.91666667	151.25	wobbegong	1.8	provoked	1	spearfishing	leg	major lacerations	male		
+26	12	1966	injured	QLD	"heron island, broomfield reef"	-23.43333333	151.9	bronze whaler shark	2.1	provoked	1	spearfishing	"torso, shoulder"	major lacerations	male		
+31	12	1966	injured	TAS	"bicheno, piccaninny point, "	-41.86666667	148.3	white shark	1.8	provoked	1	swimming	arm	minor lacerations	male	30	1320
+27	12	1966	injured	NSW	"south west rocks, trial bay"	-30.88333333	153.05	wobbegong		provoked	1	spearfishing	"arm, hand"	major lacerations	male	19	
+15	4	1967	injured	NSW	"south coast, wollongong"	-34.41666667	150.8833333	bronze whaler shark	2.0	provoked	1	spearfishing	"arm, hand"	minor lacerations	male	21	
+19	8	1967	fatal	WA	jurien bay	-30.25	115.0166667	white shark	4.0	provoked	1	spearfishing	torso	major lacerations	male	23	
+20	2	1968	injured	WA	"swan river, belmont"	-31.95	115.85	bull shark		unprovoked	1	swimming	thigh	minor lacerations	female	12	
+4	2	1968	uninjured	SA	cape jervis	-35.6	138.0833333	bronze whaler shark	3.0	provoked	1	spearfishing	other: uninjured		male	26	1830
+12	9	1968	uninjured	SA	"thistle island, port lincoln"	-35	136.1666667	white shark		provoked	1	diving	other: uninjured		male		
+27	1	1969	injured	NSW	"currarong beach, jervis bay"	-35	150.8166667	bronze whaler shark	2.4	provoked	1	snorkelling	leg	minor lacerations	male	21	0730
+24	6	1969	injured	NSW	"kiama, wollongong"	-34.66666667	150.85	wobbegong	3.5	provoked	1	spearfishing	"leg, hand"	minor lacerations	male	37	1500
+29	11	1969	injured	WA	"swan river, perth"	-31.95	115.85	bull shark	1.8	unprovoked	1	swimming	leg	minor lacerations	male	15	
+2	1	1971	injured	TAS	east devonport beach	-41.15	148.35	school shark		unprovoked	1	swimming	torso	minor lacerations	male		1640
+8	2	1971	injured	WA	esperance	-33.85	121.8833333	whaler shark		provoked		spearfishing	"arm, hand"	major lacerations	male	21	
+10	12	1971	fatal	QLD	"cape capricorn, gladstone"	-23.48333333	151.2	tiger shark	3.6	unprovoked	1	swimming	other: body not recovered		male	19	1500
+20	2	1972	injured	VIC	"sandy point, wilsons promotory"	-38.81666667	148.0833333	white shark		unprovoked	1	boarding	leg	minor lacerations	male	18	
+1	4	1972	injured	QLD	"moreton bay, wellington point"	-27.46666667	153.2333333			unprovoked	1	swimming	leg	minor lacerations	female		
+8	8	1972	injured	TAS	"tasman island, tasman peninsula"	-43.23333333	148	white shark	3.6	provoked	1	diving	foot	minor lacerations	male	45	1115
+21	10	1972	injured	NSW	"wairo beach, milton"	-35.35	150.4666667	white shark	3.0	unprovoked	1	boarding	thigh	major lacerations	male	18	0830
+21	10	1972	injured	QLD	"mackay, steven's reef (96km off mackay)"	-17.1	146.4	whaler shark		provoked	1	spearfishing	arm	minor lacerations	male	24	
+1	11	1972	uninjured	SA	"thistle island, port lincoln"	-35	136.1666667	white shark		provoked	1	diving	other: uninjured		male		
+10	1	1973	injured	NSW	"umina beach, central coast"	-33.51666667	151.3166667	white shark		unprovoked	1	boarding	foot	minor lacerations	male	19	
+25	3	1973	injured	QLD	"havana island, nr lucinda"	-18.51666667	146.35	tiger shark	2.0	unprovoked	3	swimming	"arm, hand"	minor lacerations	male	43	
+25	8	1973	injured	QLD	"stradbroke island, point lookout"	-27.41666667	153.5333333	white shark	4.1	unprovoked	1	boarding	foot	major lacerations	male	16	0730
+3	11	1973	injured	QLD	"gin arm creek, north qld"	-17.68333333	139.3666667	bull shark		unprovoked	1	swimming	leg	minor lacerations	male		
+9	1	1974	fatal	SA	streaky bay	-32.76666667	134.2	white shark	3.2	provoked	1	diving	"arm, leg, torso"	major lacerations	male	25	1300
+1	9	1974	fatal	QLD	"south stradbroke island, jumpinpin "	-27.73333333	153.6833333	tiger shark		unprovoked	1	swimming	torso		male	30	
+10	12	1974	injured	WA	geographe bay	-33.63333333	115.35	wobbegong		unprovoked	1	diving			male	32	
+19	1	1975	fatal	SA	"port lincoln, almonta beach"	-34.68333333	135.35	white shark		unprovoked	1	boarding	torso		male	17	1100
+27	2	1975	injured	VIC	"cotters lake beach, wilsons promontory"	-38.93333333	146.2333333	white shark	3.2	unprovoked	1	boarding	thigh	minor lacerations	male	22	
+7	2	1975	fatal	SA	"cactus beach, point sinclair, penong"	-32.08333333	132.9666667	white shark	3.0	provoked	1	snorkelling	leg	major lacerations	male	12	
+9	2	1975	injured	VIC	"soapys point, anglesea"	-38.4	144.1833333	wobbegong	2.4	provoked	1	snorkelling	"torso, shoulder"	minor lacerations	male	45	
+18	3	1975	injured	QLD	mornington island	-16.55	139.4	tiger shark		unprovoked	1	swimming	"arm, hand"	major lacerations	female		
+26	7	1975	injured	QLD	"maroochydore, alexandra head"	-26.65	153.0833333	white shark	3.0	unprovoked	1	boarding	"leg, pelvic region"	major lacerations	male	21	1700
+30	7	1975	fatal	TAS	"bruny island, fluted cape"	-43.35	147.35	white shark		provoked	1	diving	other: body not recovered		male	37	1300
+20	11	1975	injured	NSW	"queenscliff beach, sydney"	-33.78333333	151.2833333	wobbegong	2.0	provoked	1	spearfishing	leg	minor lacerations	male	20	1215
+19	9	1976	injured	SA	point lowly	-32.98333333	137.7833333	white shark	2.7	provoked	1	spearfishing	leg	major lacerations	male	17	
+26	2	1977	injured	NSW	kingscliffe beach	-28.23333333	153.5666667	tiger shark	4.0	unprovoked	1	boarding		major lacerations	male	24	
+13	3	1977	fatal	QLD	moreton bay	-27.25	153.25	tiger shark	4.0	unprovoked	1	swimming	other: body not recovered		male	43	
+13	3	1977	fatal	QLD	moreton bay	-27.25	153.25	tiger shark	4.0	unprovoked	1	swimming	torso		male	74	
+25	4	1977	injured	QLD	"burleigh heads, tallebudgera creek"	-28.08333333	153.45	bull shark		unprovoked	1	swimming	leg	major lacerations	male	19	
+23	8	1977	fatal	QLD	"caloundra, buddina beach"	-26.68333333	153.1333333	tiger shark		unprovoked	1	snorkelling	"arm, torso, foot"	major lacerations	male	26	
+31	8	1977	injured	SA	cactus beach	-32.08333333	132.9666667	white shark		unprovoked	1	boarding	thigh	minor lacerations	male	17	
+28	8	1978	uninjured	WA	"mullaloo beach, perth"	-31.76666667	115.7166667	white shark	2.0	unprovoked	1	boarding	other: uninjured		male	15	0730
+1	9	1978	uninjured	TAS	munro bight	-43.16666667	147.9833333	white shark		provoked	1	diving	other: uninjured		male	34	1200
+29	12	1978	injured	QLD	"bribie island, pumicestone passage"	-26.8	153.1166667	bull shark		unprovoked	1	swimming	leg	other: teeth marks	male	15	
+2	1	1979	uninjured	QLD	mooloolaba	-26.66666667	153.1166667	bronze whaler shark	2.4	provoked	1	swimming	other: uninjured		male		
+16	9	1979	injured	NSW	"byron bay, the pass"	-28.63333333	153.6166667	whaler shark	2.0	unprovoked	1	swimming	thigh	minor lacerations	male	18	
+5	1	1980	injured	NSW	seal rocks	-32.43333333	152.5166667	wobbegong	1.8	provoked	1	diving	arm	minor lacerations	male		
+2	3	1980	injured	VIC	"shoreham beach, port phillip bay"	-38.41666667	145.05	bronze whaler shark	3.0	provoked	1	spearfishing	"arm, hand"	minor lacerations	male	42	1130
+28	3	1980	injured	QLD	"stradbroke island, point lookout"	-27.41666667	153.5333333	whaler shark		unprovoked	1	boarding	calf	minor lacerations	male	21	
+1	9	1980	uninjured	SA	cactus beach	-32.08333333	132.9666667	white shark		unprovoked	1	boarding	other: uninjured		male		
+22	10	1980	injured	QLD	marian reef	-16.91666667	145.7666667	grey reef shark	2.0	provoked	1	diving	head	minor lacerations	female		
+18	11	1980	injured	WA	lancelin	-31	115.3	white shark		unprovoked	1	swimming	torso	major lacerations	male		
+1	1	1981	uninjured	NSW	byron bay	-28.63333333	153.6166667	tiger shark	2.5	unprovoked	1	boarding	other: uninjured		male	27	0700
+7	2	1981	injured	WA	"rottnest island, parker point"	-32	115.5166667	wobbegong	1.5	unprovoked	1	swimming	leg	surface wound	male	37	
+16	2	1981	injured	WA	"leighton beach, perth"	-32.01666667	115.7333333	wobbegong	1.0	unprovoked	1	other: standing in water	foot	other: teeth marks	male		
+13	12	1981	injured	QLD	green island	-16.75	145.9666667	tiger shark		unprovoked		swimming	torso	major lacerations	female		
+1	2	1982	uninjured	TAS	"recherche bay, the strip"	-43.51666667	146.9	white shark	5.5	provoked	1	diving	other: uninjured		male		
+28	2	1982	fatal	TAS	south cape bay	-43.56666667	146.8833333	white shark	6.0	provoked	1	spearfishing	other: body not recovered		male	32	
+7	3	1982	fatal	NSW	"byron bay, tallow beach"	-28.63333333	153.6166667	white shark		unprovoked	1	boarding	leg	major lacerations	male	20	
+25	7	1983	uninjured	QLD	"broadhurst reef, townsville"	-18.9	147.7333333	tiger shark	4.0	unprovoked	1	swimming			male	33	
+25	7	1983	fatal	QLD	"townsville, lodestone reef"	-18.68333333	147.1	tiger shark	4.0	unprovoked	1	swimming	other: body not recovered		female	21	0400
+25	7	1983	fatal	QLD	"townsville, lodestone reef"	-18.68333333	147.1	tiger shark	4.0	unprovoked	1	swimming	other: body not recovered		male	24	
+12	11	1983	injured	QLD	coolangatta beach	-28.16666667	153.5333333	tiger shark		unprovoked		swimming	thigh	minor lacerations	male	10	
+1	12	1983	injured	SA	south neptune island	-35.31666667	136.1	white shark	4.0	provoked	1	diving	"arm, hand"	minor lacerations	male		
+11	2	1984	injured	QLD	"mackay, derwent island"	-21.13333333	149.1833333	tiger shark		unprovoked		swimming	"arm, hand"	major lacerations	male	27	
+1	3	1984	injured	WA	coral bay	-23.13333333	113.7666667	whaler shark		unprovoked	1	other: standing in water	calf	minor lacerations	male	25	
+16	3	1984	injured	WA	waterman reef	-31.83333333	115.75	wobbegong	0.3	unprovoked	1	other: standing in water	leg	other: teeth marks	male		
+15	6	1984	uninjured	TAS	cape raoul	-43.23333333	147.7833333	white shark	6.0	provoked	1	diving			male		
+1	9	1984	injured	NT	port keats	-14.11666667	129.5333333	tiger shark		unprovoked	1	other: standing in water	"arm, head, torso"	minor lacerations	female	27	
+1	10	1984	uninjured	NSW	"byron bay, suffolk park  beach"	-28.68333333	153.6166667	white shark	2.5	unprovoked	1	boarding	other: uninjured		male	25	0700
+14	10	1984	uninjured	TAS	"the lanterns, fortescue bay"	-43.13333333	148	white shark	6.0	provoked	1	diving			male		
+30	11	1984	fatal	QLD	"mackay, blacks beach"	-21.05	149.1833333	tiger shark	4.0	unprovoked	1	swimming	"arm, head, torso"	major lacerations	male	15	1200
+1	2	1985	uninjured	VIC	jan juc beach	-38.33333333	144.3	white shark	2.0	unprovoked	1	boarding			male	36	0600
+1	3	1985	injured	WA	watermans beach	-31.85	115.75	wobbegong	0.7	provoked	1	diving	thigh	minor lacerations	female	20	1030
+3	3	1985	fatal	SA	"wiseman's beach, port lincoln"	-34.46666667	136.0166667	white shark	6.0	unprovoked	1	snorkelling	torso	major lacerations	female	33	1230
+1	9	1985	injured	QLD	osprey reef	-13.91666667	146.6166667	whitetip reef shark	2.0	provoked	1	diving	"arm, hand"	surface wound	male		
+14	12	1985	injured	NSW	north solitary island	-29.91666667	153.3833333	wobbegong		provoked		diving	thigh	other: teeth marks	male		
+1	1	1986	fatal	QLD	"torres strait, prince of wales island"	-10.66666667	142.1833333	tiger shark		provoked	1	spearfishing			male		
+16	3	1986	injured	NT	"nightcliff beach, darwin"	-12.36666667	130.8333333	wobbegong	1.0	provoked	1	swimming	leg	other: teeth marks	male	13	
+18	5	1986	injured	NSW	"north head, sydney "	-33.81666667	151.3	wobbegong	1.8	unprovoked	1	diving	"arm, hand"	minor lacerations	male	41	0930
+3	8	1986	injured	NSW	"north head, sydney "	-33.81666667	151.3	wobbegong	1.8	unprovoked	1	diving	thigh	other: teeth marks	female		1130
+1	10	1986	uninjured	WA	"cocos (keeling) islands, direction island"	-12.15	96.81666667	tiger shark	3.0	unprovoked	1	boarding			male	39	1100
+6	1	1987	injured	QLD	lizard island	-14.66666667	145.45	tiger shark	2.0	unprovoked	1	swimming	calf	minor lacerations	male	38	0730
+28	1	1987	injured	QLD	"osprey reef, north horn"	-13.91666667	146.6166667	whitetip reef shark		provoked	1	diving	"torso, pelvic region"	abrasion	female		
+2	2	1987	injured	NSW	"forster, pebbly beach"	-32.16666667	152.5166667	wobbegong	1.0	provoked	1	diving	thigh	other: teeth marks	female	17	0945
+4	2	1987	fatal	VIC	mornington peninsula	-38.46666667	144.8833333	white shark		unprovoked		boarding		major lacerations	male		
+30	3	1987	injured	WA	between twilight & fourth beach	-33.88333333	121.8166667	white shark		unprovoked	1	boarding	leg		male	19	1730
+1	4	1987	injured	WA	"garden island, two people bay"	-32.16666667	115.65	wobbegong		unprovoked	1	swimming	leg	other: teeth marks	male		
+18	9	1987	fatal	SA	"merino rocks, adelaide"	-34.91666667	138.5833333	white shark	4.5	unprovoked	1	diving			male	47	
+1	10	1987	injured	NT	edith falls	-14.16666667	132.1833333	bull shark		unprovoked	1	swimming	arm	minor lacerations	female		
+10	12	1987	uninjured	QLD	"the cod hole, near lizard island"	-14.66666667	145.45	hammerhead shark 	4.0	provoked	1	diving	other: uninjured		male		1200
+4	7	1988	injured	NSW	norah head	-33.26666667	151.5666667	white shark		unprovoked	1	swimming	calf	minor lacerations	female	10	
+6	10	1988	injured	SA	moana beach south of adelaide	-34.91666667	138.5833333	white shark		unprovoked	1	boarding	"leg, hand"	other: teeth marks	male	15	1215
+1	10	1988	uninjured	QLD	lady musgrave island	-23.9	152.3833333	tiger shark		provoked		spearfishing	other: uninjured		male		
+22	10	1988	injured	VIC	"surfies point, phillip island"	-38.5	145.2666667	white shark	1.2	unprovoked	1	boarding	calf	minor lacerations	male	35	1500
+8	11	1988	fatal	QLD	yeppoon	-23.11666667	150.7333333	tiger shark	4.5	unprovoked	3	swimming	torso		male	17	
+7	11	1988	fatal	QLD	yeppoon	-23.11666667	150.7333333	tiger shark	4.5	unprovoked	2	swimming			male	62	
+1	1	1989	injured	NSW	"south head, sydney "	-33.86666667	151.2	wobbegong	2.0	provoked	1	diving	arm		male	19	
+1	1	1989	uninjured	VIC	"surfies beach, phillip island"	-38.5	145.2666667	white shark	4.0	unprovoked	1	boarding	other: uninjured		male	30	1700
+1	1	1989	injured	WA	"rottnest island, parker point"	-32	115.5166667	wobbegong	1.2	unprovoked	1	snorkelling	leg	other: teeth marks	male		1400
+3	1	1989	injured	NSW	"ballina south, half tide beach"	-28.88333333	153.55	white shark	3.0	unprovoked	1	boarding	torso	other: teeth marks	male	17	1600
+4	3	1989	uninjured	WA	"broome, roebuck bay"	-17.96666667	122.2333333	tiger shark	3.0	provoked	1	snorkelling			male		1100
+15	3	1989	injured	QLD	"torres strait, badu island harbour"	-10.11666667	142.1333333	whaler shark	2.0	provoked	1	spearfishing	thigh	minor lacerations	male	32	1630
+9	3	1989	fatal	SA	"waitpinga beach, encounter bay"	-35.63333333	138.4833333	white shark	2.0	unprovoked		boarding	thigh	major lacerations	male	27	2015
+13	8	1989	uninjured	NSW	lennox head	-28.78333333	153.5833333	white shark	3.0	unprovoked	1	boarding	other: uninjured		male	17	0630
+22	10	1989	uninjured	TAS	"shelly point, scamander"	-41.43333333	148.2666667	white shark	2.1	unprovoked	1	boarding			male	17	1450
+22	10	1989	injured	NT	edith falls	-14.16666667	132.1833333	bull shark	2.0	unprovoked	1	swimming	thigh	minor lacerations	female	31	
+22	11	1989	injured	VIC	kilcunda	-38.53333333	145.4666667	white shark	4.5	unprovoked	1	boarding	thigh	minor lacerations	male	32	1930
+2	11	1989	injured	QLD	"mermaid waters, gold coast (canal)"	-28.03333333	153.4	bull shark	2.0	unprovoked	1	swimming	calf	minor lacerations	male	10	1800
+1	12	1989	injured	WA	capes area	-16.38333333	122.9166667	wobbegong		unprovoked	1	diving	"arm, hand"	other: teeth marks	male		
+3	12	1989	injured	NT	"gove peninsula, cape wirrawoi"	-12.28333333	136.8166667	tiger shark	2.0	provoked	1	swimming	leg	minor lacerations	male	17	
+10	4	1990	uninjured	QLD	"greenmount point, coolangatta"	-28.15	153.5333333	tiger shark	4.0	unprovoked	1	boarding	other: uninjured		male	31	0600
+6	4	1990	uninjured	NSW	"tweed heads, fingal"	-28.18333333	153.55	white shark	3.0	unprovoked	1	boarding	other: uninjured		male	29	
+8	4	1990	fatal	QLD	"dingo reef, off townsville"	-19.16666667	148.3833333	tiger shark		provoked	1	snorkelling	torso		male	36	1400
+10	5	1990	injured	QLD	"opal reef, port douglas"	-16.21666667	145.8833333	hammerhead shark 	3.0	provoked	1	snorkelling	calf	abrasion	female	33	1200
+10	5	1990	injured	QLD	"opal reef, port douglas"	-16.21666667	145.8833333	hammerhead shark 	3.0	provoked	1	snorkelling	"arm, hand"	other: teeth marks	male	44	1200
+24	9	1990	injured	QLD	rainbow beach. near gympie	-25.9	153.0833333	wobbegong	0.6	unprovoked	1	other: standing in water	foot	abrasion	male	13	0830
+27	10	1990	injured	QLD	"mermaid waters, gold coast (canal)"	-28.03333333	153.4	bull shark	1.8	unprovoked	1	swimming	"leg, pelvic region"	major lacerations	male	26	2000
+25	10	1990	injured	SA	"goolwa beach, adelaide"	-35.51666667	138.7666667	white shark	1.1	unprovoked	1	boarding	foot	minor lacerations	male	20	1030
+28	11	1990	injured	QLD	surfers paradise (canals)	-28	153.4166667	bull shark	1.5	unprovoked	1	swimming	"arm, torso, pelvic region"	minor lacerations	male	26	1640
+11	1	1991	injured	QLD	gladstone harbour	-23.83333333	151.25		2.0	unprovoked	1	boarding	leg	minor lacerations	male	22	1745
+4	1	1991	uninjured	VIC	"queenscliff beach, melbourne"	-38.26666667	144.65	bronze whaler shark	3.0	provoked	1	spearfishing	other: uninjured		male	14	
+5	1	1991	uninjured	NSW	"putty beach, central coast"	-33.51666667	151.3666667	dusky shark	1.2	unprovoked	1	snorkelling	other: uninjured		male	45	1500
+19	1	1991	injured	QLD	"mermaid waters, gold coast (canal)"	-28.03333333	153.4	bull shark	1.5	unprovoked	1	swimming	"leg, pelvic region"	minor lacerations	male	29	0830
+3	3	1991	injured	NSW	"bass point, wollongong"	-34.56666667	150.8666667	grey nurse shark	2.0	provoked	1	diving	"arm, leg"	minor lacerations	male	18	1600
+8	9	1991	fatal	SA	aldinga beach	-35.28333333	138.4333333	white shark	4.0	unprovoked	1	diving	torso	major lacerations	male	19	1435
+15	11	1991	injured	WA	"backbeach, halls head"	-32.51666667	115.7	white shark	1.0	unprovoked	1	boarding	leg	abrasion	male	14	
+29	1	1992	injured	QLD	"duranbah, north of tweed heads"	-28.16666667	153.5333333	white shark	2.8	unprovoked	1	boarding	leg	major lacerations	male	19	2000
+10	2	1992	uninjured	QLD	"nielson park, bundaberg"	-24.86666667	152.35	tiger shark	3.0	unprovoked	1	boarding	other: uninjured		male	22	
+7	3	1992	uninjured	QLD	"evandale channal,chevron is"	-27.98333333	153.3333333	bull shark	2.5	provoked	1		other: uninjured		male	24	
+10	3	1992	injured	VIC	"port phillip bay, point lonsdale, west melbourne"	-38.28333333	144.6	white shark	2.7	unprovoked	1	boarding	"leg, pelvic region"	minor lacerations	male	17	1130
+25	8	1992	injured	SA	"lipson cove, tumby bay"	-34.25	135.1666667	white shark	3.5	unprovoked	1	boarding	torso	minor lacerations	male	16	1750
+1	10	1992	fatal	QLD	"moreton island, brisbane"	-27.08333333	153.4	white shark	4.2	unprovoked	1	boarding		major lacerations	male	28	1430
+5	1	1993	injured	QLD	"line reef, 50k off hayman island"	-20.05	148.8833333	whitetip reef shark	1.5	provoked	1	spearfishing	arm	minor lacerations	male	21	0900
+1	4	1993	uninjured	TAS	"tenth island, georgetown"	-40.93333333	146.9833333	white shark	3.0	provoked	1	spearfishing	other: uninjured		male	32	
+27	4	1993	injured	SA	point clinton	-34.21666667	138.0166667	white shark		provoked	1	spearfishing	calf	minor lacerations	male	60	1915
+5	6	1993	fatal	TAS	"tenth island, georgetown"	-40.93333333	146.9833333	white shark	4.0	unprovoked	1	diving	other: body not recovered		female	35	1100
+9	6	1993	fatal	NSW	"byron bay, julian rocks"	-28.63333333	153.6166667	white shark	6.0	unprovoked	1	diving	torso	major lacerations	male	31	0930
+21	11	1993	fatal	WA	"broome, roebuck bay"	-17.96666667	122.2333333	tiger shark	4.0	provoked	1	diving		major lacerations	male	28	1600
+10	12	1993	uninjured	QLD	"rockhampton, farnborough beach"	-23.36666667	150.5	whaler shark	2.0	unprovoked	1	boarding	other: uninjured		male	13	
+9	1	1994	injured	QLD	"brisbane river, karana downs reach "	-27.53333333	153.8333333	bull shark	1.5	unprovoked	1	swimming	thigh	minor lacerations	male	22	1330
+9	1	1994	injured	QLD	"buds beach, gold coast canal"	-27.98333333	153.4166667	bull shark		unprovoked	1	swimming	foot	minor lacerations	male		
+2	2	1994	injured	SA	"stinky bay, nora creina"	-37.31666667	139.8333333	wobbegong	1.6	provoked	1	fishing	foot	other: teeth marks	male	39	2000
+4	4	1994	injured	QLD	"broadbeach, surfers paradise"	-27.93333333	153.4166667	whaler shark		unprovoked	1	swimming	"arm, hand"	other: teeth marks	female		0945
+3	11	1994	injured	VIC	mornington peninsula (pier)	-38.46666667	144.8833333	wobbegong	3.0	provoked	1	diving	torso	other: teeth marks	male	23	
+1	2	1995	uninjured	VIC	"seal rocks, phillip island"	-38.51666667	145.0833333	sevengill shark	2.6	provoked	1	diving			male	34	0730
+27	2	1995	injured	SA	"boomer beach, port elliot"	-35.53333333	138.6666667	wobbegong		unprovoked	1	boarding	foot	other: teeth marks	male	14	
+11	3	1995	injured	SA	cactus beach	-32.08333333	132.9666667	white shark	2.0	unprovoked	1	boarding	arm	minor lacerations	male	35	0730
+21	3	1995	uninjured	NSW	"clark island, sydney harbour"	-33.85	151.2333333	bull shark	2.5	unprovoked	1	boarding	other: uninjured		female	29	0700
+9	4	1995	injured	NSW	eden	-37.05	149.9	wobbegong		unprovoked	1	diving	"arm, hand"	minor lacerations	male		
+18	5	1995	uninjured	WA	"bernier island, shark bay"	-24.83333333	113.1333333	tiger shark	3.0	unprovoked	1	diving	other: uninjured		male	49	1000
+11	9	1995	fatal	WA	"hopetoun, starvation bay"	-33.88333333	120.6833333	white shark	3.0	unprovoked	1	diving	torso	major lacerations	male	29	1500
+11	10	1995	injured	QLD	"hervey bay, pialba"	-25	152.8333333	tiger shark		unprovoked	1	other: standing in water	leg	minor lacerations	female	15	1500
+10	11	1995	injured	NSW	"brooms head, lake arragan"	-29.53333333	153.3333333	bull shark	1.0	provoked	1		thigh	other: teeth marks	male	35	
+18	11	1995	injured	QLD	"fishermans beach, great keppel"	-23.16666667	150.95	tiger shark	1.8	unprovoked	1	swimming	leg	minor lacerations	male	19	1600
+31	12	1995	injured	NSW	"little patonga beach, hawkesbury river"	-33.55	151.2666667	bull shark	2.6	unprovoked	1	swimming	arm	abrasion	male	24	1530
+22	1	1996	injured	QLD	"coomera river mouth, gold coast"	-27.85	153.4	bull shark		unprovoked	1	other: standing in water	calf	minor lacerations	female	13	1400
+14	1	1996	injured	WA	"mutton bird island, albany"	-35.05	117.6833333	wobbegong	0.7	provoked	1	spearfishing	leg	other: teeth marks	male	40	1515
+26	2	1996	injured	NSW	"parramatta river, sydney"	-33.86666667	151.2	bull shark	2.0	unprovoked	1	swimming	thigh	other: teeth marks	male	24	0130
+4	2	1996	injured	NSW	"lord howe island, ned's beach"	-31.51666667	159.05	galapagos shark		provoked	1	other: standing in water	foot	minor lacerations	male	7	
+5	3	1996	injured	QLD	"heron island, barrier reef"	-23.43333333	151.9	whaler shark		unprovoked	1	swimming	"arm, leg"	minor lacerations	female	47	0700
+26	4	1996	injured	NSW	"mona vale beach, sydney"	-33.66666667	151.3	wobbegong		unprovoked	1	swimming	leg	other: teeth marks	female	16	
+26	4	1996	injured	NSW	"mona vale beach, sydney"	-33.66666667	151.3	wobbegong		unprovoked	1	swimming	thigh	other: teeth marks	male	11	
+6	6	1996	uninjured	VIC	suicide point at point leo	-38.41666667	145.0666667	white shark	3.0	unprovoked	1	boarding	other: uninjured		male	47	1730
+19	9	1996	injured	WA	"rottnest island, parker point"	-32	115.5166667	wobbegong		unprovoked	1	other: standing in water	thigh	abrasion	male		
+22	12	1996	injured	VIC	anglesea beach	-38.41666667	144.1833333	wobbegong		unprovoked	1	boarding	leg	other: teeth marks	female	12	
+29	12	1996	injured	QLD	"sunshine coast, coolumn beach"	-26.5	153	wobbegong		unprovoked	1	boarding	foot	minor lacerations	female	18	1800
+20	1	1997	injured	QLD	"whitehaven beach, whitsunday island"	-20.25	148.9666667	tiger shark	2.0	unprovoked	1	snorkelling	leg	minor lacerations	male	27	1100
+20	1	1997	injured	QLD	"rainbow bay, coolangatta"	-28.15	153.5333333	bull shark	1.0	unprovoked	1	boarding	leg	other: teeth marks	male	8	1300
+1	1	1997	uninjured	VIC	"seal rocks, phillip island"	-38.51666667	145.0833333	white shark	3.0	unprovoked	1	unmotorised boating	other: uninjured		male	32	
+28	2	1997	injured	QLD	"ravens cove, whitsundays"	-20.26666667	148.9	grey reef shark		unprovoked	1	diving	"arm, shoulder"	minor lacerations	male	30	1045
+28	2	1997	injured	QLD	"nerang river, 14km upstream"	-27.98333333	153.3333333	bull shark		unprovoked	1	swimming	leg	major lacerations	female	20	1330
+3	2	1997	uninjured	NSW	"parramatta river, sydney"	-33.86666667	151.2	bull shark	2.0	unprovoked	1	unmotorised boating	other: uninjured		female	49	0615
+26	7	1997	injured	QLD	"maroochydore, pincushion"	-26.65	153.1	tiger shark	1.5	unprovoked	1	boarding	calf	minor lacerations	male	18	1400
+28	10	1997	injured	WA	"cottesloe beach, perth"	-31.98333333	115.75	white shark	5.0	unprovoked	1	boarding	head	abrasion	male		0630
+10	11	1997	uninjured	VIC	surf coast - 13th beach	-38.28333333	144.45	white shark	2.0	unprovoked	1	boarding	other: uninjured		male	21	1515
+9	11	1997	injured	WA	albany	-35.13333333	117.95	white shark	5.0	unprovoked	1	diving	"arm, shoulder"	minor lacerations	male	42	
+29	12	1997	injured	WA	gnarabup beach	-33.98333333	114.9833333	wobbegong		unprovoked	1	other: standing in water	leg	minor lacerations	male	4	0900
+1	12	1997	injured	NSW	"evans head, shark bay"	-29.1	153.4333333	wobbegong		unprovoked	1	swimming	leg	minor lacerations	male	18	1530
+14	12	1997	injured	QLD	"luncheon bay, hook island"	-20.11666667	148.9166667	bull shark		unprovoked	1	swimming	leg	minor lacerations	male	8	
+28	1	1998	injured	WA	hamelin bay	-34.21666667	115.0166667	wobbegong	2.4	provoked	1	diving	calf	minor lacerations	male	34	1000
+26	1	1998	uninjured	QLD	"orpheus island, juno bay"	-18.66666667	146.5	tiger shark	3.3	unprovoked	1	snorkelling	other: uninjured		male	45	0600
+17	1	1998	injured	SA	"middleton beach, adelaide"	-35.5	138.7	wobbegong		unprovoked	1	boarding	foot	other: teeth marks	male	31	
+28	6	1998	fatal	SA	south neptune island	-35.31666667	136.1	white shark	4.0	unprovoked	1	snorkelling	"torso, leg"	major lacerations	male	26	1400
+1	9	1998	injured	NSW	jervis bay	-35.03333333	150.7166667	wobbegong		unprovoked	1	diving	thigh	minor lacerations	male		
+20	10	1998	injured	QLD	sunshine coast	-26.5	153	wobbegong	1.2	provoked	1	diving	"arm, hand"	minor lacerations	male	37	1400
+22	12	1998	injured	SA	"middleton beach, adelaide"	-35.5	138.7	wobbegong		unprovoked	1	boarding	calf	other: teeth marks	female	21	
+8	12	1998	injured	NSW	"botany bay, sydney"	-33.95	151.15	whaler shark		provoked	1	spearfishing	calf	minor lacerations	male		
+23	2	1999	injured	NSW	"nambucca heads, scott's head beach "	-30.56666667	152.9833333	white shark		unprovoked	1	boarding	arm	minor lacerations	male	35	1930
+29	5	1999	fatal	SA	flaherty's beach hardwicke bay	-34.88333333	137.45	white shark		unprovoked	1	boarding	torso	major lacerations	male	22	1600
+25	10	1999	injured	QLD	"stradbroke island, amity point"	-27.38333333	153.4333333	wobbegong		provoked	1	diving	thigh	minor lacerations	male		
+27	12	1999	uninjured	NSW	"forster, the pinnacle"	-32.21666667	152.6	bronze whaler shark	2.9	unprovoked	1	diving	other: uninjured		male	34	0930
+23	12	1999	uninjured	WA	"scarborough beach, perth"	-31.88333333	115.75	white shark	6.0	provoked	1	diving	other: uninjured		male		
+7	2	2000	uninjured	NSW	"wanda beach, sydney"	-34.03333333	151.15	white shark		unprovoked	1	boarding	other: uninjured		male	57	1210
+4	2	2000	injured	SA	"cactus beach, point sinclair, ceduna"	-32.08333333	132.9833333	white shark	3.0	unprovoked	1	boarding	"arm, torso"	major lacerations	male	26	1100
+3	2	2000	injured	WA	sorrento beach	-31.81666667	115.7333333	wobbegong	1.2	unprovoked	1	swimming	foot	other: teeth marks	male	51	0545
+30	3	2000	injured	QLD	"main beach, gold coast"	-27.96666667	153.4166667	white shark	2.6	unprovoked	1	swimming	calf	major lacerations	male	26	1410
+8	3	2000	injured	WA	margaret river  nr perth	-31.95	115.0666667	white shark	1.7	unprovoked	1	boarding	thigh	minor lacerations	male	20	1830
+15	3	2000	uninjured	NSW	"mcmasters beach, central coast"	-33.48333333	151.4166667	white shark	3.0	unprovoked	1	boarding	other: uninjured		male	38	1930
+2	3	2000	injured	NSW	"athol bay, taronga wharf, sydney harbour"	-33.86666667	151.2	bull shark	0.8	unprovoked	1	swimming	foot	other: teeth marks	male	61	
+10	3	2000	uninjured	NSW	"parramatta river, sydney"	-33.86666667	151.2	bull shark	2.0	unprovoked	1	unmotorised boating	other: uninjured		male		
+3	4	2000	uninjured	NSW	"maroubra beach, sydney"	-33.93333333	151.25	whaler shark	2.8	unprovoked	1	boarding	other: uninjured		male		1500
+13	4	2000	injured	WA	"cottesloe beach, perth"	-31.98333333	115.75	wobbegong		provoked	1	other: standing in water	foot	other: teeth marks	female	11	
+25	9	2000	fatal	SA	"blackfellows point, near elliston"	-33.61666667	134.8166667	white shark		unprovoked	1	boarding	torso		male	17	1230
+24	9	2000	fatal	SA	cactus beach	-32.08333333	132.9666667	white shark	4.5	unprovoked	1	boarding	torso		male	25	0730
+21	11	2000	uninjured	QLD	"orpheus island, juno bay"	-18.66666667	146.5	tiger shark	4.0	provoked	1	diving	other: uninjured		male	28	0910
+6	11	2000	injured	WA	"cottesloe beach, perth"	-31.98333333	115.75	white shark	4.0	unprovoked	1	swimming	foot	minor lacerations	male	52	0630
+6	11	2000	uninjured	NSW	"kiama, jones beach"	-34.63333333	150.3833333	white shark	2.9	unprovoked	1	swimming	other: uninjured		male	40	1500
+3	11	2000	uninjured	SA	venus bay	-33.18333333	134.65	white shark	4.0	provoked	1	diving	other: uninjured		male	27	1200
+6	11	2000	fatal	WA	"cottesloe beach, perth"	-31.98333333	115.75	white shark	4.0	unprovoked	1	swimming	"torso, leg"	major lacerations	male	49	0625
+3	12	2000	injured	QLD	"heron island, sykes reef"	-23.43333333	151.9	whaler shark	2.5	provoked	1	spearfishing	arm	minor lacerations	male	38	0900
+24	12	2000	injured	QLD	"townsville, flinders cay off townsville"	-19.25	146.8166667	wobbegong		unprovoked	1	diving	"arm, hand"	minor lacerations	male		1630
+28	1	2001	uninjured	QLD	"noosa heads, main beach"	-26.38333333	153.0833333	tiger shark		unprovoked	1	boarding	other: uninjured		male		1700
+21	1	2001	uninjured	NSW	south west rocks	-30.88333333	153.05	white shark	5.0	unprovoked	1	unmotorised boating	other: uninjured		male	35	
+4	2	2001	injured	NSW	brooms head 	-29.6	153.3333333	tiger shark	2.5	unprovoked	1	boarding	calf	other: teeth marks	male	40	1615
+28	3	2001	injured	WA	"margaret river, prevelly beach"	-33.96666667	114.9833333	wobbegong	1.5	unprovoked	1	snorkelling	calf	other: teeth marks	male	19	1400
+2	4	2001	injured	NSW	"nambucca river, entrance"	-30.63333333	153.0166667	wobbegong		unprovoked	1	boarding	calf	major lacerations	male	40	1000
+8	4	2001	injured	NSW	"bronte beach, sydney"	-33.9	151.2666667	wobbegong	1.0	provoked	1	snorkelling	arm	abrasion	male	32	
+4	5	2001	injured	NSW	"lakes beach, budgewoi"	-33.23333333	151.5333333	white shark	3.0	unprovoked	1	boarding	torso	minor lacerations	male	37	1745
+1	10	2001	uninjured	QLD	"moreton bay, sovereign beach"	-27.28333333	153.4166667	tiger shark	4.0	unprovoked	1	unmotorised boating			male	31	1400
+2	10	2001	injured	QLD	"pinnacles, coral sea, gbr"	-16.91666667	149.25	silvertip shark	1.5	provoked	1	snorkelling	arm	minor lacerations	female	20	1330
+23	11	2001	injured	NSW	"ballina, flat rock"	-28.81666667	153.5333333	white shark	2.0	unprovoked	1	boarding	torso	surface wound	male	49	0915
+3	12	2001	injured	NSW	"yamba, main beach"	-29.43333333	153.35	wobbegong		unprovoked	1	swimming	foot	other: teeth marks	male	14	1815
+21	12	2001	uninjured	WA	"yallingup, honeycombs"	-33.63333333	115	white shark	2.0	unprovoked	1	boarding	other: uninjured		male	36	
+6	12	2001	uninjured	WA	canal rocks	-34.25	115.0166667	white shark	2.5	provoked	1	spearfishing	other: uninjured		male		
+30	1	2002	injured	WA	river mouth off collie river	-33.3	115.6833333	shortfin mako shark		unprovoked	1	swimming	thigh	minor lacerations	male	32	1700
+29	1	2002	injured	NSW	"port stephens, fingal spit"	-32.73333333	152.1833333	bull shark	2.9	unprovoked	1	boarding	arm	abrasion	male	20	1900
+16	2	2002	injured	QLD	"noosa, sunrise beach"	-26.36666667	153.0833333	whaler shark	1.5	unprovoked	1	boarding	foot	minor lacerations	male	36	0925
+7	2	2002	uninjured	NSW	"parramatta river, cabarita, sydney"	-33.86666667	151.2	bull shark	2.0	unprovoked	1	unmotorised boating	other: uninjured		male	35	2030
+1	4	2002	uninjured	NSW	coffs harbour	-30.28333333	153.1333333	bull shark	1.8	provoked	1	spearfishing	other: uninjured		male		
+30	4	2002	fatal	SA	smokey bay	-32.38422037	133.9255802	white shark	6.0	provoked	1	diving	leg	major lacerations	male	23	1230
+12	4	2002	injured	NSW	"bar beach, newcastle"	-32.93333333	151.75	wobbegong		unprovoked	1	swimming	foot	other: teeth marks	male	46	
+13	8	2002	uninjured	WA	"cove beach, perth, sth of cottesloe beach"	-31.96666667	115.75	white shark	3.5	unprovoked	1	boarding	other: uninjured		male	34	0800
+29	12	2002	injured	QLD	"upolu cay, cairns"	-16.66666667	145.9333333	hammerhead shark 		provoked	1	snorkelling	arm	minor lacerations	female	18	1430
+22	12	2002	injured	NSW	"manly, shelly beach,  sydney"	-33.78333333	151.2833333	wobbegong	0.5	unprovoked	1	diving	thigh	abrasion	male	35	0930
+16	12	2002	fatal	QLD	miami lake (canals) gold coast	-28.05	153.4166667	bull shark	2.0	unprovoked	1	swimming	"torso, leg"	major lacerations	male	23	0400
+11	1	2003	injured	NSW	"coogee beach, sydney"	-33.91666667	151.25	wobbegong		unprovoked	1	swimming	leg	minor lacerations	male	24	
+1	1	2003	uninjured	SA	sheringa beach	-33.86666667	135.1666667	white shark	2.5	unprovoked	1	boarding	other: uninjured		female		1300
+16	2	2003	injured	SA	"goolwa beach, adelaide"	-35.51666667	138.7666667	wobbegong		unprovoked	1	other: standing in water	foot	minor lacerations	male	37	
+8	2	2003	fatal	QLD	"burleigh lake, goldcoast canal"	-28.1	153.1	bull shark	2.2	unprovoked	1	swimming	leg	major lacerations	male	84	0700
+23	3	2003	injured	NSW	"yamba, turner's beach"	-29.41666667	153.35	whaler shark		unprovoked	1	boarding	foot	other: teeth marks	male		
+5	3	2003	injured	WA	mandurah	-32.53333333	115.7166667	wobbegong	1.2	provoked	1	diving	"torso, pelvic region"	other: teeth marks	male		
+25	7	2003	uninjured	NT	"nhulunbuy, bremmer island"	-12.18333333	136.7666667	tiger shark		unprovoked	1	unmotorised boating	other: uninjured		male	37	
+1	10	2003	injured	NSW	"coff's harbour, charlesworth beach"	-30.28333333	153.1333333	wobbegong	1.2	unprovoked	1	boarding	foot	minor lacerations	male	12	1815
+31	10	2003	injured	NSW	"seal rocks, lighthouse beach"	-32.43333333	152.5166667	wobbegong	1.5	unprovoked	1	boarding	foot	minor lacerations	male	22	1730
+30	11	2003	injured	WA	"margaret river, mainbreak"	-33.63333333	114.9833333	wobbegong	1.3	provoked	1	swimming	thigh	abrasion	male	15	1130
+30	11	2003	injured	WA	"margaret river, mainbreak"	-33.96666667	114.9833333	wobbegong	1.3	provoked	1	swimming	"leg, hand"	abrasion	male	15	1130
+8	12	2003	injured	WA	"margaret river, prevelly"	-33.96666667	114.9833333	wobbegong	0.7	provoked	1	spearfishing	leg	other: teeth marks	male	34	0700
+8	12	2003	uninjured	VIC	"ocean grove, collendina"	-38.26666667	144.5333333	whaler shark		unprovoked	1	swimming	other: uninjured		male		0545
+14	1	2004	injured	WA	gnarabup beach	-33.98333333	114.9833333	wobbegong	1.0	unprovoked	1	swimming	"torso, pelvic region"	other: teeth marks	male		2000
+12	1	2004	uninjured	NSW	"shellharbour, bass point, wollongong"	-34.56666667	150.8666667	whaler shark	3.0	unprovoked	1	diving	other: uninjured		male		1030
+3	1	2004	injured	NSW	"nambucca heads, scott's head beach"	-30.56666667	152.9833333	wobbegong		unprovoked	1	swimming	calf	other: teeth marks	male	8	
+15	1	2004	injured	NSW	nambucca heads	-30.63333333	153.0166667	wobbegong		unprovoked	1	swimming	"torso, pelvic region"	other: teeth marks	female		
+25	1	2004	injured	WA	"binningup beach, bunbury"	-33.13333333	115.6833333	white shark	4.5	provoked	1	spearfishing	leg	major lacerations	male	46	1100
+10	2	2004	uninjured	VIC	"bridgewater bay, portland"	-38.36666667	144.75	white shark	4.0	provoked	1	diving	other: uninjured		male		
+10	2	2004	injured	NSW	caves beach	-33.1	151.65	blind shark	0.6	provoked	1	spearfishing	foot	abrasion	male	22	
+22	2	2004	injured	WA	waterman beach	-31.85	115.75	wobbegong	0.4	unprovoked	1	snorkelling	calf	other: teeth marks	female	7	1400
+22	2	2004	injured	WA	waterman beach	-31.85	115.75	wobbegong	0.4	unprovoked	1	snorkelling	leg	other: teeth marks	male	38	1400
+6	3	2004	injured	WA	"cervantes, nr jurien bay"	-30.25	115.0166667	bronze whaler shark	1.5	provoked	1	spearfishing	leg	other: teeth marks	male	47	
+26	4	2004	injured	NSW	"forster, latitude reef"	-32.2	152.55	wobbegong	1.2	unprovoked	1	diving	"arm, hand"	other: teeth marks	male		
+20	4	2004	injured	WA	"margaret river, prevelly"	-33.96666667	114.9833333	wobbegong	1.0	unprovoked	1	snorkelling	thigh	other: teeth marks	male		
+26	6	2004	uninjured	WA	floreat beach	-31.91666667	115.75	white shark	5.0	provoked	1	diving	other: uninjured		male		
+10	6	2004	injured	WA	bunbury back beach	-33.33333333	115.6333333	white shark	3.0	unprovoked	1	boarding	foot	minor lacerations	male	17	1630
+11	7	2004	injured	WA	rottnest island	-31.98333333	115.5333333	wobbegong	1.0	unprovoked	1	diving	calf	other: teeth marks	male	33	1408
+10	7	2004	fatal	WA	"margaret river, gracetown"	-33.85	114.9833333	white shark	5.0	unprovoked	2	boarding	"leg, pelvic region"	major lacerations	male	29	1400
+4	8	2004	injured	NSW	"byron bay, tallows beach"	-28.63333333	153.6166667	grey nurse shark	2.4	provoked	1	spearfishing	foot	other: teeth marks	male	42	1330
+28	8	2004	uninjured	VIC	"flinders, gunnery surf break"	-38.46666667	145.0166667	white shark	2.0	unprovoked	1	boarding	other: uninjured		male	33	1710
+25	9	2004	uninjured	QLD	batt reef	-16.4	145.7666667	tiger shark	3.0	provoked	1	snorkelling	other: uninjured		male		1200
+21	10	2004	injured	NSW	"stockton beach, newcastle"	-32.85	151.8333333	white shark	2.5	unprovoked	1	boarding	foot	minor lacerations	male	59	1600
+6	11	2004	injured	NSW	"saltwater beach, nr taree"	-32.01666667	152.5333333	wobbegong	1.2	unprovoked	1	boarding	"arm, hand"	minor lacerations	male	14	0800
+11	12	2004	fatal	QLD	opal reef off cairns	-16.21666667	145.8833333	tiger shark		provoked	1	spearfishing	thigh	major lacerations	male	38	1215
+16	12	2004	fatal	SA	"west beach, adelaide"	-34.9	137	white shark	5.0	unprovoked	1	boarding	torso		male	18	1515
+19	1	2005	uninjured	VIC	"port phillip bay, rickett's point"	-37.98333333	145.0166667	white shark	3.0	provoked	1	spearfishing	other: uninjured		male		
+26	2	2005	injured	QLD	"brisbane river, karalee"	-27.55	152.8166667	bull shark	1.5	unprovoked	1	swimming	"arm, hand"	minor lacerations	male	18	
+25	3	2005	uninjured	NSW	"crackneck point, bateau bay"	-33.38333333	151.4833333	white shark	4.0	unprovoked	1	boarding	other: uninjured		male	31	1400
+19	3	2005	fatal	WA	"houtman abrolhos, off geraldton"	-28.71666667	113.7833333	white shark	6.0	unprovoked	1	snorkelling	torso		male	26	
+16	4	2005	injured	NT	"nhulunbuy, bremmer island"	-12.11666667	136.8	whaler shark	2.0	provoked	1	spearfishing	head	other: teeth marks	male	20	
+16	4	2005	uninjured	NSW	"bronte beach, sydney"	-33.9	151.2666667	white shark	1.5	unprovoked	1	boarding	other: uninjured		male	40	0615
+16	5	2005	injured	QLD	townsville (50km off shore)	-19.35	147.3666667	blacktip reef shark	2.0	provoked	2	spearfishing	"arm, hand"	minor lacerations	male		
+24	8	2005	fatal	SA	"glenelg, adelaide"	-34.96666667	138.5	white shark	5.0	unprovoked	1	diving	torso		male	23	1610
+24	9	2005	uninjured	NSW	"south west rocks, little bay"	-30.88333333	153.0833333	tiger shark	3.0	unprovoked	1	boarding	other: uninjured		male	28	
+7	9	2005	injured	NSW	"coff's harbour, park beach"	-30.3	153.1333333	wobbegong		unprovoked	1	boarding	foot	minor lacerations	male	15	
+23	9	2005	uninjured	WA	"scarborough beach, perth"	-31.88333333	115.75	white shark		unprovoked	1	boarding	other: uninjured		male	44	
+25	9	2005	injured	SA	"cape de couedic, kangaroo is"	-35.08333333	137.5333333	white shark	5.0	unprovoked	1	boarding	"arm, leg"	minor lacerations	male	26	
+4	9	2005	injured	SA	fishery bay nr port lincoln	-34.83333333	135.6833333	white shark		unprovoked	1	boarding	"arm, leg"	minor lacerations	male	40	1500
+25	11	2005	injured	VIC	"flinders, western port bay"	-38.46666667	145.0166667	white shark	1.8	unprovoked	1	boarding	calf	minor lacerations	male	18	1815
+12	11	2005	uninjured	QLD	"moreton island, henderson's shoal "	-27.18333333	153.4	bronze whaler shark	2.5	unprovoked	3	diving	other: uninjured		male	57	1100
+11	12	2005	injured	QLD	port douglas	-16.48333333	145.45	whitetip reef shark	1.5	provoked	2	spearfishing	arm	major lacerations	male	44	1000
+7	1	2006	fatal	QLD	"stradbroke island, north"	-27.4	153.4333333	bull shark	2.0	unprovoked	1	swimming	"leg, hand"	major lacerations	female	21	1710
+15	1	2006	injured	WA	"city beach, perth"	-31.93333333	115.75	white shark	3.3	provoked	1	spearfishing	arm	minor lacerations	male	52	1120
+13	2	2006	injured	QLD	"caloundra, golden beach"	-26.8	153.1333333	wobbegong		unprovoked	1	other: standing in water	foot	minor lacerations	male	18	1100
+15	3	2006	uninjured	NSW	"bondi beach (south end), sydney"	-33.88333333	151.2666667	whaler shark	2.5	unprovoked	1	boarding	other: uninjured		male		1620
+11	4	2006	injured	NSW	"cowrie hole, newcastle"	-32.91666667	151.7833333	wobbegong		unprovoked	1	boarding	foot	other: teeth marks	male	15	1330
+2	5	2006	injured	QLD	"caloundra, moffat beach"	-26.68333333	153.1333333	wobbegong	2.0	provoked	1	diving	torso	minor lacerations	male	46	1630
+11	8	2006	uninjured	NSW	"coogee, lurline bay, sydney"	-33.9	151.2666667	white shark	3.0	provoked	1	spearfishing	other: uninjured		male		
+2	12	2006	injured	WA	"orleans bay, nr esperance"	-33.91666667	122.5833333	white shark	5.0	unprovoked	1	boarding	leg	major lacerations	male	15	
+2	12	2006	uninjured	WA	"enderby island, dampier"	-20.36666667	116.8666667	grey reef shark		provoked	1	spearfishing	other: uninjured		male		
+18	12	2006	injured	VIC	"bells beach, winkipop reef"	-38.36666667	144.2666667	white shark	3.0	unprovoked	1	boarding	leg	minor lacerations	male	25	0800
+9	1	2007	uninjured	NSW	"sandbar beach, smiths lakes"	-32.38333333	152.5166667	white shark	2.8	unprovoked	1	boarding	other: uninjured		male	44	0630
+23	1	2007	injured	NSW	cape howe 	-37.5	149.9666667	white shark	3.0	provoked	1	diving	"head, torso"	minor lacerations	male	41	1030
+3	2	2007	injured	NSW	"ballina, angels beach "	-28.83333333	153.6	white shark	2.0	unprovoked	1	boarding	foot	minor lacerations	male	26	
+20	3	2007	injured	NSW	"brunswick head, south golden beach"	-28.53333333	153.55	white shark	1.6	unprovoked	1	boarding	"arm, hand"	minor lacerations	female	42	
+12	3	2007	injured	QLD	moore park beach	-24.71666667	152.2666667	bull shark	2.3	unprovoked	1	swimming	"leg, foot"	major lacerations	female	59	1515
+26	4	2007	injured	QLD	mornington island	-16.55	139.4		1.5	unprovoked	1	swimming	foot	minor lacerations	female	12	1830
+16	5	2007	injured	WA	"warra beach, nr coral bay"	-23.13333333	113.7666667	whitetip reef shark	2.5	provoked	1	swimming	foot	major lacerations	female	38	1430
+5	6	2007	injured	NSW	"crescent heads, shelly beach"	-31.18333333	152.9666667	bull shark		unprovoked	1	boarding	"leg, foot"	major lacerations	male		1630
+14	7	2007	injured	NSW	"manly, shelly beach,  sydney"	-33.78333333	151.2833333	wobbegong	1.0	unprovoked	1	diving	thigh	other: teeth marks	male	30	
+5	7	2007	uninjured	WA	"exmouth, dunnes surf beach"	-21.95	114.1166667	white shark	2.8	unprovoked	1	boarding	other: uninjured		male	48	0745
+20	7	2007	injured	WA	cocos (keeling) islands	-12.15	96.81666667	wobbegong	1.5	provoked	1	swimming	calf	minor lacerations	male	15	
+13	10	2007	injured	QLD	"cairns, holmes reef north of cairns"	-16.91666667	145.7666667	whaler shark	1.8	provoked	1	spearfishing	calf	major lacerations	male	31	1200
+15	10	2007	injured	NSW	"byron bay, the pass"	-28.63333333	153.6166667	white shark	2.5	unprovoked	1	boarding	"arm, hand"	minor lacerations	female	52	1130
+8	11	2007	uninjured	NSW	"byron bay, wategos beach"	-28.63333333	153.6	white shark	1.8	unprovoked	1	boarding	other: uninjured		male		1420
+11	12	2007	injured	NSW	"maroubra beach, sydney"	-33.9495	151.2437	wobbegong		unprovoked	1	surfing	"leg, foot"	minor lacerations	male	14	1930
+15	12	2007	injured	QLD	"broadwater, gold coast"	-27.93333333	153.4166667	whaler shark	0.6	unprovoked	1	swimming	"arm, hand"	minor lacerations	male	13	1230
+18	12	2007	injured	NSW	port stephens (inside headland)	-32.68333333	152.1833333	white shark		unprovoked	1	boarding	"torso, pelvic region"	minor lacerations	male	31	1100
+1	1	2008	uninjured	TAS	"pipers river mouth, waymouth"	-41	147.1333333	white shark	3.0	unprovoked	1	unmotorised boating	other: uninjured		male		
+28	1	2008	injured	NSW	"tweed heads, turtle sanctuary, cook island"	-28.18333333	153.5666667	wobbegong	1.3	unprovoked	1	diving	thigh	other: teeth marks	male		1030
+29	1	2008	injured	WA	rottnest island	-31.98333333	115.5333333	wobbegong	1.0	unprovoked	1	swimming	calf	other: teeth marks	male	42	1130
+18	2	2008	injured	VIC	"shallow inlet, wilson's promontory"	-38.83333333	146.1666667	wobbegong	0.6	unprovoked	1	swimming	foot	minor lacerations	female	66	1330
+17	4	2008	injured	QLD	"greenmount beach, coolangatta"	-28.15	153.5333333	wobbegong		unprovoked	1	other: standing in water	thigh	other: teeth marks	male		1100
+8	4	2008	fatal	NSW	"ballina, lighthouse beach"	-28.86666667	153.5666667	bull shark	2.8	unprovoked	1	boarding	"thigh, calf"	major lacerations	male	16	0810
+16	4	2008	injured	WA	"yallingup, south perth"	-33.63333333	115	wobbegong	0.8	provoked	1	swimming	"calf, thigh, pelvic region"	surface wound	female		
+10	5	2008	injured	WA	"albany, middleton beach"	-35.01666667	117.9166667	white shark	4.0	unprovoked	1	swimming	calf	major lacerations	male	37	0730
+30	7	2008	uninjured	VIC	"levys beach, warrnambool"	-38.38333333	142.4833333	white shark		unprovoked	1	boarding	other: uninjured		male	31	1030
+30	8	2008	uninjured	NSW	"byron bay, tallow beach"	-28.63333333	153.6166667	white shark	4.0	unprovoked	1	boarding	other: uninjured		male	30	1130
+7	9	2008	uninjured	NSW	"byron bay, clarkes beach"	-28.63333333	153.6166667	white shark	2.8	unprovoked	1	boarding	other: uninjured		male	51	
+28	12	2008	uninjured	NSW	seal rocks	-32.43333333	152.5166667	whaler shark	2.0	unprovoked	1	boarding	other: uninjured		male	10	
+27	12	2008	fatal	WA	"port kennedy beach, perth"	-32.35	115.7166667	white shark	5.5	provoked	1	snorkelling	other: body not recovered		male	52	0700
+27	12	2008	uninjured	NSW	"long reef, sydney"	-33.73333333	151.3166667	white shark	5.0	provoked	1	unmotorised boating	other: uninjured		male	29	
+12	1	2009	injured	NSW	"windang, lake illawarra, wollongong"	-34.53333333	150.8666667	dusky shark		provoked	1	spearfishing	leg	major lacerations	male	25	1045
+1	1	2009	injured	QLD	osprey reef	-13.91666667	146.6166667	grey reef shark	2.0	provoked	10	diving	calf	minor lacerations	male		
+11	1	2009	injured	NSW	"dreamtime beach, fingal head"	-28.18333333	153.55	white shark	2.0	unprovoked	1	boarding	leg	major lacerations	male	31	0930
+11	1	2009	injured	TAS	"baileys rock, binalong bay"	-41.23333333	148.3	white shark	5.0	unprovoked	1	boarding	leg	major lacerations	female	13	1400
+24	1	2009	injured	NSW	"surf beach, bateman's bay"	-35.76	150.2053	unknown		unprovoked	1	swimming	"arm, hand"	minor lacerations	male	19	1630
+18	2	2009	uninjured	NSW	"port macquarie, shelley beach"	-31.45	152.9166667	white shark	3.0	unprovoked	1	boarding	other: uninjured		male	24	1700
+11	2	2009	injured	NSW	"woolloomooloo bay, sydney harbour"	-33.85	151.2166667	bull shark	2.7	unprovoked	1	diving	"leg, hand"	major lacerations	male	31	0700
+7	2	2009	uninjured	NSW	"minnie waters, sandon beach"	-29.76666667	153.2833333	white shark		unprovoked	1	boarding	other: uninjured		male		0730
+12	2	2009	injured	NSW	"bondi beach, sydney"	-33.88333333	151.2666667	white shark	2.5	unprovoked	1	boarding	"arm, hand"	major lacerations	male	33	1930
+7	2	2009	uninjured	NSW	"cellito beach, north coast"	-32.38333333	152.5166667	white shark	4.0	unprovoked	1	boarding	other: uninjured		male	41	1100
+1	3	2009	injured	NSW	avalon beach	-33.63333333	151.3166667	white shark	3.0	unprovoked	1	boarding	leg	major lacerations	male	15	0630
+19	3	2009	uninjured	NSW	"broulee beach north, batemans bay"	-35.85	150.1666667	whaler shark	1.9	unprovoked	1	boarding	other: uninjured		female	47	0745
+23	3	2009	injured	NSW	"maroubra beach, sydney"	-33.93333333	151.25	wobbegong		unprovoked	1	diving	leg	minor lacerations	male		
+20	3	2009	injured	WA	halls head beach	-32.5	115.7	white shark	2.0	unprovoked	1	boarding	"calf, foot"	other: teeth marks	male	17	1845
+15	3	2009	injured	WA	"rottnest island, natural jetty"	-31.98333333	115.5333333	wobbegong	0.6	provoked	1	swimming	leg	minor lacerations	male	21	1130
+12	4	2009	uninjured	NSW	"port stephens, fingal spit"	-32.73333333	152.1833333	bull shark	3.0	unprovoked	1	boarding	other: uninjured		male	40	0800
+27	6	2009	injured	NSW	"kiama, seven mile beach"	-34.66666667	150.85	wobbegong	2.0	unprovoked	1	boarding	foot	minor lacerations	male	52	0830
+30	7	2009	injured	NSW	"byron bay, broken head"	-28.63333333	153.6166667	whaler shark	1.5	unprovoked	1	boarding	"arm, hand"	other: teeth marks	male	14	0615
+25	8	2009	uninjured	WA	"rottnest island, horse shoe reef"	-32	115.45	white shark	6.0	provoked	1	spearfishing	other: uninjured		male	42	1300
+6	9	2009	injured	WA	"cocos (kelling) island, jetty"	-12.15	96.81666667	whaler shark	1.8	unprovoked	1	boarding	thigh	other: teeth marks	male	35	1300
+30	10	2009	uninjured	VIC	portland	-38.33333333	141.6	white shark	4.0	unprovoked	1	unmotorised boating	other: uninjured		male	27	
+28	10	2009	uninjured	NSW	lennox head	-28.78333333	153.5833333	white shark		unprovoked	1	boarding	other: uninjured		female	17	0700
+7	11	2009	injured	SA	"second valley, fleurieu peninsula"	-35.5	138.2333333	white shark	3.0	provoked	1	spearfishing	"leg, hand"	minor lacerations	male	25	0950
+19	12	2009	injured	QLD	"heron island, lamont reef"	-23.43333333	151.9	whaler shark	3.0	provoked	1	spearfishing	arm	minor lacerations	male	18	
+26	12	2009	injured	NSW	avoca beach	-33.45	151.4333333	wobbegong		provoked	1	other: standing in water	foot	other: teeth marks	male	55	1100
+12	12	2009	injured	NSW	hawks nest 	-26.067	113.567	white shark		unprovoked	1	unmotorised boating			male		
+13	12	2009	injured	NSW	evans head	-29.1	153.4333333	white shark		unprovoked	1	boarding	foot	minor lacerations	male	39	
+27	12	2009	uninjured	NSW	tuncurry beach	-32.16666667	152.5	white shark		unprovoked	1	boarding	other: uninjured		male		0630
+27	1	2010	uninjured	QLD	"bargara, archies beach"	-24.8	152.45	white shark	1.9	unprovoked	1	boarding	other: uninjured		male	37	1630
+22	1	2010	injured	VIC	"13th beach, boings"	-38.28333333	144.4333333	white shark	1.5	unprovoked	1	boarding	"arm, hand"	minor lacerations	male		0730
+9	1	2010	injured	QLD	"thursday island, torre strait"	-10.56666667	142.2166667	whitetip reef shark	1.0	unprovoked	1	snorkelling	leg	other: teeth marks	female	9	
+6	2	2010	uninjured	NSW	"yamba, turners beach"	-29.41666667	153.3666667	white shark	2.4	unprovoked	1	boarding	other: uninjured		male	18	
+13	2	2010	injured	QLD	"dent island, whitsunday islands"	-20.35	148.9333333	bull shark	1.8	unprovoked	1	snorkelling	"torso, pelvic region"	major lacerations	female	55	1245
+11	2	2010	injured	NSW	"mona vale, bongin bongin bay"	-33.66666667	151.3	wobbegong	1.6	unprovoked	1	other: standing in water	calf	other: teeth marks	male	46	0800
+18	5	2010	injured	NSW	"crescent heads, point plomer"	-31.3	152.9666667	bull shark	1.8	unprovoked	1	boarding	calf	other: teeth marks	male		1630
+6	6	2010	injured	WA	"conspicuous cliff beach, walpole"	-35.03333333	116.8333333	white shark	4.0	unprovoked	1	boarding	leg	major lacerations	male		
+8	8	2010	injured	NSW	crescent head	-31.18333333	152.9666667	white shark	2.0	unprovoked	1	boarding	foot	minor lacerations	male	47	0800
+17	8	2010	fatal	WA	"south point beach, cowaramup bay"	-33.85	114.9666667	white shark	4.0	unprovoked	1	boarding	leg	major lacerations	male	31	0815
+13	9	2010	injured	NSW	"yamba, lluka, frasers reef"	-29.4	153.3333333	white shark	2.0	unprovoked	1	boarding	foot	minor lacerations	male	15	1700
+23	10	2010	injured	WA	"wedge island, north of perth"	-30.83333333	115.2666667	white shark	1.7	unprovoked	1	boarding	calf	other: teeth marks	male		
+16	10	2010	injured	NSW	"mullawarra beach, arrawarra"	-30.06666667	153.2	wobbegong	1.4	unprovoked	1	boarding	foot	minor lacerations	male	22	
+30	10	2010	injured	WA	"garden island, perth"	-32.18333333	115.6833333	white shark	3.0	unprovoked	1	snorkelling	thigh	major lacerations	female	19	1230
+17	2	2011	fatal	SA	perforated island nr coffin bay	-34.71666667	135.15	white shark		provoked	2	diving	other: body not recovered		male	50	1800
+12	2	2011	injured	WA	exmouth	-21.95	114.1166667	whaler shark	1.8	unprovoked	1	snorkelling	arm	minor lacerations	male	58	1645
+16	3	2011	injured	NSW	"port stephens, jimmys beach"	-32.73333333	152.1833333	white shark	3.0	unprovoked	1	boarding	"head, shoulder"	major lacerations	female		1300
+23	3	2011	injured	NSW	crowdy heads	-31.83333333	152.7333333	white shark	3.0	unprovoked	1	boarding	arm	major lacerations	male	48	1845
+23	4	2011	injured	WA	"red bluff, nr carnarvon"	-24.48333333	113.4	whaler shark	1.8	provoked	1	fishing	foot	major lacerations	male	17	1500
+29	5	2011	injured	NSW	big seal rocks	-32.45	152.5333333	wobbegong	1.0	provoked	1	diving	thigh	other: teeth marks	female		
+28	8	2011	fatal	QLD	"challenger bay, palm island"	-18.71666667	146.5666667	tiger shark		unprovoked		swimming	torso	major lacerations	male	50	1930
+4	9	2011	fatal	WA	bunker bay	-33.53333333	115.0333333	white shark	4.5	unprovoked	1	boarding	leg	major lacerations	male	21	
+22	10	2011	fatal	WA	rottnest island	-32	115.45	white shark	3.0	unprovoked	1	diving		major lacerations	male	32	1330
+19	10	2011	uninjured	VIC	"elwood beach, port phillip bay"	-37.88333333	144.9833333	port jackson shark	1.0	provoked	1	diving	other: uninjured		male	49	1600
+10	10	2011	fatal	WA	"cottesloe beach, perth"	-31.98333333	115.75	white shark	3.0	unprovoked	1	swimming			male		0800
+28	11	2011	injured	QLD	peregain beach	-26.46666667	153.0833333	wobbegong	1.0	provoked	1	swimming	foot	other: teeth marks	male	10	1700
+2	12	2011	injured	NSW	"suffolk park, broken head beach"	-28.7	153.6	white shark		unprovoked	1	boarding	"torso, shoulder"	surface wound	male	63	0600
+7	12	2011	injured	NSW	"maroubra beach, sydney"	-33.93333333	151.25	wobbegong		provoked	1	boarding	foot	minor lacerations	male	14	1930
+11	12	2011	injured	NSW	"yamba, angourie beach"	-29.48333333	153.35	white shark	2.5	unprovoked	1	boarding	thigh	minor lacerations	male	50	0600
+3	1	2012	injured	NSW	north avoca beach	-33.45	151.4333333	white shark	2.2	unprovoked	1	boarding	arm	minor lacerations	male	28	1945
+2	1	2012	uninjured	NSW	"tweed river mouth, duranbah"	-28.16666667	153.55	tiger shark	3.5	provoked	1	spearfishing	other: uninjured		male		
+18	1	2012	injured	NSW	"redhead beach, newcastle"	-33	151.7166667	white shark	2.6	unprovoked	1	boarding	thigh	major lacerations	male	44	1640
+19	1	2012	injured	WA	"the lagoon, coral bay"	-23.13333333	113.7666667	tiger shark	3.0	unprovoked	1	snorkelling	arm	minor lacerations	male	26	
+3	2	2012	uninjured	NSW	"wallabi point, old bar"	-31.98333333	152.5666667	white shark		unprovoked	1	boarding	other: uninjured		male		
+25	2	2012	injured	NSW	"port stephens, broughton island"	-32.6	152.3166667	wobbegong		provoked	1	fishing	foot	other: teeth marks	male		1600
+6	2	2012	uninjured	QLD	wurtulla beach	-26.75	153.1333333	whaler shark		unprovoked	1	boarding	other: uninjured		male	29	
+20	3	2012	injured	QLD	"nobbys beach, gold coast"	-28.05	153.4333333	bull shark		provoked	1	boarding	foot	minor lacerations	male	20	1710
+15	3	2012	uninjured	NSW	"lion island, hawkesbury river"	-33.55	151.3166667			unprovoked	1	unmotorised boating	other: uninjured		male	52	
+31	3	2012	fatal	WA	"stratham beach, bunbury"	-33.46666667	115.5166667	white shark	4.0	unprovoked	1	diving	torso	major lacerations	male	32	0930
+11	4	2012	injured	SA	"dolphin bay, yorke peninsula"	-35.18333333	136.85	white shark	6.0	unprovoked	1	unmotorised boating	thigh	other: teeth marks	male	27	
+17	5	2012	injured	NSW	"forster, barge wreck"	-32.21666667	152.6	wobbegong	1.8	provoked	1	diving	"arm, hand"	minor lacerations	male	57	1030
+27	5	2012	uninjured	NSW	"redhead beach, newcastle"	-33	151.7	white shark	2.0	unprovoked	1	unmotorised boating	other: uninjured		male	30	1430
+12	6	2012	injured	VIC	port campbell	-38.61666667	142.9833333	white shark	1.5	unprovoked	1	boarding	leg	minor lacerations	male	42	
+22	6	2012	injured	TAS	south west national park	-43.51666667	146.2333333	white shark	5.3	unprovoked	1	boarding	leg	abrasion	male		0915
+20	6	2012	uninjured	WA	"pinnaroo point, kallaroo, perth"	-31.78333333	115.7166667	white shark	3.5	unprovoked	1	unmotorised boating	other: uninjured		male	61	0705
+31	7	2012	injured	SA	"streaky bay, black beach"	-32.76666667	134.2	white shark		unprovoked	1	boarding	"arm, shoulder"	major lacerations	male	47	
+14	7	2012	fatal	WA	"wedge island, north of perth"	-30.83333333	115.2666667	white shark	3.6	unprovoked	1	boarding	other: body not recovered		male	24	0900
+28	8	2012	injured	WA	"red bluff, north of carnarvon"	-24.38333333	113.3833333	tiger shark	3.5	unprovoked	1	boarding	torso	major lacerations	male	34	1525
+3	10	2012	uninjured	WA	"mullaloo beach, perth"	-31.76666667	115.7166667	white shark	1.3	unprovoked	1	boarding	other: uninjured		male	11	1230
+28	12	2012	injured	NSW	"kylie's beach, diamond head"	-31.73333333	152.7833333	bull shark	3.0	unprovoked	1	boarding	thigh	major lacerations	male	29	1045
+2	12	2012	injured	NSW	"south west rocks, fish rock"	-30.86666667	153.0333333	grey nurse shark		provoked	1	spearfishing	leg	minor lacerations	male	31	1630
+30	12	2012	uninjured	NSW	"dee why beach, sydney"	-33.75	151.3	white shark	2.5	unprovoked	1	boarding	other: uninjured		male		1245
+5	1	2013	injured	WA	"cape legendre, cape legendre island"	-20.35	116.8166667	whaler shark		provoked	1	spearfishing	leg	minor lacerations	male		1000
+25	1	2013	injured	QLD	noosa heads	-26.36666667	153.0833333	tiger shark		unprovoked	1	boarding	"torso, shoulder"	minor lacerations	male		
+10	3	2013	injured	WA	"geraldton, african reef"	-28.8	114.6	bronze whaler shark	2.5	provoked	1	spearfishing	"arm, hand"	minor lacerations	male	28	0900
+22	4	2013	injured	NSW	"yamba, spooky beach, angourie"	-29.46666667	153.35	wobbegong		provoked	1	swimming	leg	other: teeth marks	female		
+24	5	2013	uninjured	WA	"secret harbour, perth"	-32.4	115.7333333	white shark		unprovoked	1	boarding	other: uninjured		male		1700
+29	5	2013	injured	NSW	"byron bay, wategos beach"	-28.63333333	153.6	wobbegong	1.0	provoked	1	swimming	foot	other: teeth marks	male	65	0610
+6	6	2013	uninjured	NSW	"target beach, jarvis bay"	-35.06666667	150.7833333	white shark	1.8	unprovoked	1	boarding	other: uninjured		male		1600
+1	7	2013	injured	VIC	flinders	-38.46666667	145.0166667	white shark	1.7	unprovoked	1	swimming	"arm, hand"	minor lacerations	male	29	0530
+24	10	2013	injured	NSW	narrabeen beach (south)	-33.71666667	151.3	wobbegong		provoked	1	boarding	foot	minor lacerations	male		1815
+28	10	2013	injured	WA	"exmouth, turquoise bay"	-21.95	114.1166667	grey reef shark		unprovoked	1	snorkelling	arm	minor lacerations	female		
+8	10	2013	injured	WA	"poison creek beach, israelite bay"	-33.95	123.9166667	white shark	5.0	provoked	1	diving	"head, shoulder"	major lacerations	male	55	1030
+30	11	2013	fatal	NSW	"coffs harbour, campbell's beach"	-30.26666667	153.1333333	tiger shark	3.0	unprovoked	1	boarding	leg	major lacerations	male	19	1230
+23	11	2013	fatal	WA	"gracetown, umbies break"	-33.85	114.9666667	white shark	3.0	unprovoked	1	boarding	"arm, torso, leg"	major lacerations	male	35	0900
+14	12	2013	injured	QLD	gold coast	-28.1	153.4666667	wobbegong	1.5	unprovoked	1	diving	leg	surface wound	female	33	1230
+5	12	2013	injured	NSW	"port macquarie, shelley beach"	-31.45	152.9166667	wobbegong	1.7	unprovoked	1	boarding	leg	minor lacerations	male	26	1815
+8	2	2014	fatal	SA	"goldsmith beach, yorke peninsula"	-35.13333333	137.7	white shark		provoked	1	spearfishing	other: body not recovered		male	28	1200
+18	2	2014	uninjured	WA	rottnest island	-32	115.55	white shark	4.0	provoked	1	spearfishing	other: uninjured		male	70	1345
+18	3	2014	uninjured	VIC	"winkipop, bell's beach"	-38.36666667	144.2666667	white shark	1.4	unprovoked	1	boarding	other: uninjured		male	42	
+12	3	2014	injured	NSW	"port macquarie, lighthouse beach"	-31.46666667	152.9166667	wobbegong	1.8	provoked	1	swimming	foot	minor lacerations	male	40	1800
+3	4	2014	fatal	NSW	tathra	-36.71666667	149.9833333	white shark	3.5	unprovoked	1	swimming	other: body not recovered		female	63	0820
+24	4	2014	injured	WA	"coral bay, south passage"	-23.13333333	113.75	whaler shark		provoked	1	spearfishing	"arm, hand"	minor lacerations	male		1500
+14	5	2014	uninjured	SA	elliston bar	-33.63333333	134.8666667	white shark	4.6	unprovoked	1	boarding	other: uninjured		male	35	0930
+25	5	2014	injured	QLD	"chevron island, narang river"	-27.98333333	153.4166667	bull shark	1.3	unprovoked	1	swimming	thigh	major lacerations	female	29	2130
+9	6	2014	injured	SA	"parsons beach, fleurieu peninsula"	-35.63087083	138.4666667	white shark	1.5	unprovoked	1	boarding	torso	minor lacerations	male	39	0945
+1	6	2014	injured	NSW	"seven mile beach, nowra"	-34.83333333	150.75	wobbegong		provoked	1	boarding	foot	minor lacerations	male		0700
+19	6	2014	injured	SA	middleton beach	-35.5	138.7166667	white shark	2.8	unprovoked	1	boarding	leg	minor lacerations	male	15	1700
+19	6	2014	Injured	SA	middleton beach	-35.5	138.7166667	white shark	2.8	unprovoked	1	boarding		minor lacerations	male		1700
+16	8	2014	injured	WA	gnaraloo station	-23.78333333	113.5	whaler shark		provoked	1	spearfishing	head	major lacerations	male	31	
+9	9	2014	fatal	NSW	"byron bay, clarkes beach"	-28.63333333	153.6	white shark	3.7	unprovoked	1	snorkelling	thigh	major lacerations	male	50	1030
+26	9	2014	injured	NSW	" port macquarie, town beach"	-31.41666667	152.9166667	wobbegong		unprovoked	1	swimming	"arm, hand"	minor lacerations	female	13	
+17	10	2014	injured	NSW	avoca beach	-33.45	151.4333333	wobbegong	1.0	provoked	1	boarding	foot	minor lacerations	female	13	0630
+29	10	2014	injured	NSW	"wallabi point, old bar"	-31.98333333	152.5666667	wobbegong		provoked	1	boarding	foot	minor lacerations	male	20	1800
+2	10	2014	injured	WA	"wylie bay, esperance"	-33.83333333	121.9166667	white shark	3.5	unprovoked	1	boarding	"arm, leg"	major lacerations	male	23	1100
+10	11	2014	injured	NSW	moonee bay	-30.2	159.15	wobbegong		provoked	1	swimming	foot	punctures	male		0630
+10	11	2014	injured	NSW	"casey's beach, bateman's bay"	-35.73333333	150.2	wobbegong	1.0	provoked	1	snorkelling	thigh	other: teeth marks	male		
+29	11	2014	injured	NSW	"dee why beach, sydney"	-33.75	151.3	wobbegong	1.0	unprovoked	1	swimming	"thigh, right"	minor punctures	female		0530
+29	11	2014	injured	WA	"pyramind's beach, dawesville"	-32.6	115.6166667	bronze whaler shark	2.3	unprovoked	1	boarding	leg	other: teeth marks	male	13	0625
+29	12	2014	injured	NSW	booderee national park	-35.1338	150.686	unknown		unprovoked	1	boarding	"leg, ankle"	minor lacerations	male		0715
+29	12	2014	fatal	WA	"cheynes beach, albany"	-34.88003124	118.404958	white shark	5.0	provoked	1	spearfishing	leg	major lacerations	male	17	1220
+15	12	2014	fatal	QLD	"rudder reef, port douglas"	-16.2	145.75	tiger shark	3.3	provoked	1	spearfishing	"arm, leg"	major lacerations	male	18	1100
+19	1	2015	uninjured	NSW	"byron bay, wategos beach"	-28.63333333	153.6166667	white shark		unprovoked	1	boarding	other: uninjured		female		
+5	1	2015	injured	NSW	"port stephens, piggies beach"	-32.68333333	152.0333333	wobbegong		provoked	1	other: standing in water	foot	minor lacerations	male		1700
+30	1	2015	uninjured	QLD	"nerang river, surfers paradise"	-27.63333333	153.45	bull shark	1.3	unprovoked	1	unmotorised boating	other: uninjured		male	57	0500
+24	1	2015	uninjured	NSW	"ballina, flat rock"	-28.83333333	153.6	white shark		unprovoked	1	boarding	other: uninjured		male	36	1100
+16	1	2015	injured	NSW	mollymook	-35.33333333	150.4666667	bronze whaler shark	2.5	provoked	1	spearfishing	hand	minor lacerations	male	17	
+8	2	2015	injured	NSW	"ballina, seven mile beach"	-28.88333333	153.5666667	white shark		unprovoked	1	boarding	"torso, pelvic region"	major lacerations	male	35	0600
+9	2	2015	fatal	NSW	"ballina, shelly beach"	-28.85	153.5833333	white shark	3.5	unprovoked	1	boarding	leg	major lacerations	male	41	
+6	2	2015	injured	NSW	"merewether beach, newcastle"	-32.95	151.75	wobbegong		unprovoked	1	swimming	leg	minor lacerations	male		
+24	3	2015	injured	NSW	"lord howe island, ned's beach"	-31.51666667	159.05	galapagos shark	1.3	provoked	1	swimming	leg	minor lacerations	female	43	1200
+9	4	2015	injured	NSW	"lord howe island, ned's beach"	-31.51666667	159.05	galapagos shark	1.5	provoked	1	swimming	leg	minor lacerations	male	8	1630
+11	4	2015	injured	NSW	"mackenzies beach, bateman's bay"	-35.8	150.2166667	wobbegong		provoked	1	boarding	foot	minor lacerations	male		0630
+25	4	2015	injured	SA	fishery bay nr port lincoln	-34.86666667	135.7666667	white shark	6.0	unprovoked	1	boarding	leg	major lacerations	male	26	0945
+3	5	2015	injured	NSW	"saltwater point, nr taree"	-32.01666667	152.5333333	white shark		unprovoked	1	boarding	"arm, hand"	major lacerations	male	46	1430
+24	6	2015	injured	WA	"ocean beach, demark"	-35.01666667	117.3333333	white shark		unprovoked	1	boarding	"head, hand"	surface wound	female	37	0930
+26	6	2015	injured	WA	"rottnest island, natural jetty"	-31.98333333	115.5333333	wobbegong	1.0	provoked	1	swimming	arm	minor lacerations	male	19	
+24	6	2015	uninjured	NSW	"byron bay, belongi beach"	-28.63333333	153.6	white shark	3.0	unprovoked	1	boarding	other: uninjured		male	71	1115
+1	6	2015	injured	NSW	"mill point, south durras"	-35.65	150.2833333	tiger shark	3.0	provoked	1	spearfishing	foot	minor lacerations	male	21	1700
+21	7	2015	uninjured	QLD	burleigh heads	-28.1	153.465	white shark	2.0	unprovoked	1	boarding	other: uninjured		male		1000
+25	7	2015	fatal	TAS	maria island	-42.63333333	147.9833333	white shark	4.3	provoked	1	diving	"torso, pelvic region"	major lacerations	male	47	0800
+24	7	2015	uninjured	TAS	maria island	-42.63333333	147.9833333	white shark	4.3	provoked	1	diving	other: uninjured		male		0800
+31	7	2015	injured	NSW	"evans head, main beach"	-29.1	153.4333333	white shark	3.0	unprovoked	1	boarding	"leg, hand"	major lacerations	male	51	0600
+3	7	2015	uninjured	NSW	lennox head	-28.78333333	153.5833333	white shark		unprovoked	1	boarding	other: uninjured		male	51	0900
+1	7	2015	injured	NSW	"yamba, flat rock, pippi beach"	-29.43333333	153.3666667	white shark		unprovoked	1	boarding	"arm, hand"	major lacerations	male		
+23	7	2015	injured	VIC	tyrendarra beach	-38.25	141.7833333	white shark	1.8	unprovoked	1	boarding	"arm, hand"	minor lacerations	male	40	
+2	7	2015	injured	NSW	"ballina, lighthouse beach"	-28.86666667	153.5833333	white shark	3.5	unprovoked	1	boarding	leg	major lacerations	male	32	1015
+22	8	2015	injured	NSW	"port macquarie, lighthouse beach"	-31.46666667	152.9166667	white shark	2.7	unprovoked	1	boarding	thigh	major lacerations	male	38	1700
+16	8	2015	uninjured	QLD	"davies reef, off townsville"	-18.83333333	147.6333333	tiger shark		unprovoked	1	boarding	other: uninjured		female		
+8	9	2015	injured	NSW	"north shelly beach, gosford"	-33.05	152.5333333		2.0	provoked	1	boarding	"arm, hand"	minor lacerations	male	42	0615
+4	9	2015	injured	NSW	black head beach	-32.06666667	152.5333333	white shark	2.5	unprovoked	1	boarding	foot	major lacerations	male	65	1200
+26	9	2015	injured	QLD	"russell island, frankland islands, gbr"	-17.21666667	146.0833333		0.9	unprovoked	1	snorkelling	leg	major lacerations	female	7	
+30	10	2015	injured	WA	"cheynes beach, albany, wa"	-34.88003124	118.404958	white shark		provoked	1	spearfishing	"arm, torso, hand, shoulder "	minor lacerations	male	50	1130
+7	10	2015	injured	WA	"pyramids beach, mandurah"	-32.6	115.6166667	grey nurse shark		unprovoked	1	boarding	foot	minor lacerations	male	18	1650
+10	11	2015	injured	NSW	"ballina, north wall"	-28.86666667	153.5833333	bull shark	3.0	unprovoked	1	boarding	thigh	major lacerations	male		1815
+9	1	2016	injured	QLD	caloundra	-26.8	153.1333333	wobbegong	1.2	provoked	1	boarding	foot	major lacerations	male		
+5	1	2016	injured	QLD	heron island	-23.43333333	151.9	blacktip reef shark		unprovoked	1	swimming	calf	major lacerations	male	11	
+2	1	2016	injured	QLD	"miall island, yeppoon"	-23.15	150.9	tiger shark	3.0	provoked	1	spearfishing	"arm, leg"	major lacerations	male	31	1200
+4	2	2016	uninjured	NSW	hams beach (part of caves beach)	-34	151.65	white shark	2.6	unprovoked	1	boarding	other: uninjured		male		
+21	2	2016	injured	NSW	barrenjoey	-23.56666667	151.3166667	wobbegong		provoked	1	spearfishing	arm	minor lacerations	male		
+11	2	2016	uninjured	TAS	"nettley bay, marrawah"	-40.91666667	144.6166667	white shark		unprovoked	1	boarding	other: uninjured		male		1230
+11	3	2016	uninjured	NSW	cresent head	-31.18333333	152.9666667	white shark		unprovoked	1	boarding			male		
+2	3	2016	injured	SA	wrights bay beach	-37.03333333	139.7333333	bronze whaler shark		provoked	1	fishing		minor lacerations	male		2330
+28	3	2016	uninjured	NSW	"cronulla beach, sydney"	-34.03333333	151.15	white shark		unprovoked	1	boarding	other: uninjured		male		1100
+30	3	2016	injured	NSW	"bombo beach, kiama"	-34.65	150.85	white shark		unprovoked	1	boarding	leg	major lacerations	male	22	1900
+20	4	2016	injured	NSW	"main beach, byron bay"	-28.63333333	153.6	wobbegong	0.8	provoked	1	swimming	foot	minor lacerations	male	12	1030
+31	5	2016	fatal	WA	"gearies beach, mandurah"	-32.58333333	115.6333333	white shark		unprovoked	1	boarding	leg	major lacerations	male	29	
+31	5	2016	uninjured	NSW	kingscliff 	-28.25276667	153.5921833	bronze whaler shark	2.5	provoked	2	spearfishing	other: uninjured		male		1730
+5	6	2016	fatal	WA	"one mile reef, mindarie"	-31.66666667	115.6666667	white shark	5.0	unprovoked	1	diving		major lacerations	female	60	
+15	6	2016	injured	WA	coral bay coast	-23.02411667	113.1294	grey reef shark	1.8	provoked	1	spearfishing	other: uninjured		male	19	
+26	6	2016	uninjured	NSW	minnamurra	-34.6215	150.8568	unknown		unprovoked	1	boarding	other: uninjured		male		1643
+31	6	2016	uninjured	NSW	kingscliff	-28.2646	153.5777	bronze whaler shark		provoked	1	spearfishing	other: uninjured		male	23	1630
+19	7	2016	uninjured	NSW	"big rocky, port stephens"	-32.717	152.1049	unknown		provoked	1	spearfishing	other: uninjured		male		morning
+26	7	2016	uninjured	NSW	"sharpes beach, ballina"	-28.8377	153.6044	white shark	3.0	unprovoked	1	boarding	other: uninjured		male	18	1200
+29	7	2016	uninjured	NSW	cauarina beach	-28.3037	153.5742	white shark	3.0	unprovoked	1	boarding	other: uninjured		male		740
+16	9	2016	uninjured	VIC	"bells beach, winkipop reef"	-38.06115	144.04745	white shark 		unprovoked	1	boarding			male		
+26	9	2016	injured	NSW	"lighthouse beach, ballina"	-28.86666667	153.5833333	white shark	3.5	unprovoked	1	boarding	leg	minor lacerations	male		
+5	9	2016	uninjured	WA	"injidup beach, yallingup"	-33.11656667	114.1649	white shark		unprovoked	1	boarding	other: uninjured		male		
+15	10	2016	injured	QLD	"kings beach, sunshine coast"	-27.335	153.235	white shark	4.0	unprovoked	1	boarding	"leg, torso"	minor lacerations	male		1800
+12	10	2016	injured	NSW	"sharpes beach, ballina"	-28.83333333	153.6	white shark	3.5	unprovoked	1	boarding	leg	minor lacerations	male	20	1030
+24	10	2016	injured	NSW	"tallows beach, byron bay"	-33.08945	151.0587667	white shark	2.9	unprovoked	1	boarding	leg	minor lacerations	male	36	
+4	10	2016	injured	QLD	"whitehaven beach, whitsunday island"	-20.23333333	148.95	lemon shark	1.0	provoked	1	swimming	arm	minor lacerations	male	10	
+1	12	2016	injured	NSW	"the ruin, booti booti national park"	-32.30595	152.52275	white shark	4.0	unprovoked	1	boarding	"arm, foot"	major lacerations	male	65	0900
+10	12	2016	uninjured	QLD	lockhart river	-12.45183333	143.3444167	bull shark		provoked		spearfishing	other: uninjured		male	35	
+24	12	2016	injured	WA	"bundegi sanctuary zone, exmouth"	-21.15741667	114.0218833	whaler shark		unprovoked		snorkelling	"torso, pelvic region"	minor lacerations	female		
+15	12	2016	injured	WA	trigg beach	-31.14531667	115.1265			unprovoked		snorkelling	foot	minor lacerations	male	61	
+21	1	2017	injured	QLD	"murry island, torres strait, (80km east)"	-9.863916667	144.7908167	whaler shark	4.0	unprovoked		snorkelling	"hand, arm, torso"	major lacerations	male	55	
+3	1	2017	injured	NSW	merrimbula main beach	-36.88666667	149.9131833	wobbegong		provoked		swimming	foot	minor lacerations	male	19	
+13	1	2017	injured	QLD	flaggy rock	-21.96676667	149.4843833			unprovoked	1	swimming	hand	minor lacerations	male	57	1330
+8	1	2017	uninjured	QLD	northern tip of cape york (unknown location)	-10.65406667	142.5072333	whaler shark	2.8	provoked	1	spearfishing	other: uninjured		male		
+24	2	2017	uninjured	WA	"falcon bay, mandurah"	-32.567	115.65			unprovoked	1	boarding			male		0730
+18	2	2017	injured	QLD	hinchinbrook island	-18.24948333	146.1839333	tiger shark		unprovoked		snorkelling	leg	major lacerations	male	25	
+25	2	2017	injured	WA	mauds point coral bay	-23.2411667	113.1294	bull shark		unprovoked	1	snorkelling	hand	minor lacerations	female		
+19	3	2017	injured	NSW	"the farm, killalea state park"	-34.60465	150.8677833			unprovoked	1	boarding	"torso, pelvic region"	minor lacerations	male	30	1830
+2	4	2017	uninjured	QLD	moreton bay off redcliff	-27.05206667	153.05745			unprovoked	1	unmotorised boating	other: uninjured		male		1500
+2	4	2017	injured	NSW	"one mile beach, port stephens"	-32.7667	152.1127	grey nurse shark		provoked	1	boarding	left foot	minor lacerations	male	46	1700
+17	4	2017	fatal	WA	"the kelp beds, wylie bay, esperance"	-33.83250092	121.9968696	white shark		unprovoked	1	boarding	leg	major lacerations	female	17	1600
+4	6	2017	uninjured	NSW	avoca beach	-33.0775	151.0725	white shark	2.5	unprovoked	1	boarding	other: uninjured		male		1700
+11	6	2017	uninjured	WA	"casuarina point, bunbury"	-33.3146	115.635	white shark	4.0	unprovoked	1	boarding					
+29	8	2017	injured	VIC	"cathedral point, lorne"	-38.5367	143.9715	white shark	3.0	unprovoked	1	boarding	pelvic region	minor lacerations	male		
+10	9	2017	injured	NSW	main beach illuka	-29.59387	153.3322	white shark		unprovoked		boarding					
+25	9	2017	uninjured	WA	"north point beach, gracetown"	-33.8585	114.9843	white shark	3.5	unprovoked	1	boarding			female		
+10	9	2017	injured	WA	"sams creek, karratha"	-20.61367	117.1863	whaler shark	1.0	unprovoked	1	swimming	leg		male		1500
+22	10	2017	uninjured	SA	"lady bay, normanville, adelaide"	-35.448	138.318	white shark	4.0	unprovoked	1	unmotorised boating			female		
+28	10	2017	injured	NSW	"birubi beach, port stephens"	-32.798333	152.079167	wobbegong		provoked	1	boarding	foot	minor lacerations	male	31	0900
+13	11	2017	injured	NSW	avoca beach	-33.465	151.435	white shark	2.6	unprovoked	1	boarding	arm	minor lacerations	male	25	1600
+11	12	2017	uninjured	NSW	"birubi, port stephens"	-32.7876	152.08002	grey nurse shark	1.2	unprovoked	1	boarding			male		540
+28	1	2018	injured	WA	"cone bay, kimberley"	-16.4683	123.5353	bull shark		provoked	1	swimming			male		
+13	1	2018	injured	NSW	"five islands, wollongong"	-34.425072	150.893143	white shark	3.5	unprovoked	1	snorkelling		surface wound	female	28	0900
+5	1	2018	injured	WA	gracetown	-33.8416	115.0221	wobbegong		unprovoked		boarding	foot	minor lacerations	male		1800
+14	1	2018	injured	QLD	lizard island	-14.668	145.4638	grey reef shark	2.0	provoked	1	snorkelling		major lacerations	male		
+1	2	2018	uninjured	WA	"avalon point, mandurah"	-32.5361	115.7424	whaler shark		provoked	1	spearfishing			male	14	
+15	2	2018	injured	NSW	"kiama surf beach, kiama"	-34.67	150.84	whaler shark	2.0	unprovoked	1	other: standing in water	"leg, foot"	minor lacerations	male	35	1620
+5	2	2018	injured	WA	"mullaoo beach, joondalup"	-31.7789	115.7326	wobbegong	0.4	unprovoked	1	swimming	calf	minor lacerations	female	17	
+15	2	2018	injured	WA	"rocky point, eagle bay"	-33.5638	115.0629	wobbegong		provoked		snorkelling	leg	minor lacerations	male		
+23	2	2018	injured	NSW	"congwong beach, botany bay"	-33.993	151.1753	white shark	3.0	unprovoked	1	swimming	leg	major lacerations	female	55	1900
+4	3	2018	uninjured	WA	hamelin bay	-34.2256	115.0609	tiger shark	2.0	provoked	1	snorkelling	other: uninjured		male		
+9	3	2018	injured	VIC	"winkipop, bell's beach"	-38.37	144.28	bronze whaler shark	2.0	unprovoked	1	boarding	foot	minor lacerations	male	18	
+16	4	2018	injured	WA	"lefthanders, gracetown"	-33.8416	115.0221	white shark	3.0	unprovoked	1	boarding	thigh	minor lacerations	male	41	1440
+16	4	2018	injured	WA	"cobblestones beach, gracetown"	-33.8416	115.0221	white shark	4.0	unprovoked	1	boarding	calf	major lacerations	male	37	
+25	4	2018	uninjured	WA	"main break, prevelly"	-33.9825	114.9922	white shark	3.0	unprovoked	1	boarding	other: uninjured		male	60	0930
+11	5	2018	uninjured	WA	"lefthanders, gracetown"	-33.8416	115.0221	white shark	4.0	unprovoked	1	boarding	other: uninjured		female		1130
+8	6	2018	injured	NSW	"arrawarra beach, coffs harbour"	-30.296	153.11	wobbegong		unprovoked	1	boarding	"calf, foot"	minor lacerations	male	19	
+3	6	2018	uninjured	NSW	"flat rock, ballina"	-28.84	153.601	white shark		unprovoked	1	boarding	other: uninjured		male	37	
+19	9	2018	injured	QLD	"cid harbour, whitsundays"	-20.25	148.9333	tiger shark		unprovoked	1	swimming		major lacerations	female		
+20	9	2018	injured	QLD	"cid harbour, whitsundays"	-20.25	148.9333	tiger shark		unprovoked	1	swimming		major lacerations	female		
+28	9	2018	injured	NT	"groote eylandt, arnhem land (east)"	-13.97	136.5933	bull shark		unprovoked	1				male	17	
+20	10	2018	injured	NSW	"samurai beach, nsw"	-32.7667	152.0833	wobbegong		provoked	1	swimming			male		
+5	11	2018	fatal	QLD	"cid harbour, whitsundays"	-20.25	148.9333			unprovoked	1	boarding	"leg, arm"		male		
+28	11	2018	injured	NSW	"shelley beach, manly"	-33.37	151.4859	wobbegong		unprovoked	1	boarding	foot	punctures	male	28	1640
+6	11	2018	injured	NSW	"shelly beach, ballina"	-28.8632	153.5944	white shark	2.6	unprovoked	1	boarding	thigh	minor lacerations	male	43	0645
+15	11	2018	uninjured	QLD	"moffat beach, sunshine coast"	-26.791	153.139	tiger shark		unprovoked	1						
+17	11	2018	injured	NSW	"seven mile beach, nowra"	-34.830278	150.7561	wobbegong		unprovoked	1	boarding	"leg, hand"	minor lacerations	male	24	1300
+18	11	2018	injured	NT	nhulunbuy	-12.1825	136.7819	whaler shark		provoked	1	spearfishing	"arm, leg"	major lacerations	male	17	1000
+11	11	2018	injured	WA	"pyramids beach, mandurah"	-32.6036	115.6304	grey nurse shark		unprovoked	1	boarding	foot	minor lacerations	male	20	0900
+9	12	2018	injured	NSW	"the bar, nambucca river entrance"	-30.643181	153.008839			unprovoked							
+15	12	2018	injured	NSW	"the entrance, gosford"	-33.425018	151.342224	wobbeogong	1.0	provoked	1.00	swimming	left foot	minor lacerations	male	68	1100
+14	1	2019	injured	WA	north cottesloe	-31.989	115.7526	wobbegong		unprovoked	1	swimming	foot	minor lacerations	female	15	1130
+	2	2019	uninjured	WA		-33.6702 Ê	114.9951	white shark		provoked	1	spearfishing			male	27	
+4	2	2019	uninjured	NSW		-30.452	152.8979			unprovoked	1	boarding			male	50	615
+11	2	2019	injured	NT	umbakumba - 12 km out to sea	-13.8611	136.8116	whitetip reef shark		provoked	1						
+17	2	2019	injured	NSW	"belongil beach, byron bay"	-28.6337	153.6003	white shark		unprovoked	1	boarding	leg	major lacerations	male	41	0640
+25	3	2019	injured	QLD	"block reef, whitsundays"	-18.156	147.48	grey reef shark		unprovoked	1	snorkelling	"thigh, pelvic region"	major lacerations	male	25	1230
+20	4	2019	injured	NSW	tomaree	-32.7501	152.1459	grey nurse shark		provoked	1	spearfishing	arm	minor lacerations	male	18	1400
+14	5	2019	injured	QLD	yandaran	-24.7293	152.101			unprovoked	1	swimming	"calf, foot"	minor lacerations	male	53	1620
+7	6	2019	uninjured	TAS		-43.6523	146.277	white shark		provoked	1	diving			male		
+5	6	2019	injured	NSW	lennox point	-28.7999	153.58	whaler shark		unprovoked	1						
+28	7	2019	injured	QLD	"cape grenville, far north queensland"	-11.9667	143.2333	tiger shark		provoked	2	snorkelling	leg	major lacerations	female	21	1830
+2	7	2019	injured	NSW	"shelly beach, manly"	-33.8005	151.2979	grey nurse shark		unprovoked	1	swimming	"leg, torso"	major lacerations	male	54	0530
+9	7	2019	injured	QLD	"bells creek, sunshine coast"	-26.7994	153.0611	bull shark	1.0	unprovoked	1	boarding	arm	minor lacerations	male	43	0700
+18	7	2019	injured	NSW	"wooyung beach, far north coast"	Ê-28.45602Ê	153.54457	bull shark	3.0	unprovoked	1	surfing	"leg, thigh"	major lacerations	male		
+2	9	2019	injured	NSW	surf beach kiama	-34.6817	150.8511			unprovoked							
+7	9	2019	uninjured	WA	"burns beach, perth"	-31.7247	115.7249	white shark	4.5	provoked	1	spearfishing			male		
+29	10	2019	injured	QLD	"hook passage, whitsundays"	-21.957	148.1893					snorkelling			male		
+29	10	2019	injured	QLD	"hook passage, whitsundays"	-20.3441	148.1893			unprovoked		snorkelling			male		
+5	10	2019	uninjured	NSW	"lighthouse beach, seal rocks"	-32.4436	152.5279	white shark	2.5	unprovoked	1	boarding			male	29	
+17	10	2019	uninjured	QLD	"woorim, bribie island, queensland"	-27.0609	153.2006				1	boarding			male	17	
+30	11	2019	injured	QLD	"bargara, bundaberg"	-24.8312	152.4592			unprovoked		snorkelling	foot	minor lacerations	male	30	1900
+7	12	2019	injured	WA	exmouth boat harbour	-20.3441	114.143										
+17	12	2019	injured	NSW	"killalea beach, shellharbour"	-34.6038	150.8676	wobbegong		unprovoked	1	boarding	foot	minor lacerations	male	42	1900
+30	12	2019	injured	QLD	north west island	-23.3	151.71	lemon shark			1	swimming			male		
+5	1	2020	fatal	WA	"cull island, esperance"	-33.9222	121.9032	white shark		unprovoked		diving					
+1	1	2020	uninjured	NSW	"gallows beach, coffs harbour"	-30.3119	153.1427	bull shark		unprovoked		boarding					
+19	1	2020	uninjured	WA	"geordie bay, rottnest island"	-31.9908	115.5215	white shark		provoked	1	snorkelling			male		1415
+8	1	2020	injured	QLD	"north west island, gladstone, qld"	-23.2951	151.7079	lemon shark		unprovoked		swimming					
+17	1	2020	injured	NSW	"windang beach, wollongong, nsw"	-34.5343	150.8746			unprovoked	1	boarding	foot	minor lacerations	male	60	800
+6	2	2020	injured	QLD	"lizard island, research station"	-14.6787	145.4483	lemon shark		unprovoked	1	swimming	"head, torso"	minor lacerations	female	64	700
+21	4	2020	injured	NSW	"killick creek, crescent head"	-31.19	152.98	wobbegong		unprovoked	1	swimming	foot	minor lacerations	female	55	800
+7	4	2020	fatal	QLD	north west island	-23.2951	151.7079			unprovoked	1	swimming	"arm, leg, torso"		male	23	
+19	4	2020	uninjured	WA	"steps surf break, lighthouse bay, exmouth"	-21.93	114.117778	bull shark		unprovoked	1	boarding			male	10	1500
+6	4	2020	uninjured	NSW	"surf beach, kiama"	-34.6817	150.8511	bull shark		unprovoked	1	boarding			male	21	
+8	5	2020	injured	VIC	bells beach	-38.3669	144.2847	whaler shark		unprovoked	1	boarding	leg	minor lacerations	male	23	
+7	6	2020	fatal	NSW	"casuarina beach, kingscliff "	-28.2778	153.5774	white shark		unprovoked	1	boarding	thigh		male	60	1000
+6	6	2020	injured	WA	"tantabiddi beach, ningaloo"	-22.6799	113.698			unprovoked	1	boarding			female		1030
+13	6	2020	uninjured	NSW	macmasters beach	-33.49762	151.420378	white shark	3	unprovoked	1	boarding					
+14	6	2020	uninjured	NSW	"bulli, illawarra"	-34.33834	150.91347	bronze whaler shark	2.5	provoked	1	spearfishing			female	16	
+14	6	2020	uninjured	NSW	"bulli, illawarra"	-34.33834	150.91347	bronze whaler shark	2.5	provoked	1	spearfishing			male	13	
+14	6	2020	uninjured	NSW	"bulli, illawarra"	-34.33834	150.91347	bronze whaler shark	2.5	provoked	1	spearfishing			male	13	
+31	7	2020	injured	WA	bunker bay	-33.5427	115.0392	white shark		unprovoked	1						
+14	7	2020	injured	QLD	"fitzroy island, cairns"	-16.9337	145.9943	whaler shark		unprovoked	1	swimming	"leg, foot"	major lacerations	female	29	1100
+4	7	2020	fatal	QLD	"fraser island, sunshine coast"	-25.2398	153.1325	whaler shark		provoked	1	snorkelling	"leg, foot"		male	36	1400
+17	7	2020	injured	TAS	"stanley, north west coast"	-40.7667	145.3	white shark		provoked	1	fishing	"arm, torso, head"	major lacerations	male	10	
+8	7	2020	uninjured	NSW	"terrigal, central coast"	-33.44815Ê	151.44666	dusky shark		unprovoked	1	swimming			female	55	1915
+11	7	2020	fatal	NSW	"wooli beach, wilsons headland, mid north coast"	-29.853	153.2715	white shark		unprovoked	1	boarding		major lacerations	male	15	1430
+15	8	2020	injured	NSW	"shelly beach, port macquarie"	-31.4333	152.9	white shark		unprovoked	1	boarding	leg	major lacerations	female	35	930
+8	9	2020	fatal	QLD	"greenmount beach, gold coast"	-28.164	153.5476	white shark		unprovoked							
+17	9	2020	uninjured	NSW	cabarita beach 	-28.33362	153.569698	white shark	3.5	provoked	1	boarding			male	43	1630
+21	9	2020	uninjured	NSW	"birubi, port stephens"	-32.7876Ê	152.08002	whaler shark	2	unprovoked	1	standing	leg	minor lacerations	male	46	550
+21	9	2020	injured	NSW	"birubi, port stephens"	-32.7876Ê	153.08002	wobbegong	2	unprovoked	1	boarding	leg	minor lacerations	male		1730
+20	10	2020	injured	NSW	"magic point, maroubra"	-33.950	151.267	white shark	4	unprovoked	1	scuba diving	leg	minor lacerations	male	45	1430
+21	10	2020	uninjured	NSW	"queenscliff, north steyne"	-38.26789	144.66193	whaler shark	1	unprovoked	1	boarding			male	28	1920
+25	10	2020	injured	QLD	"britomart reef, hinchinbrook island"	-18.25	146.666944	bull shark		provoked	1	spearfishing	leg	major lacerations	male	59	1200
+9	10	2020	fatal	WA	"kelps beds, esperance "	-34.8611	121.8919	white shark		unprovoked	1	boarding			male		
+22	11	2020	fatal	WA	"cable beach, broome"	-17.9319	122.2081	bull shark		unprovoked	1	boarding			male	50	845
+26	11	2020	uninjured	QLD	"magpie reef, princess charlotte bay, cape york"	-13.7333	143.8667	hammerhead shark		provoked	1	fishing			male		
+2	11	2020	injured	NSW	"town beach, port macquarie"	-31.4295	152.9193	wobbegong		unprovoked	1	boarding	"hand, foot"	minor lacerations	male	13	600
+9	12	2020	injured	WA	"cable beach, broome"	-17.9319	122.2081	bull shark		unprovoked	1	boarding			male		700
+6	12	2020	injured	SA	"d'estrees bay, kangaroo island"	-35.9295	137.5966	white shark		unprovoked	1	boarding			male	29	1420
+23	1	2021	injured	NSW	lake macquarie	-33.0833	151.5833	bull shark		unprovoked	1	swimming			male		1830
+30	1	2021	injured	WA	"melaleuca beach, cowaramup bay, gracetown"	-33.8640	114.9864	wobbegong		unprovoked	1	swimming	foot	minor lacerations	female	46	1030
+14	1	2021	injured	WA	"swan river, point walter reserve, bicton"	-32.0117	115.7866	bull shark		unprovoked	1	swimming		major lacerations	male	50	800
+14	2	2021	injured	WA	lancelin back beach	-31.034	115.3356	wobbegong		unprovoked	1	boarding					
+7	3	2021	uninjured	NSW	"cronulla beach, sydney"	-34.0557	151.1551	wobbegong		unprovoked	1	boarding			male	28	800
+27	3	2021	uninjured	WA	"deepene beach, elephant rock, hamelin bay"	-34.2763	115.052	wobbegong	1	provoked	1	spearfishing			male		
+13	3	2021	injured	NSW	merimbula main beach	-36.8875	149.9059			unprovoked	1	swimming	"torso, pelvic region"	major lacerations	female	63	700
+27	3	2021	injured	WA	"sandy point, warroora station, coral bay"	-23.325	113.791	bull shark		provoked	1	spearfishing	calf	minor lacerations	male		1220
+20	3	2021	uninjured	WA	yallingup	-33.6397	115.0263	blacktip reef shark	2	unprovoked	1	boarding			male		1500
+19	4	2021	injured	WA	dampier boat ramp	-20.6564	116.7081	blacktip reef shark	0.8	unprovoked	1	swimming	foot		male	33	1540
+21	5	2021	injured	WA	quondong beach	-17.5804	122.1571	tiger shark 	3	provoked	1	spearfishing	"arm, hand"	minor lacerations	male	48	1120
+18	5	2021	fatal	NSW	tuncurry beach	-32.1521	152.5053	white shark	4.5	unprovoked	1	boarding			male		1100
+11	6	2021	injured	WA	"five fingers reef, coral bay"	-23.1423	113.7723	tiger shark 	2	unprovoked	1	snorkelling	foot		male	10	
+23	6	2021	injured	WA	"gumtree bay, leeman"	-29.9453	114.9824	white shark	4	provoked	1	spearfishing	"calf, foot"	minor lacerations	male	25	1420
+5	7	2021	injured	NSW	killick beach at crescent head	-31.1295	153.0011	white shark		unprovoked	1	boarding	arm		male	25	
+27	7	2021	injured	WA	varanus island	-20.6517	115.5785	lemon shark		provoked	1	motorised boating	"leg, pelvic region"	minor lacerations	male	32	
+5	9	2021	fatal	NSW	emerald beach	-30.1575	153.1502	white shark		unprovoked	1	boarding	arm		male	31	1100
+18	9	2021	injured	NSW	"park beach, coffs harbour"	-30.2860	153.1364	wobbegong		unprovoked	1	boarding	foot	minor lacerations	male	47	
+17	10	2021	injured	QLD	"hook passage, whitsundays"	-20.2665	148.8819			unprovoked	1	swimming	leg	minor lacerations	male		
+11	10	2021	injured	NSW	moonee beach	-30.2042	153.1490	wobbegong		unprovoked	1	boarding	foot	minor lacerations	male	37	600
+6	11	2021	fatal	WA	"port beach, fremantle"	-32.0569	115.7439	white shark		unprovoked		swimming			male	57	
+6	12	2021	injured	VIC	"ocean grove beach, geelong"	-38.2676	144.5067			unprovoked			torso	minor lacerations	male		
+6	12	2021	injured	VIC	"ocean grove beach, geelong"	-38.2676	144.5067			unprovoked		boarding	"leg, hand"	minor lacerations	female	15	
+12	12	2021	injured	QLD	"rocky island, yarrabah, far north queensland"	-16.9062	145.8662	bull shark		provoked	1	spearfishing	leg	major lacerations	male	24	
+4	1	2022	injured	NSW	hyams beach (seamans)	-35.1011	150.6892	whaler shark		unprovoked	1	swimming	"leg, thigh"	minor lacerations	female	42	620
+24	1	2022	injured	NSW	turimetta	-33.7000	151.2999	wobbegong		unprovoked		swimming	foot	minor lacerations	male	11	
+22	1	2022	injured	WA	"whalers beach, albany"	-35.0031	117.8660	wobbegong		unprovoked		snorkelling	"leg, other: multiple bites"	minor lacerations	male		
+16	2	2022	fatal	NSW	"little bay, sydney"	-30.8830	153.0830	white shark	4.5	unprovoked	1	swimming			male	35	1700
+17	2	2022	injured	QLD	"Redcliffe, Brisbane"	-27.2333	153.2667	tiger shark	3.5	unprovoked	1	other:floating	leg	major lacerations			
+6	2	2022	injured	WA	"wylie bay, esperance"	-33.84848Ê	121.9184	white shark	3.3	unprovoked	1	other:floating	torso	major lacerations	female	20	1200
+20	2	2022	injured	NSW	"shelley beach, manly"	-33.8006	151.2982	wobbegong		unprovoked	1	scuba diving					
+22	3	2022	injured	NSW	crowdy head beach	-32	152.7512	wobbegong		unprovoked	1	wading	minor lacerations	male	32	swimwear	
+8	3	2022	uninjured	NSW	"maroubra beach, sydney"	-33.9516	151.2603	unknown		unprovoked		surfing		male	47	swimwear	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
