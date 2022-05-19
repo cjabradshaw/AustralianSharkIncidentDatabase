@@ -32,8 +32,8 @@ The R script in <code><a href="https://github.com/cjabradshaw/AustralianSharkInc
 - <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/scripts/victim.activity.R"><code>victim.activity.R</code></a> calculates the proportional activities occurring during a bite incident across categories (provoked, unprovoked, fatal, non-fatal) 
 - <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/scripts/period.of.day.R"><code>period.of.day.R</code></a> calculates the period of day (dawn, day, dusk, night) in which an incident occurred (correcting for timezone and location).
 <br>
-<br>
-Associated data files (available in the <strong><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/tree/main/data">data</a></strong> subfolder) include:
+Associated data files (available in the <strong><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/tree/main/data">data</a></strong> subfolder) include:<br>
+
 - <em>ASID r version.csv</em>
 - <em>ASID_injury_prop.csv</em>
 - <em>tod.ts.csv</em>
@@ -41,6 +41,7 @@ Associated data files (available in the <strong><a href="https://github.com/cjab
 - <em>top.3.csv</em>
 - <em>top.sharks.csv</em>
 - <em>total.bites.csv</em>
+- <em>activityDat.csv</em>
 - <em>timedb2.txt</em>
 
 ### Requires the following R libraries
