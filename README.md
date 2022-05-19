@@ -31,8 +31,9 @@ The R scripts in the <strong><a href="https://github.com/cjabradshaw/AustralianS
 - <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/scripts/victim.activity.R"><code>victim.activity.R</code></a> calculates the proportional activities occurring during a bite incident across categories (provoked, unprovoked, fatal, non-fatal) 
 - <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/scripts/incident.locations.R"><code>victim.activity.R</code></a> creates latitude/longitude location files for importing into GIS software (plot commands not provided) 
 - <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/scripts/period.of.day.R"><code>period.of.day.R</code></a> calculates the period of day (dawn, day, dusk, night) in which an incident occurred (correcting for timezone and location).
+
+Associated data files (available in the <strong><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/tree/main/data">data</a></strong> subfolder) include:
 <br>
-Associated data files (available in the <strong><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/tree/main/data">data</a></strong> subfolder) include:<br>
 - <em>activityDat.csv</em>
 - <em>locdat2.txt</em>
 - <em>timedb2.txt</em>
