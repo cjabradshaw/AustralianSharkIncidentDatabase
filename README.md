@@ -29,7 +29,7 @@ We describe the <em>Australian Shark-Incident Database</em>, formerly known as t
 The R script in <code><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/18224b63ad4bcc3ae1bb6d90113f844b8e6657e1/Australian%20Shark-Incident%20Database%20code.R">Australian Shark-Incident Database code.R</a></code> recreates plots from the paper.
 <br>
 <br>
-- <code>victim.activity.R<code> calculates the proportional activities occurring during a bite incident across categories (provoked, unprovoked, fatal, non-fatal) 
+- <code>victim.activity.R</code> calculates the proportional activities occurring during a bite incident across categories (provoked, unprovoked, fatal, non-fatal) 
 - <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/period.of.day.R"><code>period.of.day.R</code></a> calculates the period of day (dawn, day, dusk, night) in which an incident occurred (correcting for timezone and location).
 <br>
 <br>
