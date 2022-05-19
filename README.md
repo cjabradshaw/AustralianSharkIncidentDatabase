@@ -28,14 +28,17 @@ We describe the <em>Australian Shark-Incident Database</em>, formerly known as t
 ## Code
 The R scripts in the <strong><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/tree/main/scripts">scripts</a></strong> folder recreate plots from the paper:
 <br>
-- <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/scripts/victim.activity.R"><code>victim.activity.R</code></a> calculates the proportional activities occurring during a bite incident across categories (provoked, unprovoked, fatal, non-fatal) 
-- <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/scripts/incident.locations.R"><code>victim.activity.R</code></a> creates latitude/longitude location files for importing into GIS software (plot commands not provided) 
-- <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/scripts/period.of.day.R"><code>period.of.day.R</code></a> calculates the period of day (dawn, day, dusk, night) in which an incident occurred (correcting for timezone and location).
+- <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/scripts/incident.locations.R"><code>victim.activity.R</code></a> creates latitude/longitude location files for importing into GIS software (plot commands not provided here; data for Fig. 2)
+- <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/scripts/victim.activity.R"><code>victim.activity.R</code></a> calculates the proportional activities occurring during a bite incident across categories (provoked, unprovoked, fatal, non-fatal) (data for Fig. 3 & 4)
+- <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/scripts/injury.R"><code>injury.R</code></a> shows the position of injuries, and proportion of injuries fatal/non-fatal by main species (data for Fig. 5 & 6)
+- <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/scripts/period.of.day.R"><code>period.of.day.R</code></a> calculates the period of day (dawn, day, dusk, night) in which an incident occurred (correcting for timezone and location) (data for Fig. 7)
 
-Associated data files (available in the <strong><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/tree/main/data">data</a></strong> subfolder) include:
+## Data for figures
+Associated data files (available in the <strong><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/tree/main/data">data</a></strong> subfolder) to summarise data shown in plots in main textinclude:
 <br>
-- <em>activityDat.csv</em>
 - <em>locdat2.txt</em>
+- <em>activityDat.csv</em>
+- <em>injurydat.txt</em>
 - <em>timedb2.txt</em>
 
 ### Requires the following R libraries
