@@ -26,22 +26,15 @@ Accompanies paper revised for <em>Scientific Data</em>:
 We describe the <em>Australian Shark-Incident Database</em>, formerly known as the <em>Australian Shark-Attack File</em>, which contains comprehensive reports of 1,187 shark bites that have occurred in Australia over 232 years (1791–2022). Data were collated by the Taronga Conservation Society Australia using purpose designed questionnaires provided to shark-bite victims or witnesses, media reports, and information provided by the department responsible for fisheries in each Australian state (including the Northern Territory). The dataset includes provoked and unprovoked bites from fresh, brackish, and marine waters in Australia. Data span 22 suspected shark species. This dataset will be publicly available, and can be used by analysts to decipher environmental, biological, and social patterns of shark bites in Australia. The information will aid scientists, conservationists, authorities, and members of the public to make informed decisions when implementing or selecting mitigation measures.
 
 ## Code
-The R script in <code><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/18224b63ad4bcc3ae1bb6d90113f844b8e6657e1/Australian%20Shark-Incident%20Database%20code.R">Australian Shark-Incident Database code.R</a></code> recreates plots from the paper.
-<br>
+The R scripts in the <strong><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/tree/main/scripts">scripts</a></strong> folder recreate plots from the paper:
 <br>
 - <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/scripts/victim.activity.R"><code>victim.activity.R</code></a> calculates the proportional activities occurring during a bite incident across categories (provoked, unprovoked, fatal, non-fatal) 
+- <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/scripts/incident.locations.R"><code>victim.activity.R</code></a> creates latitude/longitude location files for importing into GIS software (plot commands not provided) 
 - <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/scripts/period.of.day.R"><code>period.of.day.R</code></a> calculates the period of day (dawn, day, dusk, night) in which an incident occurred (correcting for timezone and location).
 <br>
 Associated data files (available in the <strong><a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/tree/main/data">data</a></strong> subfolder) include:<br>
-
-- <em>ASID r version.csv</em>
-- <em>ASID_injury_prop.csv</em>
-- <em>tod.ts.csv</em>
-- <em>tod.ws.csv</em>
-- <em>top.3.csv</em>
-- <em>top.sharks.csv</em>
-- <em>total.bites.csv</em>
 - <em>activityDat.csv</em>
+- <em>locdat2.txt</em>
 - <em>timedb2.txt</em>
 
 ### Requires the following R libraries
