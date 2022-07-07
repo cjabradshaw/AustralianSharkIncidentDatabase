@@ -18,7 +18,7 @@ Principal contacts:<br>
 - <strong>Madeline Riley</strong> (née Thiele), <a href="https://twitter.com/SouthernSharkEG">Southern Shark Ecology Group</a> & <a href="https://globalecologyflinders.com/">Global Ecology Lab</a>, Flinders University (<a href="mailto:madeline.thiele@flinders.edu.au">e-mail</a>)
 <br>
 <br>
-Accompanies paper to appear in <em>Scientific Data</em>:
+Accompanies paper published in <em>Scientific Data</em>:
 <br>
 <a href="https://www.linkedin.com/in/madeline-thiele-7704b614a/">MJ Riley</a>, <a href="https://www.linkedin.com/in/phoebe-meagher-471979133/?originalSubdomain=au">P Meagher</a>, <a href="https://www.flinders.edu.au/people/charlie.huveneers">C Huveneers</a>, J Leto, <a href="https://www.dpi.nsw.gov.au/about-us/research-development/staff/staff-profiles/vic-peddemors">VM Peddemors</a>, <a href="https://www.linkedin.com/in/david-slip-b539804b/?originalSubdomain=au">D Slip</a>, <a href="https://taronga.org.au/conservation-and-science/our-team">J West</a>, <a href="https://globalecologyflinders.com/people/">CJA Bradshaw</a>. 2022. <a href="10.1038/s41597-022-01453-9">Data Descriptor: the <em>Australian Shark-Incident Database</em> for quantifying temporal and spatial patterns of shark-human conflict</a>. <em>Scientific Data</em> 9: 378. doi:10.1038/s41597-022-01453-9
 
