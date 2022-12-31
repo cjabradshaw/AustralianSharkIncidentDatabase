@@ -134,7 +134,7 @@ The Excel workbook '<strong><a href="http://doi.org/10.5281/zenodo.5612260">Aust
 - West JG. 2011. <a href="http://dx.doi.org/10.1071/MF10181">Changing patterns of shark attacks in Australian waters</a>. <em>Marine and Freshwater Research</em> 62:744-754 [<a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase/blob/main/pdf/West%202011-MFR.pdf"><strong>PDF</strong></a>]
 
 <a href="https://taronga.org.au"><img align="bottom-left" src="www/tcsa.png" alt="TCSA logo" width="100" style="margin-top: 20px"></a>
-<a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="100" style="margin-top: 20px"></a>
+<a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="200" style="margin-top: 20px"></a>
 <a href="https://twitter.com/SouthernSharkEG"><img align="bottom-left" src="www/SSEG.png" alt="SSEG logo" width="150" style="margin-top: 20px"></a>
 <a href="https://www.dpi.nsw.gov.au"><img align="bottom-center" src="www/NSWDPI.png" alt="NSW DPI logo" width="200" style="margin-top: 50px"></a>
 
